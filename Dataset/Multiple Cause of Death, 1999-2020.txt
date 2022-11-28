@@ -1,0 +1,2245 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	Deaths
+	"Alabama"	"01"	"1999"	"1999"	"Female"	"F"	156
+	"Alabama"	"01"	"1999"	"1999"	"Male"	"M"	635
+	"Alabama"	"01"	"2000"	"2000"	"Female"	"F"	137
+	"Alabama"	"01"	"2000"	"2000"	"Male"	"M"	629
+	"Alabama"	"01"	"2001"	"2001"	"Female"	"F"	130
+	"Alabama"	"01"	"2001"	"2001"	"Male"	"M"	611
+	"Alabama"	"01"	"2002"	"2002"	"Female"	"F"	112
+	"Alabama"	"01"	"2002"	"2002"	"Male"	"M"	613
+	"Alabama"	"01"	"2003"	"2003"	"Female"	"F"	132
+	"Alabama"	"01"	"2003"	"2003"	"Male"	"M"	634
+	"Alabama"	"01"	"2004"	"2004"	"Female"	"F"	117
+	"Alabama"	"01"	"2004"	"2004"	"Male"	"M"	566
+	"Alabama"	"01"	"2005"	"2005"	"Female"	"F"	123
+	"Alabama"	"01"	"2005"	"2005"	"Male"	"M"	614
+	"Alabama"	"01"	"2006"	"2006"	"Female"	"F"	123
+	"Alabama"	"01"	"2006"	"2006"	"Male"	"M"	659
+	"Alabama"	"01"	"2007"	"2007"	"Female"	"F"	143
+	"Alabama"	"01"	"2007"	"2007"	"Male"	"M"	668
+	"Alabama"	"01"	"2008"	"2008"	"Female"	"F"	138
+	"Alabama"	"01"	"2008"	"2008"	"Male"	"M"	682
+	"Alabama"	"01"	"2009"	"2009"	"Female"	"F"	151
+	"Alabama"	"01"	"2009"	"2009"	"Male"	"M"	680
+	"Alabama"	"01"	"2010"	"2010"	"Female"	"F"	127
+	"Alabama"	"01"	"2010"	"2010"	"Male"	"M"	654
+	"Alabama"	"01"	"2011"	"2011"	"Female"	"F"	142
+	"Alabama"	"01"	"2011"	"2011"	"Male"	"M"	644
+	"Alabama"	"01"	"2012"	"2012"	"Female"	"F"	132
+	"Alabama"	"01"	"2012"	"2012"	"Male"	"M"	700
+	"Alabama"	"01"	"2013"	"2013"	"Female"	"F"	139
+	"Alabama"	"01"	"2013"	"2013"	"Male"	"M"	716
+	"Alabama"	"01"	"2014"	"2014"	"Female"	"F"	139
+	"Alabama"	"01"	"2014"	"2014"	"Male"	"M"	674
+	"Alabama"	"01"	"2015"	"2015"	"Female"	"F"	172
+	"Alabama"	"01"	"2015"	"2015"	"Male"	"M"	783
+	"Alabama"	"01"	"2016"	"2016"	"Female"	"F"	180
+	"Alabama"	"01"	"2016"	"2016"	"Male"	"M"	857
+	"Alabama"	"01"	"2017"	"2017"	"Female"	"F"	185
+	"Alabama"	"01"	"2017"	"2017"	"Male"	"M"	937
+	"Alabama"	"01"	"2018"	"2018"	"Female"	"F"	175
+	"Alabama"	"01"	"2018"	"2018"	"Male"	"M"	889
+	"Alabama"	"01"	"2019"	"2019"	"Female"	"F"	183
+	"Alabama"	"01"	"2019"	"2019"	"Male"	"M"	889
+	"Alabama"	"01"	"2020 "	"2020"	"Female"	"F"	177
+	"Alabama"	"01"	"2020 "	"2020"	"Male"	"M"	959
+	"Alaska"	"02"	"1999"	"1999"	"Female"	"F"	16
+	"Alaska"	"02"	"1999"	"1999"	"Male"	"M"	71
+	"Alaska"	"02"	"2000"	"2000"	"Female"	"F"	16
+	"Alaska"	"02"	"2000"	"2000"	"Male"	"M"	100
+	"Alaska"	"02"	"2001"	"2001"	"Female"	"F"	14
+	"Alaska"	"02"	"2001"	"2001"	"Male"	"M"	81
+	"Alaska"	"02"	"2002"	"2002"	"Female"	"F"	34
+	"Alaska"	"02"	"2002"	"2002"	"Male"	"M"	91
+	"Alaska"	"02"	"2003"	"2003"	"Female"	"F"	18
+	"Alaska"	"02"	"2003"	"2003"	"Male"	"M"	102
+	"Alaska"	"02"	"2004"	"2004"	"Female"	"F"	15
+	"Alaska"	"02"	"2004"	"2004"	"Male"	"M"	101
+	"Alaska"	"02"	"2005"	"2005"	"Female"	"F"	18
+	"Alaska"	"02"	"2005"	"2005"	"Male"	"M"	99
+	"Alaska"	"02"	"2006"	"2006"	"Female"	"F"	14
+	"Alaska"	"02"	"2006"	"2006"	"Male"	"M"	98
+	"Alaska"	"02"	"2007"	"2007"	"Female"	"F"	11
+	"Alaska"	"02"	"2007"	"2007"	"Male"	"M"	109
+	"Alaska"	"02"	"2008"	"2008"	"Female"	"F"	17
+	"Alaska"	"02"	"2008"	"2008"	"Male"	"M"	122
+	"Alaska"	"02"	"2009"	"2009"	"Female"	"F"	16
+	"Alaska"	"02"	"2009"	"2009"	"Male"	"M"	86
+	"Alaska"	"02"	"2010"	"2010"	"Female"	"F"	27
+	"Alaska"	"02"	"2010"	"2010"	"Male"	"M"	116
+	"Alaska"	"02"	"2011"	"2011"	"Female"	"F"	24
+	"Alaska"	"02"	"2011"	"2011"	"Male"	"M"	101
+	"Alaska"	"02"	"2012"	"2012"	"Female"	"F"	18
+	"Alaska"	"02"	"2012"	"2012"	"Male"	"M"	111
+	"Alaska"	"02"	"2013"	"2013"	"Female"	"F"	25
+	"Alaska"	"02"	"2013"	"2013"	"Male"	"M"	119
+	"Alaska"	"02"	"2014"	"2014"	"Female"	"F"	22
+	"Alaska"	"02"	"2014"	"2014"	"Male"	"M"	124
+	"Alaska"	"02"	"2015"	"2015"	"Female"	"F"	37
+	"Alaska"	"02"	"2015"	"2015"	"Male"	"M"	138
+	"Alaska"	"02"	"2016"	"2016"	"Female"	"F"	35
+	"Alaska"	"02"	"2016"	"2016"	"Male"	"M"	136
+	"Alaska"	"02"	"2017"	"2017"	"Female"	"F"	29
+	"Alaska"	"02"	"2017"	"2017"	"Male"	"M"	146
+	"Alaska"	"02"	"2018"	"2018"	"Female"	"F"	28
+	"Alaska"	"02"	"2018"	"2018"	"Male"	"M"	123
+	"Alaska"	"02"	"2019"	"2019"	"Female"	"F"	31
+	"Alaska"	"02"	"2019"	"2019"	"Male"	"M"	145
+	"Alaska"	"02"	"2020 "	"2020"	"Female"	"F"	30
+	"Alaska"	"02"	"2020 "	"2020"	"Male"	"M"	140
+	"Arizona"	"04"	"1999"	"1999"	"Female"	"F"	132
+	"Arizona"	"04"	"1999"	"1999"	"Male"	"M"	674
+	"Arizona"	"04"	"2000"	"2000"	"Female"	"F"	112
+	"Arizona"	"04"	"2000"	"2000"	"Male"	"M"	678
+	"Arizona"	"04"	"2001"	"2001"	"Female"	"F"	120
+	"Arizona"	"04"	"2001"	"2001"	"Male"	"M"	712
+	"Arizona"	"04"	"2002"	"2002"	"Female"	"F"	133
+	"Arizona"	"04"	"2002"	"2002"	"Male"	"M"	823
+	"Arizona"	"04"	"2003"	"2003"	"Female"	"F"	124
+	"Arizona"	"04"	"2003"	"2003"	"Male"	"M"	717
+	"Arizona"	"04"	"2004"	"2004"	"Female"	"F"	110
+	"Arizona"	"04"	"2004"	"2004"	"Male"	"M"	770
+	"Arizona"	"04"	"2005"	"2005"	"Female"	"F"	114
+	"Arizona"	"04"	"2005"	"2005"	"Male"	"M"	816
+	"Arizona"	"04"	"2006"	"2006"	"Female"	"F"	139
+	"Arizona"	"04"	"2006"	"2006"	"Male"	"M"	835
+	"Arizona"	"04"	"2007"	"2007"	"Female"	"F"	113
+	"Arizona"	"04"	"2007"	"2007"	"Male"	"M"	825
+	"Arizona"	"04"	"2008"	"2008"	"Female"	"F"	151
+	"Arizona"	"04"	"2008"	"2008"	"Male"	"M"	749
+	"Arizona"	"04"	"2009"	"2009"	"Female"	"F"	160
+	"Arizona"	"04"	"2009"	"2009"	"Male"	"M"	690
+	"Arizona"	"04"	"2010"	"2010"	"Female"	"F"	134
+	"Arizona"	"04"	"2010"	"2010"	"Male"	"M"	787
+	"Arizona"	"04"	"2011"	"2011"	"Female"	"F"	131
+	"Arizona"	"04"	"2011"	"2011"	"Male"	"M"	823
+	"Arizona"	"04"	"2012"	"2012"	"Female"	"F"	154
+	"Arizona"	"04"	"2012"	"2012"	"Male"	"M"	780
+	"Arizona"	"04"	"2013"	"2013"	"Female"	"F"	147
+	"Arizona"	"04"	"2013"	"2013"	"Male"	"M"	782
+	"Arizona"	"04"	"2014"	"2014"	"Female"	"F"	155
+	"Arizona"	"04"	"2014"	"2014"	"Male"	"M"	762
+	"Arizona"	"04"	"2015"	"2015"	"Female"	"F"	167
+	"Arizona"	"04"	"2015"	"2015"	"Male"	"M"	790
+	"Arizona"	"04"	"2016"	"2016"	"Female"	"F"	185
+	"Arizona"	"04"	"2016"	"2016"	"Male"	"M"	897
+	"Arizona"	"04"	"2017"	"2017"	"Female"	"F"	181
+	"Arizona"	"04"	"2017"	"2017"	"Male"	"M"	943
+	"Arizona"	"04"	"2018"	"2018"	"Female"	"F"	151
+	"Arizona"	"04"	"2018"	"2018"	"Male"	"M"	971
+	"Arizona"	"04"	"2019"	"2019"	"Female"	"F"	181
+	"Arizona"	"04"	"2019"	"2019"	"Male"	"M"	943
+	"Arizona"	"04"	"2020 "	"2020"	"Female"	"F"	191
+	"Arizona"	"04"	"2020 "	"2020"	"Male"	"M"	1047
+	"Arkansas"	"05"	"1999"	"1999"	"Female"	"F"	62
+	"Arkansas"	"05"	"1999"	"1999"	"Male"	"M"	327
+	"Arkansas"	"05"	"2000"	"2000"	"Female"	"F"	68
+	"Arkansas"	"05"	"2000"	"2000"	"Male"	"M"	346
+	"Arkansas"	"05"	"2001"	"2001"	"Female"	"F"	65
+	"Arkansas"	"05"	"2001"	"2001"	"Male"	"M"	346
+	"Arkansas"	"05"	"2002"	"2002"	"Female"	"F"	65
+	"Arkansas"	"05"	"2002"	"2002"	"Male"	"M"	376
+	"Arkansas"	"05"	"2003"	"2003"	"Female"	"F"	53
+	"Arkansas"	"05"	"2003"	"2003"	"Male"	"M"	352
+	"Arkansas"	"05"	"2004"	"2004"	"Female"	"F"	60
+	"Arkansas"	"05"	"2004"	"2004"	"Male"	"M"	341
+	"Arkansas"	"05"	"2005"	"2005"	"Female"	"F"	87
+	"Arkansas"	"05"	"2005"	"2005"	"Male"	"M"	350
+	"Arkansas"	"05"	"2006"	"2006"	"Female"	"F"	53
+	"Arkansas"	"05"	"2006"	"2006"	"Male"	"M"	373
+	"Arkansas"	"05"	"2007"	"2007"	"Female"	"F"	69
+	"Arkansas"	"05"	"2007"	"2007"	"Male"	"M"	357
+	"Arkansas"	"05"	"2008"	"2008"	"Female"	"F"	71
+	"Arkansas"	"05"	"2008"	"2008"	"Male"	"M"	373
+	"Arkansas"	"05"	"2009"	"2009"	"Female"	"F"	64
+	"Arkansas"	"05"	"2009"	"2009"	"Male"	"M"	402
+	"Arkansas"	"05"	"2010"	"2010"	"Female"	"F"	68
+	"Arkansas"	"05"	"2010"	"2010"	"Male"	"M"	351
+	"Arkansas"	"05"	"2011"	"2011"	"Female"	"F"	76
+	"Arkansas"	"05"	"2011"	"2011"	"Male"	"M"	385
+	"Arkansas"	"05"	"2012"	"2012"	"Female"	"F"	70
+	"Arkansas"	"05"	"2012"	"2012"	"Male"	"M"	415
+	"Arkansas"	"05"	"2013"	"2013"	"Female"	"F"	75
+	"Arkansas"	"05"	"2013"	"2013"	"Male"	"M"	425
+	"Arkansas"	"05"	"2014"	"2014"	"Female"	"F"	92
+	"Arkansas"	"05"	"2014"	"2014"	"Male"	"M"	404
+	"Arkansas"	"05"	"2015"	"2015"	"Female"	"F"	100
+	"Arkansas"	"05"	"2015"	"2015"	"Male"	"M"	419
+	"Arkansas"	"05"	"2016"	"2016"	"Female"	"F"	102
+	"Arkansas"	"05"	"2016"	"2016"	"Male"	"M"	433
+	"Arkansas"	"05"	"2017"	"2017"	"Female"	"F"	112
+	"Arkansas"	"05"	"2017"	"2017"	"Male"	"M"	497
+	"Arkansas"	"05"	"2018"	"2018"	"Female"	"F"	93
+	"Arkansas"	"05"	"2018"	"2018"	"Male"	"M"	468
+	"Arkansas"	"05"	"2019"	"2019"	"Female"	"F"	95
+	"Arkansas"	"05"	"2019"	"2019"	"Male"	"M"	478
+	"Arkansas"	"05"	"2020 "	"2020"	"Female"	"F"	109
+	"Arkansas"	"05"	"2020 "	"2020"	"Male"	"M"	561
+	"California"	"06"	"1999"	"1999"	"Female"	"F"	408
+	"California"	"06"	"1999"	"1999"	"Male"	"M"	2596
+	"California"	"06"	"2000"	"2000"	"Female"	"F"	395
+	"California"	"06"	"2000"	"2000"	"Male"	"M"	2655
+	"California"	"06"	"2001"	"2001"	"Female"	"F"	390
+	"California"	"06"	"2001"	"2001"	"Male"	"M"	2764
+	"California"	"06"	"2002"	"2002"	"Female"	"F"	407
+	"California"	"06"	"2002"	"2002"	"Male"	"M"	2970
+	"California"	"06"	"2003"	"2003"	"Female"	"F"	378
+	"California"	"06"	"2003"	"2003"	"Male"	"M"	3019
+	"California"	"06"	"2004"	"2004"	"Female"	"F"	366
+	"California"	"06"	"2004"	"2004"	"Male"	"M"	2887
+	"California"	"06"	"2005"	"2005"	"Female"	"F"	349
+	"California"	"06"	"2005"	"2005"	"Male"	"M"	3025
+	"California"	"06"	"2006"	"2006"	"Female"	"F"	366
+	"California"	"06"	"2006"	"2006"	"Male"	"M"	2930
+	"California"	"06"	"2007"	"2007"	"Female"	"F"	379
+	"California"	"06"	"2007"	"2007"	"Male"	"M"	2815
+	"California"	"06"	"2008"	"2008"	"Female"	"F"	355
+	"California"	"06"	"2008"	"2008"	"Male"	"M"	2753
+	"California"	"06"	"2009"	"2009"	"Female"	"F"	333
+	"California"	"06"	"2009"	"2009"	"Male"	"M"	2707
+	"California"	"06"	"2010"	"2010"	"Female"	"F"	358
+	"California"	"06"	"2010"	"2010"	"Male"	"M"	2531
+	"California"	"06"	"2011"	"2011"	"Female"	"F"	361
+	"California"	"06"	"2011"	"2011"	"Male"	"M"	2568
+	"California"	"06"	"2012"	"2012"	"Female"	"F"	343
+	"California"	"06"	"2012"	"2012"	"Male"	"M"	2619
+	"California"	"06"	"2013"	"2013"	"Female"	"F"	352
+	"California"	"06"	"2013"	"2013"	"Male"	"M"	2583
+	"California"	"06"	"2014"	"2014"	"Female"	"F"	337
+	"California"	"06"	"2014"	"2014"	"Male"	"M"	2525
+	"California"	"06"	"2015"	"2015"	"Female"	"F"	333
+	"California"	"06"	"2015"	"2015"	"Male"	"M"	2663
+	"California"	"06"	"2016"	"2016"	"Female"	"F"	362
+	"California"	"06"	"2016"	"2016"	"Male"	"M"	2757
+	"California"	"06"	"2017"	"2017"	"Female"	"F"	376
+	"California"	"06"	"2017"	"2017"	"Male"	"M"	2729
+	"California"	"06"	"2018"	"2018"	"Female"	"F"	359
+	"California"	"06"	"2018"	"2018"	"Male"	"M"	2607
+	"California"	"06"	"2019"	"2019"	"Female"	"F"	345
+	"California"	"06"	"2019"	"2019"	"Male"	"M"	2530
+	"California"	"06"	"2020 "	"2020"	"Female"	"F"	400
+	"California"	"06"	"2020 "	"2020"	"Male"	"M"	2963
+	"Colorado"	"08"	"1999"	"1999"	"Female"	"F"	74
+	"Colorado"	"08"	"1999"	"1999"	"Male"	"M"	381
+	"Colorado"	"08"	"2000"	"2000"	"Female"	"F"	76
+	"Colorado"	"08"	"2000"	"2000"	"Male"	"M"	369
+	"Colorado"	"08"	"2001"	"2001"	"Female"	"F"	77
+	"Colorado"	"08"	"2001"	"2001"	"Male"	"M"	427
+	"Colorado"	"08"	"2002"	"2002"	"Female"	"F"	78
+	"Colorado"	"08"	"2002"	"2002"	"Male"	"M"	431
+	"Colorado"	"08"	"2003"	"2003"	"Female"	"F"	72
+	"Colorado"	"08"	"2003"	"2003"	"Male"	"M"	421
+	"Colorado"	"08"	"2004"	"2004"	"Female"	"F"	83
+	"Colorado"	"08"	"2004"	"2004"	"Male"	"M"	460
+	"Colorado"	"08"	"2005"	"2005"	"Female"	"F"	73
+	"Colorado"	"08"	"2005"	"2005"	"Male"	"M"	454
+	"Colorado"	"08"	"2006"	"2006"	"Female"	"F"	88
+	"Colorado"	"08"	"2006"	"2006"	"Male"	"M"	403
+	"Colorado"	"08"	"2007"	"2007"	"Female"	"F"	64
+	"Colorado"	"08"	"2007"	"2007"	"Male"	"M"	436
+	"Colorado"	"08"	"2008"	"2008"	"Female"	"F"	64
+	"Colorado"	"08"	"2008"	"2008"	"Male"	"M"	447
+	"Colorado"	"08"	"2009"	"2009"	"Female"	"F"	87
+	"Colorado"	"08"	"2009"	"2009"	"Male"	"M"	490
+	"Colorado"	"08"	"2010"	"2010"	"Female"	"F"	80
+	"Colorado"	"08"	"2010"	"2010"	"Male"	"M"	458
+	"Colorado"	"08"	"2011"	"2011"	"Female"	"F"	79
+	"Colorado"	"08"	"2011"	"2011"	"Male"	"M"	484
+	"Colorado"	"08"	"2012"	"2012"	"Female"	"F"	94
+	"Colorado"	"08"	"2012"	"2012"	"Male"	"M"	573
+	"Colorado"	"08"	"2013"	"2013"	"Female"	"F"	97
+	"Colorado"	"08"	"2013"	"2013"	"Male"	"M"	514
+	"Colorado"	"08"	"2014"	"2014"	"Female"	"F"	101
+	"Colorado"	"08"	"2014"	"2014"	"Male"	"M"	552
+	"Colorado"	"08"	"2015"	"2015"	"Female"	"F"	100
+	"Colorado"	"08"	"2015"	"2015"	"Male"	"M"	589
+	"Colorado"	"08"	"2016"	"2016"	"Female"	"F"	126
+	"Colorado"	"08"	"2016"	"2016"	"Male"	"M"	668
+	"Colorado"	"08"	"2017"	"2017"	"Female"	"F"	109
+	"Colorado"	"08"	"2017"	"2017"	"Male"	"M"	655
+	"Colorado"	"08"	"2018"	"2018"	"Female"	"F"	128
+	"Colorado"	"08"	"2018"	"2018"	"Male"	"M"	739
+	"Colorado"	"08"	"2019"	"2019"	"Female"	"F"	133
+	"Colorado"	"08"	"2019"	"2019"	"Male"	"M"	695
+	"Colorado"	"08"	"2020 "	"2020"	"Female"	"F"	120
+	"Colorado"	"08"	"2020 "	"2020"	"Male"	"M"	781
+	"Connecticut"	"09"	"1999"	"1999"	"Female"	"F"	13
+	"Connecticut"	"09"	"1999"	"1999"	"Male"	"M"	184
+	"Connecticut"	"09"	"2000"	"2000"	"Female"	"F"	20
+	"Connecticut"	"09"	"2000"	"2000"	"Male"	"M"	161
+	"Connecticut"	"09"	"2001"	"2001"	"Female"	"F"	14
+	"Connecticut"	"09"	"2001"	"2001"	"Male"	"M"	179
+	"Connecticut"	"09"	"2002"	"2002"	"Female"	"F"	11
+	"Connecticut"	"09"	"2002"	"2002"	"Male"	"M"	135
+	"Connecticut"	"09"	"2003"	"2003"	"Female"	"F"	22
+	"Connecticut"	"09"	"2003"	"2003"	"Male"	"M"	131
+	"Connecticut"	"09"	"2004"	"2004"	"Female"	"F"	20
+	"Connecticut"	"09"	"2004"	"2004"	"Male"	"M"	153
+	"Connecticut"	"09"	"2005"	"2005"	"Female"	"F"	17
+	"Connecticut"	"09"	"2005"	"2005"	"Male"	"M"	170
+	"Connecticut"	"09"	"2006"	"2006"	"Female"	"F"	19
+	"Connecticut"	"09"	"2006"	"2006"	"Male"	"M"	154
+	"Connecticut"	"09"	"2007"	"2007"	"Female"	"F"	19
+	"Connecticut"	"09"	"2007"	"2007"	"Male"	"M"	130
+	"Connecticut"	"09"	"2008"	"2008"	"Female"	"F"	21
+	"Connecticut"	"09"	"2008"	"2008"	"Male"	"M"	178
+	"Connecticut"	"09"	"2009"	"2009"	"Female"	"F"	22
+	"Connecticut"	"09"	"2009"	"2009"	"Male"	"M"	151
+	"Connecticut"	"09"	"2010"	"2010"	"Female"	"F"	18
+	"Connecticut"	"09"	"2010"	"2010"	"Male"	"M"	192
+	"Connecticut"	"09"	"2011"	"2011"	"Female"	"F"	17
+	"Connecticut"	"09"	"2011"	"2011"	"Male"	"M"	193
+	"Connecticut"	"09"	"2012"	"2012"	"Female"	"F"	43
+	"Connecticut"	"09"	"2012"	"2012"	"Male"	"M"	185
+	"Connecticut"	"09"	"2013"	"2013"	"Female"	"F"	Suppressed
+	"Connecticut"	"09"	"2013"	"2013"	"Male"	"M"	149
+	"Connecticut"	"09"	"2014"	"2014"	"Female"	"F"	16
+	"Connecticut"	"09"	"2014"	"2014"	"Male"	"M"	171
+	"Connecticut"	"09"	"2015"	"2015"	"Female"	"F"	22
+	"Connecticut"	"09"	"2015"	"2015"	"Male"	"M"	164
+	"Connecticut"	"09"	"2016"	"2016"	"Female"	"F"	15
+	"Connecticut"	"09"	"2016"	"2016"	"Male"	"M"	155
+	"Connecticut"	"09"	"2017"	"2017"	"Female"	"F"	21
+	"Connecticut"	"09"	"2017"	"2017"	"Male"	"M"	164
+	"Connecticut"	"09"	"2018"	"2018"	"Female"	"F"	21
+	"Connecticut"	"09"	"2018"	"2018"	"Male"	"M"	163
+	"Connecticut"	"09"	"2019"	"2019"	"Female"	"F"	15
+	"Connecticut"	"09"	"2019"	"2019"	"Male"	"M"	171
+	"Connecticut"	"09"	"2020 "	"2020"	"Female"	"F"	24
+	"Connecticut"	"09"	"2020 "	"2020"	"Male"	"M"	190
+	"Delaware"	"10"	"1999"	"1999"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"1999"	"1999"	"Male"	"M"	56
+	"Delaware"	"10"	"2000"	"2000"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2000"	"2000"	"Male"	"M"	43
+	"Delaware"	"10"	"2001"	"2001"	"Female"	"F"	17
+	"Delaware"	"10"	"2001"	"2001"	"Male"	"M"	58
+	"Delaware"	"10"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2002"	"2002"	"Male"	"M"	66
+	"Delaware"	"10"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2003"	"2003"	"Male"	"M"	56
+	"Delaware"	"10"	"2004"	"2004"	"Female"	"F"	11
+	"Delaware"	"10"	"2004"	"2004"	"Male"	"M"	63
+	"Delaware"	"10"	"2005"	"2005"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2005"	"2005"	"Male"	"M"	67
+	"Delaware"	"10"	"2006"	"2006"	"Female"	"F"	11
+	"Delaware"	"10"	"2006"	"2006"	"Male"	"M"	65
+	"Delaware"	"10"	"2007"	"2007"	"Female"	"F"	13
+	"Delaware"	"10"	"2007"	"2007"	"Male"	"M"	65
+	"Delaware"	"10"	"2008"	"2008"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2008"	"2008"	"Male"	"M"	90
+	"Delaware"	"10"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2009"	"2009"	"Male"	"M"	65
+	"Delaware"	"10"	"2010"	"2010"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2010"	"2010"	"Male"	"M"	81
+	"Delaware"	"10"	"2011"	"2011"	"Female"	"F"	13
+	"Delaware"	"10"	"2011"	"2011"	"Male"	"M"	64
+	"Delaware"	"10"	"2012"	"2012"	"Female"	"F"	12
+	"Delaware"	"10"	"2012"	"2012"	"Male"	"M"	80
+	"Delaware"	"10"	"2013"	"2013"	"Female"	"F"	16
+	"Delaware"	"10"	"2013"	"2013"	"Male"	"M"	85
+	"Delaware"	"10"	"2014"	"2014"	"Female"	"F"	Suppressed
+	"Delaware"	"10"	"2014"	"2014"	"Male"	"M"	95
+	"Delaware"	"10"	"2015"	"2015"	"Female"	"F"	16
+	"Delaware"	"10"	"2015"	"2015"	"Male"	"M"	94
+	"Delaware"	"10"	"2016"	"2016"	"Female"	"F"	14
+	"Delaware"	"10"	"2016"	"2016"	"Male"	"M"	98
+	"Delaware"	"10"	"2017"	"2017"	"Female"	"F"	13
+	"Delaware"	"10"	"2017"	"2017"	"Male"	"M"	95
+	"Delaware"	"10"	"2018"	"2018"	"Female"	"F"	16
+	"Delaware"	"10"	"2018"	"2018"	"Male"	"M"	91
+	"Delaware"	"10"	"2019"	"2019"	"Female"	"F"	12
+	"Delaware"	"10"	"2019"	"2019"	"Male"	"M"	79
+	"Delaware"	"10"	"2020 "	"2020"	"Female"	"F"	15
+	"Delaware"	"10"	"2020 "	"2020"	"Male"	"M"	119
+	"District of Columbia"	"11"	"1999"	"1999"	"Female"	"F"	12
+	"District of Columbia"	"11"	"1999"	"1999"	"Male"	"M"	147
+	"District of Columbia"	"11"	"2000"	"2000"	"Female"	"F"	13
+	"District of Columbia"	"11"	"2000"	"2000"	"Male"	"M"	135
+	"District of Columbia"	"11"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2001"	"2001"	"Male"	"M"	161
+	"District of Columbia"	"11"	"2002"	"2002"	"Female"	"F"	22
+	"District of Columbia"	"11"	"2002"	"2002"	"Male"	"M"	173
+	"District of Columbia"	"11"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2003"	"2003"	"Male"	"M"	159
+	"District of Columbia"	"11"	"2004"	"2004"	"Female"	"F"	10
+	"District of Columbia"	"11"	"2004"	"2004"	"Male"	"M"	133
+	"District of Columbia"	"11"	"2005"	"2005"	"Female"	"F"	10
+	"District of Columbia"	"11"	"2005"	"2005"	"Male"	"M"	143
+	"District of Columbia"	"11"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2006"	"2006"	"Male"	"M"	126
+	"District of Columbia"	"11"	"2007"	"2007"	"Female"	"F"	12
+	"District of Columbia"	"11"	"2007"	"2007"	"Male"	"M"	130
+	"District of Columbia"	"11"	"2008"	"2008"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2008"	"2008"	"Male"	"M"	125
+	"District of Columbia"	"11"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2009"	"2009"	"Male"	"M"	101
+	"District of Columbia"	"11"	"2010"	"2010"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2010"	"2010"	"Male"	"M"	93
+	"District of Columbia"	"11"	"2011"	"2011"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2011"	"2011"	"Male"	"M"	79
+	"District of Columbia"	"11"	"2012"	"2012"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2012"	"2012"	"Male"	"M"	61
+	"District of Columbia"	"11"	"2013"	"2013"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2013"	"2013"	"Male"	"M"	64
+	"District of Columbia"	"11"	"2014"	"2014"	"Female"	"F"	11
+	"District of Columbia"	"11"	"2014"	"2014"	"Male"	"M"	70
+	"District of Columbia"	"11"	"2015"	"2015"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2015"	"2015"	"Male"	"M"	109
+	"District of Columbia"	"11"	"2016"	"2016"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2016"	"2016"	"Male"	"M"	97
+	"District of Columbia"	"11"	"2017"	"2017"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2017"	"2017"	"Male"	"M"	90
+	"District of Columbia"	"11"	"2018"	"2018"	"Female"	"F"	11
+	"District of Columbia"	"11"	"2018"	"2018"	"Male"	"M"	114
+	"District of Columbia"	"11"	"2019"	"2019"	"Female"	"F"	Suppressed
+	"District of Columbia"	"11"	"2019"	"2019"	"Male"	"M"	131
+	"District of Columbia"	"11"	"2020 "	"2020"	"Female"	"F"	22
+	"District of Columbia"	"11"	"2020 "	"2020"	"Male"	"M"	145
+	"Florida"	"12"	"1999"	"1999"	"Female"	"F"	305
+	"Florida"	"12"	"1999"	"1999"	"Male"	"M"	1410
+	"Florida"	"12"	"2000"	"2000"	"Female"	"F"	269
+	"Florida"	"12"	"2000"	"2000"	"Male"	"M"	1411
+	"Florida"	"12"	"2001"	"2001"	"Female"	"F"	286
+	"Florida"	"12"	"2001"	"2001"	"Male"	"M"	1525
+	"Florida"	"12"	"2002"	"2002"	"Female"	"F"	304
+	"Florida"	"12"	"2002"	"2002"	"Male"	"M"	1573
+	"Florida"	"12"	"2003"	"2003"	"Female"	"F"	290
+	"Florida"	"12"	"2003"	"2003"	"Male"	"M"	1645
+	"Florida"	"12"	"2004"	"2004"	"Female"	"F"	324
+	"Florida"	"12"	"2004"	"2004"	"Male"	"M"	1558
+	"Florida"	"12"	"2005"	"2005"	"Female"	"F"	291
+	"Florida"	"12"	"2005"	"2005"	"Male"	"M"	1539
+	"Florida"	"12"	"2006"	"2006"	"Female"	"F"	331
+	"Florida"	"12"	"2006"	"2006"	"Male"	"M"	1735
+	"Florida"	"12"	"2007"	"2007"	"Female"	"F"	339
+	"Florida"	"12"	"2007"	"2007"	"Male"	"M"	1915
+	"Florida"	"12"	"2008"	"2008"	"Female"	"F"	352
+	"Florida"	"12"	"2008"	"2008"	"Male"	"M"	1966
+	"Florida"	"12"	"2009"	"2009"	"Female"	"F"	390
+	"Florida"	"12"	"2009"	"2009"	"Male"	"M"	1921
+	"Florida"	"12"	"2010"	"2010"	"Female"	"F"	379
+	"Florida"	"12"	"2010"	"2010"	"Male"	"M"	1873
+	"Florida"	"12"	"2011"	"2011"	"Female"	"F"	365
+	"Florida"	"12"	"2011"	"2011"	"Male"	"M"	1995
+	"Florida"	"12"	"2012"	"2012"	"Female"	"F"	428
+	"Florida"	"12"	"2012"	"2012"	"Male"	"M"	2027
+	"Florida"	"12"	"2013"	"2013"	"Female"	"F"	412
+	"Florida"	"12"	"2013"	"2013"	"Male"	"M"	2012
+	"Florida"	"12"	"2014"	"2014"	"Female"	"F"	358
+	"Florida"	"12"	"2014"	"2014"	"Male"	"M"	2036
+	"Florida"	"12"	"2015"	"2015"	"Female"	"F"	374
+	"Florida"	"12"	"2015"	"2015"	"Male"	"M"	2175
+	"Florida"	"12"	"2016"	"2016"	"Female"	"F"	457
+	"Florida"	"12"	"2016"	"2016"	"Male"	"M"	2236
+	"Florida"	"12"	"2017"	"2017"	"Female"	"F"	428
+	"Florida"	"12"	"2017"	"2017"	"Male"	"M"	2283
+	"Florida"	"12"	"2018"	"2018"	"Female"	"F"	429
+	"Florida"	"12"	"2018"	"2018"	"Male"	"M"	2455
+	"Florida"	"12"	"2019"	"2019"	"Female"	"F"	443
+	"Florida"	"12"	"2019"	"2019"	"Male"	"M"	2409
+	"Florida"	"12"	"2020 "	"2020"	"Female"	"F"	475
+	"Florida"	"12"	"2020 "	"2020"	"Male"	"M"	2521
+	"Georgia"	"13"	"1999"	"1999"	"Female"	"F"	189
+	"Georgia"	"13"	"1999"	"1999"	"Male"	"M"	917
+	"Georgia"	"13"	"2000"	"2000"	"Female"	"F"	193
+	"Georgia"	"13"	"2000"	"2000"	"Male"	"M"	908
+	"Georgia"	"13"	"2001"	"2001"	"Female"	"F"	188
+	"Georgia"	"13"	"2001"	"2001"	"Male"	"M"	932
+	"Georgia"	"13"	"2002"	"2002"	"Female"	"F"	176
+	"Georgia"	"13"	"2002"	"2002"	"Male"	"M"	945
+	"Georgia"	"13"	"2003"	"2003"	"Female"	"F"	195
+	"Georgia"	"13"	"2003"	"2003"	"Male"	"M"	975
+	"Georgia"	"13"	"2004"	"2004"	"Female"	"F"	182
+	"Georgia"	"13"	"2004"	"2004"	"Male"	"M"	879
+	"Georgia"	"13"	"2005"	"2005"	"Female"	"F"	173
+	"Georgia"	"13"	"2005"	"2005"	"Male"	"M"	882
+	"Georgia"	"13"	"2006"	"2006"	"Female"	"F"	184
+	"Georgia"	"13"	"2006"	"2006"	"Male"	"M"	942
+	"Georgia"	"13"	"2007"	"2007"	"Female"	"F"	183
+	"Georgia"	"13"	"2007"	"2007"	"Male"	"M"	1054
+	"Georgia"	"13"	"2008"	"2008"	"Female"	"F"	223
+	"Georgia"	"13"	"2008"	"2008"	"Male"	"M"	950
+	"Georgia"	"13"	"2009"	"2009"	"Female"	"F"	222
+	"Georgia"	"13"	"2009"	"2009"	"Male"	"M"	1021
+	"Georgia"	"13"	"2010"	"2010"	"Female"	"F"	199
+	"Georgia"	"13"	"2010"	"2010"	"Male"	"M"	1020
+	"Georgia"	"13"	"2011"	"2011"	"Female"	"F"	215
+	"Georgia"	"13"	"2011"	"2011"	"Male"	"M"	1005
+	"Georgia"	"13"	"2012"	"2012"	"Female"	"F"	244
+	"Georgia"	"13"	"2012"	"2012"	"Male"	"M"	1031
+	"Georgia"	"13"	"2013"	"2013"	"Female"	"F"	211
+	"Georgia"	"13"	"2013"	"2013"	"Male"	"M"	1038
+	"Georgia"	"13"	"2014"	"2014"	"Female"	"F"	238
+	"Georgia"	"13"	"2014"	"2014"	"Male"	"M"	1148
+	"Georgia"	"13"	"2015"	"2015"	"Female"	"F"	251
+	"Georgia"	"13"	"2015"	"2015"	"Male"	"M"	1186
+	"Georgia"	"13"	"2016"	"2016"	"Female"	"F"	242
+	"Georgia"	"13"	"2016"	"2016"	"Male"	"M"	1317
+	"Georgia"	"13"	"2017"	"2017"	"Female"	"F"	265
+	"Georgia"	"13"	"2017"	"2017"	"Male"	"M"	1340
+	"Georgia"	"13"	"2018"	"2018"	"Female"	"F"	287
+	"Georgia"	"13"	"2018"	"2018"	"Male"	"M"	1372
+	"Georgia"	"13"	"2019"	"2019"	"Female"	"F"	276
+	"Georgia"	"13"	"2019"	"2019"	"Male"	"M"	1412
+	"Georgia"	"13"	"2020 "	"2020"	"Female"	"F"	285
+	"Georgia"	"13"	"2020 "	"2020"	"Male"	"M"	1590
+	"Hawaii"	"15"	"1999"	"1999"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"1999"	"1999"	"Male"	"M"	40
+	"Hawaii"	"15"	"2000"	"2000"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2000"	"2000"	"Male"	"M"	45
+	"Hawaii"	"15"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2001"	"2001"	"Male"	"M"	37
+	"Hawaii"	"15"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2002"	"2002"	"Male"	"M"	30
+	"Hawaii"	"15"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2003"	"2003"	"Male"	"M"	30
+	"Hawaii"	"15"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2004"	"2004"	"Male"	"M"	35
+	"Hawaii"	"15"	"2005"	"2005"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2005"	"2005"	"Male"	"M"	23
+	"Hawaii"	"15"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2006"	"2006"	"Male"	"M"	26
+	"Hawaii"	"15"	"2007"	"2007"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2007"	"2007"	"Male"	"M"	33
+	"Hawaii"	"15"	"2008"	"2008"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2008"	"2008"	"Male"	"M"	33
+	"Hawaii"	"15"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2009"	"2009"	"Male"	"M"	40
+	"Hawaii"	"15"	"2010"	"2010"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2010"	"2010"	"Male"	"M"	38
+	"Hawaii"	"15"	"2011"	"2011"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2011"	"2011"	"Male"	"M"	39
+	"Hawaii"	"15"	"2012"	"2012"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2012"	"2012"	"Male"	"M"	46
+	"Hawaii"	"15"	"2013"	"2013"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2013"	"2013"	"Male"	"M"	29
+	"Hawaii"	"15"	"2014"	"2014"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2014"	"2014"	"Male"	"M"	36
+	"Hawaii"	"15"	"2015"	"2015"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2015"	"2015"	"Male"	"M"	51
+	"Hawaii"	"15"	"2016"	"2016"	"Female"	"F"	13
+	"Hawaii"	"15"	"2016"	"2016"	"Male"	"M"	51
+	"Hawaii"	"15"	"2017"	"2017"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2017"	"2017"	"Male"	"M"	31
+	"Hawaii"	"15"	"2018"	"2018"	"Female"	"F"	10
+	"Hawaii"	"15"	"2018"	"2018"	"Male"	"M"	43
+	"Hawaii"	"15"	"2019"	"2019"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2019"	"2019"	"Male"	"M"	50
+	"Hawaii"	"15"	"2020 "	"2020"	"Female"	"F"	Suppressed
+	"Hawaii"	"15"	"2020 "	"2020"	"Male"	"M"	45
+	"Idaho"	"16"	"1999"	"1999"	"Female"	"F"	23
+	"Idaho"	"16"	"1999"	"1999"	"Male"	"M"	130
+	"Idaho"	"16"	"2000"	"2000"	"Female"	"F"	18
+	"Idaho"	"16"	"2000"	"2000"	"Male"	"M"	107
+	"Idaho"	"16"	"2001"	"2001"	"Female"	"F"	33
+	"Idaho"	"16"	"2001"	"2001"	"Male"	"M"	140
+	"Idaho"	"16"	"2002"	"2002"	"Female"	"F"	16
+	"Idaho"	"16"	"2002"	"2002"	"Male"	"M"	146
+	"Idaho"	"16"	"2003"	"2003"	"Female"	"F"	19
+	"Idaho"	"16"	"2003"	"2003"	"Male"	"M"	143
+	"Idaho"	"16"	"2004"	"2004"	"Female"	"F"	20
+	"Idaho"	"16"	"2004"	"2004"	"Male"	"M"	155
+	"Idaho"	"16"	"2005"	"2005"	"Female"	"F"	23
+	"Idaho"	"16"	"2005"	"2005"	"Male"	"M"	171
+	"Idaho"	"16"	"2006"	"2006"	"Female"	"F"	26
+	"Idaho"	"16"	"2006"	"2006"	"Male"	"M"	152
+	"Idaho"	"16"	"2007"	"2007"	"Female"	"F"	18
+	"Idaho"	"16"	"2007"	"2007"	"Male"	"M"	165
+	"Idaho"	"16"	"2008"	"2008"	"Female"	"F"	24
+	"Idaho"	"16"	"2008"	"2008"	"Male"	"M"	146
+	"Idaho"	"16"	"2009"	"2009"	"Female"	"F"	29
+	"Idaho"	"16"	"2009"	"2009"	"Male"	"M"	163
+	"Idaho"	"16"	"2010"	"2010"	"Female"	"F"	24
+	"Idaho"	"16"	"2010"	"2010"	"Male"	"M"	174
+	"Idaho"	"16"	"2011"	"2011"	"Female"	"F"	27
+	"Idaho"	"16"	"2011"	"2011"	"Male"	"M"	163
+	"Idaho"	"16"	"2012"	"2012"	"Female"	"F"	28
+	"Idaho"	"16"	"2012"	"2012"	"Male"	"M"	176
+	"Idaho"	"16"	"2013"	"2013"	"Female"	"F"	36
+	"Idaho"	"16"	"2013"	"2013"	"Male"	"M"	191
+	"Idaho"	"16"	"2014"	"2014"	"Female"	"F"	37
+	"Idaho"	"16"	"2014"	"2014"	"Male"	"M"	172
+	"Idaho"	"16"	"2015"	"2015"	"Female"	"F"	38
+	"Idaho"	"16"	"2015"	"2015"	"Male"	"M"	208
+	"Idaho"	"16"	"2016"	"2016"	"Female"	"F"	39
+	"Idaho"	"16"	"2016"	"2016"	"Male"	"M"	197
+	"Idaho"	"16"	"2017"	"2017"	"Female"	"F"	37
+	"Idaho"	"16"	"2017"	"2017"	"Male"	"M"	241
+	"Idaho"	"16"	"2018"	"2018"	"Female"	"F"	51
+	"Idaho"	"16"	"2018"	"2018"	"Male"	"M"	236
+	"Idaho"	"16"	"2019"	"2019"	"Female"	"F"	40
+	"Idaho"	"16"	"2019"	"2019"	"Male"	"M"	208
+	"Idaho"	"16"	"2020 "	"2020"	"Female"	"F"	44
+	"Idaho"	"16"	"2020 "	"2020"	"Male"	"M"	268
+	"Illinois"	"17"	"1999"	"1999"	"Female"	"F"	126
+	"Illinois"	"17"	"1999"	"1999"	"Male"	"M"	1081
+	"Illinois"	"17"	"2000"	"2000"	"Female"	"F"	110
+	"Illinois"	"17"	"2000"	"2000"	"Male"	"M"	1021
+	"Illinois"	"17"	"2001"	"2001"	"Female"	"F"	137
+	"Illinois"	"17"	"2001"	"2001"	"Male"	"M"	1146
+	"Illinois"	"17"	"2002"	"2002"	"Female"	"F"	119
+	"Illinois"	"17"	"2002"	"2002"	"Male"	"M"	1115
+	"Illinois"	"17"	"2003"	"2003"	"Female"	"F"	103
+	"Illinois"	"17"	"2003"	"2003"	"Male"	"M"	1043
+	"Illinois"	"17"	"2004"	"2004"	"Female"	"F"	115
+	"Illinois"	"17"	"2004"	"2004"	"Male"	"M"	878
+	"Illinois"	"17"	"2005"	"2005"	"Female"	"F"	115
+	"Illinois"	"17"	"2005"	"2005"	"Male"	"M"	907
+	"Illinois"	"17"	"2006"	"2006"	"Female"	"F"	99
+	"Illinois"	"17"	"2006"	"2006"	"Male"	"M"	936
+	"Illinois"	"17"	"2007"	"2007"	"Female"	"F"	102
+	"Illinois"	"17"	"2007"	"2007"	"Male"	"M"	924
+	"Illinois"	"17"	"2008"	"2008"	"Female"	"F"	99
+	"Illinois"	"17"	"2008"	"2008"	"Male"	"M"	1002
+	"Illinois"	"17"	"2009"	"2009"	"Female"	"F"	103
+	"Illinois"	"17"	"2009"	"2009"	"Male"	"M"	946
+	"Illinois"	"17"	"2010"	"2010"	"Female"	"F"	100
+	"Illinois"	"17"	"2010"	"2010"	"Male"	"M"	959
+	"Illinois"	"17"	"2011"	"2011"	"Female"	"F"	96
+	"Illinois"	"17"	"2011"	"2011"	"Male"	"M"	1002
+	"Illinois"	"17"	"2012"	"2012"	"Female"	"F"	120
+	"Illinois"	"17"	"2012"	"2012"	"Male"	"M"	1049
+	"Illinois"	"17"	"2013"	"2013"	"Female"	"F"	122
+	"Illinois"	"17"	"2013"	"2013"	"Male"	"M"	984
+	"Illinois"	"17"	"2014"	"2014"	"Female"	"F"	111
+	"Illinois"	"17"	"2014"	"2014"	"Male"	"M"	1059
+	"Illinois"	"17"	"2015"	"2015"	"Female"	"F"	116
+	"Illinois"	"17"	"2015"	"2015"	"Male"	"M"	1094
+	"Illinois"	"17"	"2016"	"2016"	"Female"	"F"	137
+	"Illinois"	"17"	"2016"	"2016"	"Male"	"M"	1340
+	"Illinois"	"17"	"2017"	"2017"	"Female"	"F"	156
+	"Illinois"	"17"	"2017"	"2017"	"Male"	"M"	1380
+	"Illinois"	"17"	"2018"	"2018"	"Female"	"F"	160
+	"Illinois"	"17"	"2018"	"2018"	"Male"	"M"	1216
+	"Illinois"	"17"	"2019"	"2019"	"Female"	"F"	159
+	"Illinois"	"17"	"2019"	"2019"	"Male"	"M"	1209
+	"Illinois"	"17"	"2020 "	"2020"	"Female"	"F"	170
+	"Illinois"	"17"	"2020 "	"2020"	"Male"	"M"	1570
+	"Indiana"	"18"	"1999"	"1999"	"Female"	"F"	94
+	"Indiana"	"18"	"1999"	"1999"	"Male"	"M"	582
+	"Indiana"	"18"	"2000"	"2000"	"Female"	"F"	88
+	"Indiana"	"18"	"2000"	"2000"	"Male"	"M"	584
+	"Indiana"	"18"	"2001"	"2001"	"Female"	"F"	130
+	"Indiana"	"18"	"2001"	"2001"	"Male"	"M"	604
+	"Indiana"	"18"	"2002"	"2002"	"Female"	"F"	111
+	"Indiana"	"18"	"2002"	"2002"	"Male"	"M"	609
+	"Indiana"	"18"	"2003"	"2003"	"Female"	"F"	102
+	"Indiana"	"18"	"2003"	"2003"	"Male"	"M"	592
+	"Indiana"	"18"	"2004"	"2004"	"Female"	"F"	90
+	"Indiana"	"18"	"2004"	"2004"	"Male"	"M"	544
+	"Indiana"	"18"	"2005"	"2005"	"Female"	"F"	86
+	"Indiana"	"18"	"2005"	"2005"	"Male"	"M"	610
+	"Indiana"	"18"	"2006"	"2006"	"Female"	"F"	93
+	"Indiana"	"18"	"2006"	"2006"	"Male"	"M"	646
+	"Indiana"	"18"	"2007"	"2007"	"Female"	"F"	111
+	"Indiana"	"18"	"2007"	"2007"	"Male"	"M"	556
+	"Indiana"	"18"	"2008"	"2008"	"Female"	"F"	114
+	"Indiana"	"18"	"2008"	"2008"	"Male"	"M"	606
+	"Indiana"	"18"	"2009"	"2009"	"Female"	"F"	88
+	"Indiana"	"18"	"2009"	"2009"	"Male"	"M"	647
+	"Indiana"	"18"	"2010"	"2010"	"Female"	"F"	104
+	"Indiana"	"18"	"2010"	"2010"	"Male"	"M"	601
+	"Indiana"	"18"	"2011"	"2011"	"Female"	"F"	94
+	"Indiana"	"18"	"2011"	"2011"	"Male"	"M"	537
+	"Indiana"	"18"	"2012"	"2012"	"Female"	"F"	119
+	"Indiana"	"18"	"2012"	"2012"	"Male"	"M"	672
+	"Indiana"	"18"	"2013"	"2013"	"Female"	"F"	121
+	"Indiana"	"18"	"2013"	"2013"	"Male"	"M"	723
+	"Indiana"	"18"	"2014"	"2014"	"Female"	"F"	99
+	"Indiana"	"18"	"2014"	"2014"	"Male"	"M"	717
+	"Indiana"	"18"	"2015"	"2015"	"Female"	"F"	124
+	"Indiana"	"18"	"2015"	"2015"	"Male"	"M"	712
+	"Indiana"	"18"	"2016"	"2016"	"Female"	"F"	146
+	"Indiana"	"18"	"2016"	"2016"	"Male"	"M"	840
+	"Indiana"	"18"	"2017"	"2017"	"Female"	"F"	142
+	"Indiana"	"18"	"2017"	"2017"	"Male"	"M"	869
+	"Indiana"	"18"	"2018"	"2018"	"Female"	"F"	172
+	"Indiana"	"18"	"2018"	"2018"	"Male"	"M"	797
+	"Indiana"	"18"	"2019"	"2019"	"Female"	"F"	125
+	"Indiana"	"18"	"2019"	"2019"	"Male"	"M"	830
+	"Indiana"	"18"	"2020 "	"2020"	"Female"	"F"	169
+	"Indiana"	"18"	"2020 "	"2020"	"Male"	"M"	975
+	"Iowa"	"19"	"1999"	"1999"	"Female"	"F"	27
+	"Iowa"	"19"	"1999"	"1999"	"Male"	"M"	180
+	"Iowa"	"19"	"2000"	"2000"	"Female"	"F"	19
+	"Iowa"	"19"	"2000"	"2000"	"Male"	"M"	173
+	"Iowa"	"19"	"2001"	"2001"	"Female"	"F"	14
+	"Iowa"	"19"	"2001"	"2001"	"Male"	"M"	175
+	"Iowa"	"19"	"2002"	"2002"	"Female"	"F"	27
+	"Iowa"	"19"	"2002"	"2002"	"Male"	"M"	169
+	"Iowa"	"19"	"2003"	"2003"	"Female"	"F"	24
+	"Iowa"	"19"	"2003"	"2003"	"Male"	"M"	182
+	"Iowa"	"19"	"2004"	"2004"	"Female"	"F"	14
+	"Iowa"	"19"	"2004"	"2004"	"Male"	"M"	176
+	"Iowa"	"19"	"2005"	"2005"	"Female"	"F"	27
+	"Iowa"	"19"	"2005"	"2005"	"Male"	"M"	174
+	"Iowa"	"19"	"2006"	"2006"	"Female"	"F"	30
+	"Iowa"	"19"	"2006"	"2006"	"Male"	"M"	163
+	"Iowa"	"19"	"2007"	"2007"	"Female"	"F"	12
+	"Iowa"	"19"	"2007"	"2007"	"Male"	"M"	142
+	"Iowa"	"19"	"2008"	"2008"	"Female"	"F"	27
+	"Iowa"	"19"	"2008"	"2008"	"Male"	"M"	196
+	"Iowa"	"19"	"2009"	"2009"	"Female"	"F"	18
+	"Iowa"	"19"	"2009"	"2009"	"Male"	"M"	174
+	"Iowa"	"19"	"2010"	"2010"	"Female"	"F"	33
+	"Iowa"	"19"	"2010"	"2010"	"Male"	"M"	181
+	"Iowa"	"19"	"2011"	"2011"	"Female"	"F"	27
+	"Iowa"	"19"	"2011"	"2011"	"Male"	"M"	193
+	"Iowa"	"19"	"2012"	"2012"	"Female"	"F"	35
+	"Iowa"	"19"	"2012"	"2012"	"Male"	"M"	181
+	"Iowa"	"19"	"2013"	"2013"	"Female"	"F"	32
+	"Iowa"	"19"	"2013"	"2013"	"Male"	"M"	219
+	"Iowa"	"19"	"2014"	"2014"	"Female"	"F"	33
+	"Iowa"	"19"	"2014"	"2014"	"Male"	"M"	203
+	"Iowa"	"19"	"2015"	"2015"	"Female"	"F"	40
+	"Iowa"	"19"	"2015"	"2015"	"Male"	"M"	205
+	"Iowa"	"19"	"2016"	"2016"	"Female"	"F"	31
+	"Iowa"	"19"	"2016"	"2016"	"Male"	"M"	259
+	"Iowa"	"19"	"2017"	"2017"	"Female"	"F"	23
+	"Iowa"	"19"	"2017"	"2017"	"Male"	"M"	269
+	"Iowa"	"19"	"2018"	"2018"	"Female"	"F"	29
+	"Iowa"	"19"	"2018"	"2018"	"Male"	"M"	252
+	"Iowa"	"19"	"2019"	"2019"	"Female"	"F"	34
+	"Iowa"	"19"	"2019"	"2019"	"Male"	"M"	256
+	"Iowa"	"19"	"2020 "	"2020"	"Female"	"F"	44
+	"Iowa"	"19"	"2020 "	"2020"	"Male"	"M"	308
+	"Kansas"	"20"	"1999"	"1999"	"Female"	"F"	40
+	"Kansas"	"20"	"1999"	"1999"	"Male"	"M"	231
+	"Kansas"	"20"	"2000"	"2000"	"Female"	"F"	41
+	"Kansas"	"20"	"2000"	"2000"	"Male"	"M"	258
+	"Kansas"	"20"	"2001"	"2001"	"Female"	"F"	45
+	"Kansas"	"20"	"2001"	"2001"	"Male"	"M"	222
+	"Kansas"	"20"	"2002"	"2002"	"Female"	"F"	40
+	"Kansas"	"20"	"2002"	"2002"	"Male"	"M"	229
+	"Kansas"	"20"	"2003"	"2003"	"Female"	"F"	41
+	"Kansas"	"20"	"2003"	"2003"	"Male"	"M"	257
+	"Kansas"	"20"	"2004"	"2004"	"Female"	"F"	50
+	"Kansas"	"20"	"2004"	"2004"	"Male"	"M"	242
+	"Kansas"	"20"	"2005"	"2005"	"Female"	"F"	27
+	"Kansas"	"20"	"2005"	"2005"	"Male"	"M"	228
+	"Kansas"	"20"	"2006"	"2006"	"Female"	"F"	39
+	"Kansas"	"20"	"2006"	"2006"	"Male"	"M"	252
+	"Kansas"	"20"	"2007"	"2007"	"Female"	"F"	33
+	"Kansas"	"20"	"2007"	"2007"	"Male"	"M"	256
+	"Kansas"	"20"	"2008"	"2008"	"Female"	"F"	30
+	"Kansas"	"20"	"2008"	"2008"	"Male"	"M"	245
+	"Kansas"	"20"	"2009"	"2009"	"Female"	"F"	41
+	"Kansas"	"20"	"2009"	"2009"	"Male"	"M"	259
+	"Kansas"	"20"	"2010"	"2010"	"Female"	"F"	37
+	"Kansas"	"20"	"2010"	"2010"	"Male"	"M"	255
+	"Kansas"	"20"	"2011"	"2011"	"Female"	"F"	56
+	"Kansas"	"20"	"2011"	"2011"	"Male"	"M"	268
+	"Kansas"	"20"	"2012"	"2012"	"Female"	"F"	47
+	"Kansas"	"20"	"2012"	"2012"	"Male"	"M"	326
+	"Kansas"	"20"	"2013"	"2013"	"Female"	"F"	42
+	"Kansas"	"20"	"2013"	"2013"	"Male"	"M"	286
+	"Kansas"	"20"	"2014"	"2014"	"Female"	"F"	44
+	"Kansas"	"20"	"2014"	"2014"	"Male"	"M"	276
+	"Kansas"	"20"	"2015"	"2015"	"Female"	"F"	49
+	"Kansas"	"20"	"2015"	"2015"	"Male"	"M"	277
+	"Kansas"	"20"	"2016"	"2016"	"Female"	"F"	50
+	"Kansas"	"20"	"2016"	"2016"	"Male"	"M"	332
+	"Kansas"	"20"	"2017"	"2017"	"Female"	"F"	70
+	"Kansas"	"20"	"2017"	"2017"	"Male"	"M"	395
+	"Kansas"	"20"	"2018"	"2018"	"Female"	"F"	60
+	"Kansas"	"20"	"2018"	"2018"	"Male"	"M"	364
+	"Kansas"	"20"	"2019"	"2019"	"Female"	"F"	50
+	"Kansas"	"20"	"2019"	"2019"	"Male"	"M"	349
+	"Kansas"	"20"	"2020 "	"2020"	"Female"	"F"	68
+	"Kansas"	"20"	"2020 "	"2020"	"Male"	"M"	423
+	"Kentucky"	"21"	"1999"	"1999"	"Female"	"F"	86
+	"Kentucky"	"21"	"1999"	"1999"	"Male"	"M"	440
+	"Kentucky"	"21"	"2000"	"2000"	"Female"	"F"	85
+	"Kentucky"	"21"	"2000"	"2000"	"Male"	"M"	460
+	"Kentucky"	"21"	"2001"	"2001"	"Female"	"F"	73
+	"Kentucky"	"21"	"2001"	"2001"	"Male"	"M"	451
+	"Kentucky"	"21"	"2002"	"2002"	"Female"	"F"	87
+	"Kentucky"	"21"	"2002"	"2002"	"Male"	"M"	456
+	"Kentucky"	"21"	"2003"	"2003"	"Female"	"F"	79
+	"Kentucky"	"21"	"2003"	"2003"	"Male"	"M"	479
+	"Kentucky"	"21"	"2004"	"2004"	"Female"	"F"	93
+	"Kentucky"	"21"	"2004"	"2004"	"Male"	"M"	460
+	"Kentucky"	"21"	"2005"	"2005"	"Female"	"F"	97
+	"Kentucky"	"21"	"2005"	"2005"	"Male"	"M"	448
+	"Kentucky"	"21"	"2006"	"2006"	"Female"	"F"	69
+	"Kentucky"	"21"	"2006"	"2006"	"Male"	"M"	461
+	"Kentucky"	"21"	"2007"	"2007"	"Female"	"F"	100
+	"Kentucky"	"21"	"2007"	"2007"	"Male"	"M"	514
+	"Kentucky"	"21"	"2008"	"2008"	"Female"	"F"	84
+	"Kentucky"	"21"	"2008"	"2008"	"Male"	"M"	492
+	"Kentucky"	"21"	"2009"	"2009"	"Female"	"F"	105
+	"Kentucky"	"21"	"2009"	"2009"	"Male"	"M"	453
+	"Kentucky"	"21"	"2010"	"2010"	"Female"	"F"	80
+	"Kentucky"	"21"	"2010"	"2010"	"Male"	"M"	473
+	"Kentucky"	"21"	"2011"	"2011"	"Female"	"F"	95
+	"Kentucky"	"21"	"2011"	"2011"	"Male"	"M"	515
+	"Kentucky"	"21"	"2012"	"2012"	"Female"	"F"	116
+	"Kentucky"	"21"	"2012"	"2012"	"Male"	"M"	531
+	"Kentucky"	"21"	"2013"	"2013"	"Female"	"F"	122
+	"Kentucky"	"21"	"2013"	"2013"	"Male"	"M"	499
+	"Kentucky"	"21"	"2014"	"2014"	"Female"	"F"	114
+	"Kentucky"	"21"	"2014"	"2014"	"Male"	"M"	517
+	"Kentucky"	"21"	"2015"	"2015"	"Female"	"F"	111
+	"Kentucky"	"21"	"2015"	"2015"	"Male"	"M"	574
+	"Kentucky"	"21"	"2016"	"2016"	"Female"	"F"	139
+	"Kentucky"	"21"	"2016"	"2016"	"Male"	"M"	621
+	"Kentucky"	"21"	"2017"	"2017"	"Female"	"F"	115
+	"Kentucky"	"21"	"2017"	"2017"	"Male"	"M"	608
+	"Kentucky"	"21"	"2018"	"2018"	"Female"	"F"	116
+	"Kentucky"	"21"	"2018"	"2018"	"Male"	"M"	641
+	"Kentucky"	"21"	"2019"	"2019"	"Female"	"F"	107
+	"Kentucky"	"21"	"2019"	"2019"	"Male"	"M"	571
+	"Kentucky"	"21"	"2020 "	"2020"	"Female"	"F"	139
+	"Kentucky"	"21"	"2020 "	"2020"	"Male"	"M"	753
+	"Louisiana"	"22"	"1999"	"1999"	"Female"	"F"	126
+	"Louisiana"	"22"	"1999"	"1999"	"Male"	"M"	650
+	"Louisiana"	"22"	"2000"	"2000"	"Female"	"F"	110
+	"Louisiana"	"22"	"2000"	"2000"	"Male"	"M"	680
+	"Louisiana"	"22"	"2001"	"2001"	"Female"	"F"	123
+	"Louisiana"	"22"	"2001"	"2001"	"Male"	"M"	660
+	"Louisiana"	"22"	"2002"	"2002"	"Female"	"F"	127
+	"Louisiana"	"22"	"2002"	"2002"	"Male"	"M"	745
+	"Louisiana"	"22"	"2003"	"2003"	"Female"	"F"	118
+	"Louisiana"	"22"	"2003"	"2003"	"Male"	"M"	725
+	"Louisiana"	"22"	"2004"	"2004"	"Female"	"F"	121
+	"Louisiana"	"22"	"2004"	"2004"	"Male"	"M"	781
+	"Louisiana"	"22"	"2005"	"2005"	"Female"	"F"	133
+	"Louisiana"	"22"	"2005"	"2005"	"Male"	"M"	722
+	"Louisiana"	"22"	"2006"	"2006"	"Female"	"F"	124
+	"Louisiana"	"22"	"2006"	"2006"	"Male"	"M"	706
+	"Louisiana"	"22"	"2007"	"2007"	"Female"	"F"	129
+	"Louisiana"	"22"	"2007"	"2007"	"Male"	"M"	739
+	"Louisiana"	"22"	"2008"	"2008"	"Female"	"F"	126
+	"Louisiana"	"22"	"2008"	"2008"	"Male"	"M"	700
+	"Louisiana"	"22"	"2009"	"2009"	"Female"	"F"	118
+	"Louisiana"	"22"	"2009"	"2009"	"Male"	"M"	691
+	"Louisiana"	"22"	"2010"	"2010"	"Female"	"F"	123
+	"Louisiana"	"22"	"2010"	"2010"	"Male"	"M"	741
+	"Louisiana"	"22"	"2011"	"2011"	"Female"	"F"	143
+	"Louisiana"	"22"	"2011"	"2011"	"Male"	"M"	727
+	"Louisiana"	"22"	"2012"	"2012"	"Female"	"F"	139
+	"Louisiana"	"22"	"2012"	"2012"	"Male"	"M"	716
+	"Louisiana"	"22"	"2013"	"2013"	"Female"	"F"	123
+	"Louisiana"	"22"	"2013"	"2013"	"Male"	"M"	761
+	"Louisiana"	"22"	"2014"	"2014"	"Female"	"F"	163
+	"Louisiana"	"22"	"2014"	"2014"	"Male"	"M"	729
+	"Louisiana"	"22"	"2015"	"2015"	"Female"	"F"	141
+	"Louisiana"	"22"	"2015"	"2015"	"Male"	"M"	811
+	"Louisiana"	"22"	"2016"	"2016"	"Female"	"F"	162
+	"Louisiana"	"22"	"2016"	"2016"	"Male"	"M"	823
+	"Louisiana"	"22"	"2017"	"2017"	"Female"	"F"	158
+	"Louisiana"	"22"	"2017"	"2017"	"Male"	"M"	842
+	"Louisiana"	"22"	"2018"	"2018"	"Female"	"F"	150
+	"Louisiana"	"22"	"2018"	"2018"	"Male"	"M"	838
+	"Louisiana"	"22"	"2019"	"2019"	"Female"	"F"	155
+	"Louisiana"	"22"	"2019"	"2019"	"Male"	"M"	857
+	"Louisiana"	"22"	"2020 "	"2020"	"Female"	"F"	166
+	"Louisiana"	"22"	"2020 "	"2020"	"Male"	"M"	1013
+	"Maine"	"23"	"1999"	"1999"	"Female"	"F"	18
+	"Maine"	"23"	"1999"	"1999"	"Male"	"M"	94
+	"Maine"	"23"	"2000"	"2000"	"Female"	"F"	14
+	"Maine"	"23"	"2000"	"2000"	"Male"	"M"	96
+	"Maine"	"23"	"2001"	"2001"	"Female"	"F"	17
+	"Maine"	"23"	"2001"	"2001"	"Male"	"M"	81
+	"Maine"	"23"	"2002"	"2002"	"Female"	"F"	11
+	"Maine"	"23"	"2002"	"2002"	"Male"	"M"	76
+	"Maine"	"23"	"2003"	"2003"	"Female"	"F"	11
+	"Maine"	"23"	"2003"	"2003"	"Male"	"M"	70
+	"Maine"	"23"	"2004"	"2004"	"Female"	"F"	13
+	"Maine"	"23"	"2004"	"2004"	"Male"	"M"	95
+	"Maine"	"23"	"2005"	"2005"	"Female"	"F"	12
+	"Maine"	"23"	"2005"	"2005"	"Male"	"M"	98
+	"Maine"	"23"	"2006"	"2006"	"Female"	"F"	17
+	"Maine"	"23"	"2006"	"2006"	"Male"	"M"	86
+	"Maine"	"23"	"2007"	"2007"	"Female"	"F"	12
+	"Maine"	"23"	"2007"	"2007"	"Male"	"M"	94
+	"Maine"	"23"	"2008"	"2008"	"Female"	"F"	15
+	"Maine"	"23"	"2008"	"2008"	"Male"	"M"	104
+	"Maine"	"23"	"2009"	"2009"	"Female"	"F"	17
+	"Maine"	"23"	"2009"	"2009"	"Male"	"M"	104
+	"Maine"	"23"	"2010"	"2010"	"Female"	"F"	12
+	"Maine"	"23"	"2010"	"2010"	"Male"	"M"	97
+	"Maine"	"23"	"2011"	"2011"	"Female"	"F"	22
+	"Maine"	"23"	"2011"	"2011"	"Male"	"M"	109
+	"Maine"	"23"	"2012"	"2012"	"Female"	"F"	15
+	"Maine"	"23"	"2012"	"2012"	"Male"	"M"	114
+	"Maine"	"23"	"2013"	"2013"	"Female"	"F"	21
+	"Maine"	"23"	"2013"	"2013"	"Male"	"M"	133
+	"Maine"	"23"	"2014"	"2014"	"Female"	"F"	16
+	"Maine"	"23"	"2014"	"2014"	"Male"	"M"	113
+	"Maine"	"23"	"2015"	"2015"	"Female"	"F"	19
+	"Maine"	"23"	"2015"	"2015"	"Male"	"M"	123
+	"Maine"	"23"	"2016"	"2016"	"Female"	"F"	11
+	"Maine"	"23"	"2016"	"2016"	"Male"	"M"	111
+	"Maine"	"23"	"2017"	"2017"	"Female"	"F"	23
+	"Maine"	"23"	"2017"	"2017"	"Male"	"M"	143
+	"Maine"	"23"	"2018"	"2018"	"Female"	"F"	18
+	"Maine"	"23"	"2018"	"2018"	"Male"	"M"	139
+	"Maine"	"23"	"2019"	"2019"	"Female"	"F"	16
+	"Maine"	"23"	"2019"	"2019"	"Male"	"M"	144
+	"Maine"	"23"	"2020 "	"2020"	"Female"	"F"	20
+	"Maine"	"23"	"2020 "	"2020"	"Male"	"M"	130
+	"Maryland"	"24"	"1999"	"1999"	"Female"	"F"	60
+	"Maryland"	"24"	"1999"	"1999"	"Male"	"M"	584
+	"Maryland"	"24"	"2000"	"2000"	"Female"	"F"	67
+	"Maryland"	"24"	"2000"	"2000"	"Male"	"M"	539
+	"Maryland"	"24"	"2001"	"2001"	"Female"	"F"	56
+	"Maryland"	"24"	"2001"	"2001"	"Male"	"M"	543
+	"Maryland"	"24"	"2002"	"2002"	"Female"	"F"	60
+	"Maryland"	"24"	"2002"	"2002"	"Male"	"M"	547
+	"Maryland"	"24"	"2003"	"2003"	"Female"	"F"	59
+	"Maryland"	"24"	"2003"	"2003"	"Male"	"M"	583
+	"Maryland"	"24"	"2004"	"2004"	"Female"	"F"	61
+	"Maryland"	"24"	"2004"	"2004"	"Male"	"M"	587
+	"Maryland"	"24"	"2005"	"2005"	"Female"	"F"	54
+	"Maryland"	"24"	"2005"	"2005"	"Male"	"M"	596
+	"Maryland"	"24"	"2006"	"2006"	"Female"	"F"	60
+	"Maryland"	"24"	"2006"	"2006"	"Male"	"M"	601
+	"Maryland"	"24"	"2007"	"2007"	"Female"	"F"	68
+	"Maryland"	"24"	"2007"	"2007"	"Male"	"M"	597
+	"Maryland"	"24"	"2008"	"2008"	"Female"	"F"	75
+	"Maryland"	"24"	"2008"	"2008"	"Male"	"M"	570
+	"Maryland"	"24"	"2009"	"2009"	"Female"	"F"	65
+	"Maryland"	"24"	"2009"	"2009"	"Male"	"M"	507
+	"Maryland"	"24"	"2010"	"2010"	"Female"	"F"	45
+	"Maryland"	"24"	"2010"	"2010"	"Male"	"M"	488
+	"Maryland"	"24"	"2011"	"2011"	"Female"	"F"	55
+	"Maryland"	"24"	"2011"	"2011"	"Male"	"M"	467
+	"Maryland"	"24"	"2012"	"2012"	"Female"	"F"	52
+	"Maryland"	"24"	"2012"	"2012"	"Male"	"M"	519
+	"Maryland"	"24"	"2013"	"2013"	"Female"	"F"	62
+	"Maryland"	"24"	"2013"	"2013"	"Male"	"M"	505
+	"Maryland"	"24"	"2014"	"2014"	"Female"	"F"	68
+	"Maryland"	"24"	"2014"	"2014"	"Male"	"M"	462
+	"Maryland"	"24"	"2015"	"2015"	"Female"	"F"	54
+	"Maryland"	"24"	"2015"	"2015"	"Male"	"M"	642
+	"Maryland"	"24"	"2016"	"2016"	"Female"	"F"	68
+	"Maryland"	"24"	"2016"	"2016"	"Male"	"M"	622
+	"Maryland"	"24"	"2017"	"2017"	"Female"	"F"	63
+	"Maryland"	"24"	"2017"	"2017"	"Male"	"M"	670
+	"Maryland"	"24"	"2018"	"2018"	"Female"	"F"	82
+	"Maryland"	"24"	"2018"	"2018"	"Male"	"M"	615
+	"Maryland"	"24"	"2019"	"2019"	"Female"	"F"	64
+	"Maryland"	"24"	"2019"	"2019"	"Male"	"M"	676
+	"Maryland"	"24"	"2020 "	"2020"	"Female"	"F"	91
+	"Maryland"	"24"	"2020 "	"2020"	"Male"	"M"	706
+	"Massachusetts"	"25"	"1999"	"1999"	"Female"	"F"	24
+	"Massachusetts"	"25"	"1999"	"1999"	"Male"	"M"	169
+	"Massachusetts"	"25"	"2000"	"2000"	"Female"	"F"	24
+	"Massachusetts"	"25"	"2000"	"2000"	"Male"	"M"	151
+	"Massachusetts"	"25"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"Massachusetts"	"25"	"2001"	"2001"	"Male"	"M"	185
+	"Massachusetts"	"25"	"2002"	"2002"	"Female"	"F"	11
+	"Massachusetts"	"25"	"2002"	"2002"	"Male"	"M"	190
+	"Massachusetts"	"25"	"2003"	"2003"	"Female"	"F"	22
+	"Massachusetts"	"25"	"2003"	"2003"	"Male"	"M"	182
+	"Massachusetts"	"25"	"2004"	"2004"	"Female"	"F"	13
+	"Massachusetts"	"25"	"2004"	"2004"	"Male"	"M"	192
+	"Massachusetts"	"25"	"2005"	"2005"	"Female"	"F"	22
+	"Massachusetts"	"25"	"2005"	"2005"	"Male"	"M"	202
+	"Massachusetts"	"25"	"2006"	"2006"	"Female"	"F"	22
+	"Massachusetts"	"25"	"2006"	"2006"	"Male"	"M"	185
+	"Massachusetts"	"25"	"2007"	"2007"	"Female"	"F"	24
+	"Massachusetts"	"25"	"2007"	"2007"	"Male"	"M"	208
+	"Massachusetts"	"25"	"2008"	"2008"	"Female"	"F"	16
+	"Massachusetts"	"25"	"2008"	"2008"	"Male"	"M"	202
+	"Massachusetts"	"25"	"2009"	"2009"	"Female"	"F"	23
+	"Massachusetts"	"25"	"2009"	"2009"	"Male"	"M"	180
+	"Massachusetts"	"25"	"2010"	"2010"	"Female"	"F"	27
+	"Massachusetts"	"25"	"2010"	"2010"	"Male"	"M"	241
+	"Massachusetts"	"25"	"2011"	"2011"	"Female"	"F"	23
+	"Massachusetts"	"25"	"2011"	"2011"	"Male"	"M"	224
+	"Massachusetts"	"25"	"2012"	"2012"	"Female"	"F"	26
+	"Massachusetts"	"25"	"2012"	"2012"	"Male"	"M"	201
+	"Massachusetts"	"25"	"2013"	"2013"	"Female"	"F"	18
+	"Massachusetts"	"25"	"2013"	"2013"	"Male"	"M"	182
+	"Massachusetts"	"25"	"2014"	"2014"	"Female"	"F"	28
+	"Massachusetts"	"25"	"2014"	"2014"	"Male"	"M"	196
+	"Massachusetts"	"25"	"2015"	"2015"	"Female"	"F"	22
+	"Massachusetts"	"25"	"2015"	"2015"	"Male"	"M"	183
+	"Massachusetts"	"25"	"2016"	"2016"	"Female"	"F"	14
+	"Massachusetts"	"25"	"2016"	"2016"	"Male"	"M"	217
+	"Massachusetts"	"25"	"2017"	"2017"	"Female"	"F"	24
+	"Massachusetts"	"25"	"2017"	"2017"	"Male"	"M"	234
+	"Massachusetts"	"25"	"2018"	"2018"	"Female"	"F"	22
+	"Massachusetts"	"25"	"2018"	"2018"	"Male"	"M"	234
+	"Massachusetts"	"25"	"2019"	"2019"	"Female"	"F"	29
+	"Massachusetts"	"25"	"2019"	"2019"	"Male"	"M"	213
+	"Massachusetts"	"25"	"2020 "	"2020"	"Female"	"F"	24
+	"Massachusetts"	"25"	"2020 "	"2020"	"Male"	"M"	245
+	"Michigan"	"26"	"1999"	"1999"	"Female"	"F"	140
+	"Michigan"	"26"	"1999"	"1999"	"Male"	"M"	950
+	"Michigan"	"26"	"2000"	"2000"	"Female"	"F"	163
+	"Michigan"	"26"	"2000"	"2000"	"Male"	"M"	904
+	"Michigan"	"26"	"2001"	"2001"	"Female"	"F"	123
+	"Michigan"	"26"	"2001"	"2001"	"Male"	"M"	948
+	"Michigan"	"26"	"2002"	"2002"	"Female"	"F"	138
+	"Michigan"	"26"	"2002"	"2002"	"Male"	"M"	953
+	"Michigan"	"26"	"2003"	"2003"	"Female"	"F"	130
+	"Michigan"	"26"	"2003"	"2003"	"Male"	"M"	896
+	"Michigan"	"26"	"2004"	"2004"	"Female"	"F"	136
+	"Michigan"	"26"	"2004"	"2004"	"Male"	"M"	912
+	"Michigan"	"26"	"2005"	"2005"	"Female"	"F"	124
+	"Michigan"	"26"	"2005"	"2005"	"Male"	"M"	941
+	"Michigan"	"26"	"2006"	"2006"	"Female"	"F"	135
+	"Michigan"	"26"	"2006"	"2006"	"Male"	"M"	1021
+	"Michigan"	"26"	"2007"	"2007"	"Female"	"F"	128
+	"Michigan"	"26"	"2007"	"2007"	"Male"	"M"	960
+	"Michigan"	"26"	"2008"	"2008"	"Female"	"F"	102
+	"Michigan"	"26"	"2008"	"2008"	"Male"	"M"	977
+	"Michigan"	"26"	"2009"	"2009"	"Female"	"F"	122
+	"Michigan"	"26"	"2009"	"2009"	"Male"	"M"	967
+	"Michigan"	"26"	"2010"	"2010"	"Female"	"F"	125
+	"Michigan"	"26"	"2010"	"2010"	"Male"	"M"	942
+	"Michigan"	"26"	"2011"	"2011"	"Female"	"F"	126
+	"Michigan"	"26"	"2011"	"2011"	"Male"	"M"	1021
+	"Michigan"	"26"	"2012"	"2012"	"Female"	"F"	136
+	"Michigan"	"26"	"2012"	"2012"	"Male"	"M"	1078
+	"Michigan"	"26"	"2013"	"2013"	"Female"	"F"	146
+	"Michigan"	"26"	"2013"	"2013"	"Male"	"M"	1039
+	"Michigan"	"26"	"2014"	"2014"	"Female"	"F"	139
+	"Michigan"	"26"	"2014"	"2014"	"Male"	"M"	951
+	"Michigan"	"26"	"2015"	"2015"	"Female"	"F"	139
+	"Michigan"	"26"	"2015"	"2015"	"Male"	"M"	1015
+	"Michigan"	"26"	"2016"	"2016"	"Female"	"F"	162
+	"Michigan"	"26"	"2016"	"2016"	"Male"	"M"	1065
+	"Michigan"	"26"	"2017"	"2017"	"Female"	"F"	138
+	"Michigan"	"26"	"2017"	"2017"	"Male"	"M"	995
+	"Michigan"	"26"	"2018"	"2018"	"Female"	"F"	189
+	"Michigan"	"26"	"2018"	"2018"	"Male"	"M"	1116
+	"Michigan"	"26"	"2019"	"2019"	"Female"	"F"	160
+	"Michigan"	"26"	"2019"	"2019"	"Male"	"M"	1055
+	"Michigan"	"26"	"2020 "	"2020"	"Female"	"F"	204
+	"Michigan"	"26"	"2020 "	"2020"	"Male"	"M"	1246
+	"Minnesota"	"27"	"1999"	"1999"	"Female"	"F"	23
+	"Minnesota"	"27"	"1999"	"1999"	"Male"	"M"	277
+	"Minnesota"	"27"	"2000"	"2000"	"Female"	"F"	42
+	"Minnesota"	"27"	"2000"	"2000"	"Male"	"M"	275
+	"Minnesota"	"27"	"2001"	"2001"	"Female"	"F"	41
+	"Minnesota"	"27"	"2001"	"2001"	"Male"	"M"	281
+	"Minnesota"	"27"	"2002"	"2002"	"Female"	"F"	29
+	"Minnesota"	"27"	"2002"	"2002"	"Male"	"M"	275
+	"Minnesota"	"27"	"2003"	"2003"	"Female"	"F"	37
+	"Minnesota"	"27"	"2003"	"2003"	"Male"	"M"	293
+	"Minnesota"	"27"	"2004"	"2004"	"Female"	"F"	43
+	"Minnesota"	"27"	"2004"	"2004"	"Male"	"M"	317
+	"Minnesota"	"27"	"2005"	"2005"	"Female"	"F"	49
+	"Minnesota"	"27"	"2005"	"2005"	"Male"	"M"	311
+	"Minnesota"	"27"	"2006"	"2006"	"Female"	"F"	36
+	"Minnesota"	"27"	"2006"	"2006"	"Male"	"M"	296
+	"Minnesota"	"27"	"2007"	"2007"	"Female"	"F"	37
+	"Minnesota"	"27"	"2007"	"2007"	"Male"	"M"	303
+	"Minnesota"	"27"	"2008"	"2008"	"Female"	"F"	40
+	"Minnesota"	"27"	"2008"	"2008"	"Male"	"M"	331
+	"Minnesota"	"27"	"2009"	"2009"	"Female"	"F"	34
+	"Minnesota"	"27"	"2009"	"2009"	"Male"	"M"	300
+	"Minnesota"	"27"	"2010"	"2010"	"Female"	"F"	43
+	"Minnesota"	"27"	"2010"	"2010"	"Male"	"M"	314
+	"Minnesota"	"27"	"2011"	"2011"	"Female"	"F"	39
+	"Minnesota"	"27"	"2011"	"2011"	"Male"	"M"	354
+	"Minnesota"	"27"	"2012"	"2012"	"Female"	"F"	41
+	"Minnesota"	"27"	"2012"	"2012"	"Male"	"M"	337
+	"Minnesota"	"27"	"2013"	"2013"	"Female"	"F"	52
+	"Minnesota"	"27"	"2013"	"2013"	"Male"	"M"	372
+	"Minnesota"	"27"	"2014"	"2014"	"Female"	"F"	48
+	"Minnesota"	"27"	"2014"	"2014"	"Male"	"M"	329
+	"Minnesota"	"27"	"2015"	"2015"	"Female"	"F"	53
+	"Minnesota"	"27"	"2015"	"2015"	"Male"	"M"	350
+	"Minnesota"	"27"	"2016"	"2016"	"Female"	"F"	56
+	"Minnesota"	"27"	"2016"	"2016"	"Male"	"M"	367
+	"Minnesota"	"27"	"2017"	"2017"	"Female"	"F"	47
+	"Minnesota"	"27"	"2017"	"2017"	"Male"	"M"	410
+	"Minnesota"	"27"	"2018"	"2018"	"Female"	"F"	29
+	"Minnesota"	"27"	"2018"	"2018"	"Male"	"M"	398
+	"Minnesota"	"27"	"2019"	"2019"	"Female"	"F"	55
+	"Minnesota"	"27"	"2019"	"2019"	"Male"	"M"	400
+	"Minnesota"	"27"	"2020 "	"2020"	"Female"	"F"	55
+	"Minnesota"	"27"	"2020 "	"2020"	"Male"	"M"	450
+	"Mississippi"	"28"	"1999"	"1999"	"Female"	"F"	82
+	"Mississippi"	"28"	"1999"	"1999"	"Male"	"M"	432
+	"Mississippi"	"28"	"2000"	"2000"	"Female"	"F"	80
+	"Mississippi"	"28"	"2000"	"2000"	"Male"	"M"	394
+	"Mississippi"	"28"	"2001"	"2001"	"Female"	"F"	80
+	"Mississippi"	"28"	"2001"	"2001"	"Male"	"M"	421
+	"Mississippi"	"28"	"2002"	"2002"	"Female"	"F"	84
+	"Mississippi"	"28"	"2002"	"2002"	"Male"	"M"	404
+	"Mississippi"	"28"	"2003"	"2003"	"Female"	"F"	90
+	"Mississippi"	"28"	"2003"	"2003"	"Male"	"M"	384
+	"Mississippi"	"28"	"2004"	"2004"	"Female"	"F"	62
+	"Mississippi"	"28"	"2004"	"2004"	"Male"	"M"	410
+	"Mississippi"	"28"	"2005"	"2005"	"Female"	"F"	85
+	"Mississippi"	"28"	"2005"	"2005"	"Male"	"M"	372
+	"Mississippi"	"28"	"2006"	"2006"	"Female"	"F"	81
+	"Mississippi"	"28"	"2006"	"2006"	"Male"	"M"	388
+	"Mississippi"	"28"	"2007"	"2007"	"Female"	"F"	87
+	"Mississippi"	"28"	"2007"	"2007"	"Male"	"M"	450
+	"Mississippi"	"28"	"2008"	"2008"	"Female"	"F"	90
+	"Mississippi"	"28"	"2008"	"2008"	"Male"	"M"	473
+	"Mississippi"	"28"	"2009"	"2009"	"Female"	"F"	72
+	"Mississippi"	"28"	"2009"	"2009"	"Male"	"M"	414
+	"Mississippi"	"28"	"2010"	"2010"	"Female"	"F"	94
+	"Mississippi"	"28"	"2010"	"2010"	"Male"	"M"	382
+	"Mississippi"	"28"	"2011"	"2011"	"Female"	"F"	96
+	"Mississippi"	"28"	"2011"	"2011"	"Male"	"M"	432
+	"Mississippi"	"28"	"2012"	"2012"	"Female"	"F"	99
+	"Mississippi"	"28"	"2012"	"2012"	"Male"	"M"	434
+	"Mississippi"	"28"	"2013"	"2013"	"Female"	"F"	97
+	"Mississippi"	"28"	"2013"	"2013"	"Male"	"M"	426
+	"Mississippi"	"28"	"2014"	"2014"	"Female"	"F"	79
+	"Mississippi"	"28"	"2014"	"2014"	"Male"	"M"	463
+	"Mississippi"	"28"	"2015"	"2015"	"Female"	"F"	101
+	"Mississippi"	"28"	"2015"	"2015"	"Male"	"M"	488
+	"Mississippi"	"28"	"2016"	"2016"	"Female"	"F"	105
+	"Mississippi"	"28"	"2016"	"2016"	"Male"	"M"	477
+	"Mississippi"	"28"	"2017"	"2017"	"Female"	"F"	95
+	"Mississippi"	"28"	"2017"	"2017"	"Male"	"M"	531
+	"Mississippi"	"28"	"2018"	"2018"	"Female"	"F"	121
+	"Mississippi"	"28"	"2018"	"2018"	"Male"	"M"	554
+	"Mississippi"	"28"	"2019"	"2019"	"Female"	"F"	118
+	"Mississippi"	"28"	"2019"	"2019"	"Male"	"M"	589
+	"Mississippi"	"28"	"2020 "	"2020"	"Female"	"F"	125
+	"Mississippi"	"28"	"2020 "	"2020"	"Male"	"M"	690
+	"Missouri"	"29"	"1999"	"1999"	"Female"	"F"	96
+	"Missouri"	"29"	"1999"	"1999"	"Male"	"M"	617
+	"Missouri"	"29"	"2000"	"2000"	"Female"	"F"	114
+	"Missouri"	"29"	"2000"	"2000"	"Male"	"M"	630
+	"Missouri"	"29"	"2001"	"2001"	"Female"	"F"	89
+	"Missouri"	"29"	"2001"	"2001"	"Male"	"M"	663
+	"Missouri"	"29"	"2002"	"2002"	"Female"	"F"	90
+	"Missouri"	"29"	"2002"	"2002"	"Male"	"M"	606
+	"Missouri"	"29"	"2003"	"2003"	"Female"	"F"	85
+	"Missouri"	"29"	"2003"	"2003"	"Male"	"M"	572
+	"Missouri"	"29"	"2004"	"2004"	"Female"	"F"	106
+	"Missouri"	"29"	"2004"	"2004"	"Male"	"M"	563
+	"Missouri"	"29"	"2005"	"2005"	"Female"	"F"	89
+	"Missouri"	"29"	"2005"	"2005"	"Male"	"M"	667
+	"Missouri"	"29"	"2006"	"2006"	"Female"	"F"	106
+	"Missouri"	"29"	"2006"	"2006"	"Male"	"M"	658
+	"Missouri"	"29"	"2007"	"2007"	"Female"	"F"	105
+	"Missouri"	"29"	"2007"	"2007"	"Male"	"M"	649
+	"Missouri"	"29"	"2008"	"2008"	"Female"	"F"	119
+	"Missouri"	"29"	"2008"	"2008"	"Male"	"M"	699
+	"Missouri"	"29"	"2009"	"2009"	"Female"	"F"	119
+	"Missouri"	"29"	"2009"	"2009"	"Male"	"M"	699
+	"Missouri"	"29"	"2010"	"2010"	"Female"	"F"	96
+	"Missouri"	"29"	"2010"	"2010"	"Male"	"M"	749
+	"Missouri"	"29"	"2011"	"2011"	"Female"	"F"	128
+	"Missouri"	"29"	"2011"	"2011"	"Male"	"M"	724
+	"Missouri"	"29"	"2012"	"2012"	"Female"	"F"	121
+	"Missouri"	"29"	"2012"	"2012"	"Male"	"M"	764
+	"Missouri"	"29"	"2013"	"2013"	"Female"	"F"	123
+	"Missouri"	"29"	"2013"	"2013"	"Male"	"M"	753
+	"Missouri"	"29"	"2014"	"2014"	"Female"	"F"	133
+	"Missouri"	"29"	"2014"	"2014"	"Male"	"M"	802
+	"Missouri"	"29"	"2015"	"2015"	"Female"	"F"	156
+	"Missouri"	"29"	"2015"	"2015"	"Male"	"M"	934
+	"Missouri"	"29"	"2016"	"2016"	"Female"	"F"	180
+	"Missouri"	"29"	"2016"	"2016"	"Male"	"M"	955
+	"Missouri"	"29"	"2017"	"2017"	"Female"	"F"	184
+	"Missouri"	"29"	"2017"	"2017"	"Male"	"M"	1118
+	"Missouri"	"29"	"2018"	"2018"	"Female"	"F"	221
+	"Missouri"	"29"	"2018"	"2018"	"Male"	"M"	1082
+	"Missouri"	"29"	"2019"	"2019"	"Female"	"F"	198
+	"Missouri"	"29"	"2019"	"2019"	"Male"	"M"	1049
+	"Missouri"	"29"	"2020 "	"2020"	"Female"	"F"	225
+	"Missouri"	"29"	"2020 "	"2020"	"Male"	"M"	1197
+	"Montana"	"30"	"1999"	"1999"	"Female"	"F"	15
+	"Montana"	"30"	"1999"	"1999"	"Male"	"M"	109
+	"Montana"	"30"	"2000"	"2000"	"Female"	"F"	11
+	"Montana"	"30"	"2000"	"2000"	"Male"	"M"	121
+	"Montana"	"30"	"2001"	"2001"	"Female"	"F"	23
+	"Montana"	"30"	"2001"	"2001"	"Male"	"M"	137
+	"Montana"	"30"	"2002"	"2002"	"Female"	"F"	19
+	"Montana"	"30"	"2002"	"2002"	"Male"	"M"	114
+	"Montana"	"30"	"2003"	"2003"	"Female"	"F"	21
+	"Montana"	"30"	"2003"	"2003"	"Male"	"M"	125
+	"Montana"	"30"	"2004"	"2004"	"Female"	"F"	20
+	"Montana"	"30"	"2004"	"2004"	"Male"	"M"	105
+	"Montana"	"30"	"2005"	"2005"	"Female"	"F"	21
+	"Montana"	"30"	"2005"	"2005"	"Male"	"M"	137
+	"Montana"	"30"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"Montana"	"30"	"2006"	"2006"	"Male"	"M"	113
+	"Montana"	"30"	"2007"	"2007"	"Female"	"F"	18
+	"Montana"	"30"	"2007"	"2007"	"Male"	"M"	119
+	"Montana"	"30"	"2008"	"2008"	"Female"	"F"	31
+	"Montana"	"30"	"2008"	"2008"	"Male"	"M"	122
+	"Montana"	"30"	"2009"	"2009"	"Female"	"F"	21
+	"Montana"	"30"	"2009"	"2009"	"Male"	"M"	147
+	"Montana"	"30"	"2010"	"2010"	"Female"	"F"	27
+	"Montana"	"30"	"2010"	"2010"	"Male"	"M"	139
+	"Montana"	"30"	"2011"	"2011"	"Female"	"F"	29
+	"Montana"	"30"	"2011"	"2011"	"Male"	"M"	138
+	"Montana"	"30"	"2012"	"2012"	"Female"	"F"	24
+	"Montana"	"30"	"2012"	"2012"	"Male"	"M"	144
+	"Montana"	"30"	"2013"	"2013"	"Female"	"F"	30
+	"Montana"	"30"	"2013"	"2013"	"Male"	"M"	135
+	"Montana"	"30"	"2014"	"2014"	"Female"	"F"	22
+	"Montana"	"30"	"2014"	"2014"	"Male"	"M"	145
+	"Montana"	"30"	"2015"	"2015"	"Female"	"F"	37
+	"Montana"	"30"	"2015"	"2015"	"Male"	"M"	165
+	"Montana"	"30"	"2016"	"2016"	"Female"	"F"	31
+	"Montana"	"30"	"2016"	"2016"	"Male"	"M"	160
+	"Montana"	"30"	"2017"	"2017"	"Female"	"F"	44
+	"Montana"	"30"	"2017"	"2017"	"Male"	"M"	194
+	"Montana"	"30"	"2018"	"2018"	"Female"	"F"	28
+	"Montana"	"30"	"2018"	"2018"	"Male"	"M"	154
+	"Montana"	"30"	"2019"	"2019"	"Female"	"F"	40
+	"Montana"	"30"	"2019"	"2019"	"Male"	"M"	163
+	"Montana"	"30"	"2020 "	"2020"	"Female"	"F"	30
+	"Montana"	"30"	"2020 "	"2020"	"Male"	"M"	200
+	"Nebraska"	"31"	"1999"	"1999"	"Female"	"F"	21
+	"Nebraska"	"31"	"1999"	"1999"	"Male"	"M"	125
+	"Nebraska"	"31"	"2000"	"2000"	"Female"	"F"	28
+	"Nebraska"	"31"	"2000"	"2000"	"Male"	"M"	138
+	"Nebraska"	"31"	"2001"	"2001"	"Female"	"F"	14
+	"Nebraska"	"31"	"2001"	"2001"	"Male"	"M"	124
+	"Nebraska"	"31"	"2002"	"2002"	"Female"	"F"	18
+	"Nebraska"	"31"	"2002"	"2002"	"Male"	"M"	121
+	"Nebraska"	"31"	"2003"	"2003"	"Female"	"F"	15
+	"Nebraska"	"31"	"2003"	"2003"	"Male"	"M"	116
+	"Nebraska"	"31"	"2004"	"2004"	"Female"	"F"	12
+	"Nebraska"	"31"	"2004"	"2004"	"Male"	"M"	105
+	"Nebraska"	"31"	"2005"	"2005"	"Female"	"F"	15
+	"Nebraska"	"31"	"2005"	"2005"	"Male"	"M"	119
+	"Nebraska"	"31"	"2006"	"2006"	"Female"	"F"	14
+	"Nebraska"	"31"	"2006"	"2006"	"Male"	"M"	126
+	"Nebraska"	"31"	"2007"	"2007"	"Female"	"F"	23
+	"Nebraska"	"31"	"2007"	"2007"	"Male"	"M"	116
+	"Nebraska"	"31"	"2008"	"2008"	"Female"	"F"	14
+	"Nebraska"	"31"	"2008"	"2008"	"Male"	"M"	135
+	"Nebraska"	"31"	"2009"	"2009"	"Female"	"F"	16
+	"Nebraska"	"31"	"2009"	"2009"	"Male"	"M"	115
+	"Nebraska"	"31"	"2010"	"2010"	"Female"	"F"	18
+	"Nebraska"	"31"	"2010"	"2010"	"Male"	"M"	137
+	"Nebraska"	"31"	"2011"	"2011"	"Female"	"F"	20
+	"Nebraska"	"31"	"2011"	"2011"	"Male"	"M"	141
+	"Nebraska"	"31"	"2012"	"2012"	"Female"	"F"	10
+	"Nebraska"	"31"	"2012"	"2012"	"Male"	"M"	158
+	"Nebraska"	"31"	"2013"	"2013"	"Female"	"F"	18
+	"Nebraska"	"31"	"2013"	"2013"	"Male"	"M"	150
+	"Nebraska"	"31"	"2014"	"2014"	"Female"	"F"	14
+	"Nebraska"	"31"	"2014"	"2014"	"Male"	"M"	165
+	"Nebraska"	"31"	"2015"	"2015"	"Female"	"F"	19
+	"Nebraska"	"31"	"2015"	"2015"	"Male"	"M"	149
+	"Nebraska"	"31"	"2016"	"2016"	"Female"	"F"	18
+	"Nebraska"	"31"	"2016"	"2016"	"Male"	"M"	146
+	"Nebraska"	"31"	"2017"	"2017"	"Female"	"F"	19
+	"Nebraska"	"31"	"2017"	"2017"	"Male"	"M"	145
+	"Nebraska"	"31"	"2018"	"2018"	"Female"	"F"	21
+	"Nebraska"	"31"	"2018"	"2018"	"Male"	"M"	161
+	"Nebraska"	"31"	"2019"	"2019"	"Female"	"F"	23
+	"Nebraska"	"31"	"2019"	"2019"	"Male"	"M"	179
+	"Nebraska"	"31"	"2020 "	"2020"	"Female"	"F"	15
+	"Nebraska"	"31"	"2020 "	"2020"	"Male"	"M"	181
+	"Nevada"	"32"	"1999"	"1999"	"Female"	"F"	55
+	"Nevada"	"32"	"1999"	"1999"	"Male"	"M"	314
+	"Nevada"	"32"	"2000"	"2000"	"Female"	"F"	43
+	"Nevada"	"32"	"2000"	"2000"	"Male"	"M"	297
+	"Nevada"	"32"	"2001"	"2001"	"Female"	"F"	55
+	"Nevada"	"32"	"2001"	"2001"	"Male"	"M"	280
+	"Nevada"	"32"	"2002"	"2002"	"Female"	"F"	54
+	"Nevada"	"32"	"2002"	"2002"	"Male"	"M"	311
+	"Nevada"	"32"	"2003"	"2003"	"Female"	"F"	59
+	"Nevada"	"32"	"2003"	"2003"	"Male"	"M"	310
+	"Nevada"	"32"	"2004"	"2004"	"Female"	"F"	54
+	"Nevada"	"32"	"2004"	"2004"	"Male"	"M"	328
+	"Nevada"	"32"	"2005"	"2005"	"Female"	"F"	54
+	"Nevada"	"32"	"2005"	"2005"	"Male"	"M"	330
+	"Nevada"	"32"	"2006"	"2006"	"Female"	"F"	58
+	"Nevada"	"32"	"2006"	"2006"	"Male"	"M"	340
+	"Nevada"	"32"	"2007"	"2007"	"Female"	"F"	71
+	"Nevada"	"32"	"2007"	"2007"	"Male"	"M"	340
+	"Nevada"	"32"	"2008"	"2008"	"Female"	"F"	61
+	"Nevada"	"32"	"2008"	"2008"	"Male"	"M"	339
+	"Nevada"	"32"	"2009"	"2009"	"Female"	"F"	58
+	"Nevada"	"32"	"2009"	"2009"	"Male"	"M"	344
+	"Nevada"	"32"	"2010"	"2010"	"Female"	"F"	60
+	"Nevada"	"32"	"2010"	"2010"	"Male"	"M"	325
+	"Nevada"	"32"	"2011"	"2011"	"Female"	"F"	54
+	"Nevada"	"32"	"2011"	"2011"	"Male"	"M"	311
+	"Nevada"	"32"	"2012"	"2012"	"Female"	"F"	71
+	"Nevada"	"32"	"2012"	"2012"	"Male"	"M"	285
+	"Nevada"	"32"	"2013"	"2013"	"Female"	"F"	66
+	"Nevada"	"32"	"2013"	"2013"	"Male"	"M"	325
+	"Nevada"	"32"	"2014"	"2014"	"Female"	"F"	70
+	"Nevada"	"32"	"2014"	"2014"	"Male"	"M"	351
+	"Nevada"	"32"	"2015"	"2015"	"Female"	"F"	91
+	"Nevada"	"32"	"2015"	"2015"	"Male"	"M"	345
+	"Nevada"	"32"	"2016"	"2016"	"Female"	"F"	80
+	"Nevada"	"32"	"2016"	"2016"	"Male"	"M"	409
+	"Nevada"	"32"	"2017"	"2017"	"Female"	"F"	96
+	"Nevada"	"32"	"2017"	"2017"	"Male"	"M"	399
+	"Nevada"	"32"	"2018"	"2018"	"Female"	"F"	99
+	"Nevada"	"32"	"2018"	"2018"	"Male"	"M"	435
+	"Nevada"	"32"	"2019"	"2019"	"Female"	"F"	75
+	"Nevada"	"32"	"2019"	"2019"	"Male"	"M"	404
+	"Nevada"	"32"	"2020 "	"2020"	"Female"	"F"	73
+	"Nevada"	"32"	"2020 "	"2020"	"Male"	"M"	456
+	"New Hampshire"	"33"	"1999"	"1999"	"Female"	"F"	Suppressed
+	"New Hampshire"	"33"	"1999"	"1999"	"Male"	"M"	64
+	"New Hampshire"	"33"	"2000"	"2000"	"Female"	"F"	10
+	"New Hampshire"	"33"	"2000"	"2000"	"Male"	"M"	73
+	"New Hampshire"	"33"	"2001"	"2001"	"Female"	"F"	12
+	"New Hampshire"	"33"	"2001"	"2001"	"Male"	"M"	80
+	"New Hampshire"	"33"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"New Hampshire"	"33"	"2002"	"2002"	"Male"	"M"	65
+	"New Hampshire"	"33"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"New Hampshire"	"33"	"2003"	"2003"	"Male"	"M"	79
+	"New Hampshire"	"33"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"New Hampshire"	"33"	"2004"	"2004"	"Male"	"M"	60
+	"New Hampshire"	"33"	"2005"	"2005"	"Female"	"F"	10
+	"New Hampshire"	"33"	"2005"	"2005"	"Male"	"M"	78
+	"New Hampshire"	"33"	"2006"	"2006"	"Female"	"F"	10
+	"New Hampshire"	"33"	"2006"	"2006"	"Male"	"M"	73
+	"New Hampshire"	"33"	"2007"	"2007"	"Female"	"F"	10
+	"New Hampshire"	"33"	"2007"	"2007"	"Male"	"M"	68
+	"New Hampshire"	"33"	"2008"	"2008"	"Female"	"F"	15
+	"New Hampshire"	"33"	"2008"	"2008"	"Male"	"M"	79
+	"New Hampshire"	"33"	"2009"	"2009"	"Female"	"F"	15
+	"New Hampshire"	"33"	"2009"	"2009"	"Male"	"M"	74
+	"New Hampshire"	"33"	"2010"	"2010"	"Female"	"F"	20
+	"New Hampshire"	"33"	"2010"	"2010"	"Male"	"M"	96
+	"New Hampshire"	"33"	"2011"	"2011"	"Female"	"F"	13
+	"New Hampshire"	"33"	"2011"	"2011"	"Male"	"M"	75
+	"New Hampshire"	"33"	"2012"	"2012"	"Female"	"F"	18
+	"New Hampshire"	"33"	"2012"	"2012"	"Male"	"M"	98
+	"New Hampshire"	"33"	"2013"	"2013"	"Female"	"F"	Suppressed
+	"New Hampshire"	"33"	"2013"	"2013"	"Male"	"M"	85
+	"New Hampshire"	"33"	"2014"	"2014"	"Female"	"F"	11
+	"New Hampshire"	"33"	"2014"	"2014"	"Male"	"M"	108
+	"New Hampshire"	"33"	"2015"	"2015"	"Female"	"F"	21
+	"New Hampshire"	"33"	"2015"	"2015"	"Male"	"M"	98
+	"New Hampshire"	"33"	"2016"	"2016"	"Female"	"F"	16
+	"New Hampshire"	"33"	"2016"	"2016"	"Male"	"M"	115
+	"New Hampshire"	"33"	"2017"	"2017"	"Female"	"F"	19
+	"New Hampshire"	"33"	"2017"	"2017"	"Male"	"M"	125
+	"New Hampshire"	"33"	"2018"	"2018"	"Female"	"F"	21
+	"New Hampshire"	"33"	"2018"	"2018"	"Male"	"M"	129
+	"New Hampshire"	"33"	"2019"	"2019"	"Female"	"F"	22
+	"New Hampshire"	"33"	"2019"	"2019"	"Male"	"M"	132
+	"New Hampshire"	"33"	"2020 "	"2020"	"Female"	"F"	27
+	"New Hampshire"	"33"	"2020 "	"2020"	"Male"	"M"	97
+	"New Jersey"	"34"	"1999"	"1999"	"Female"	"F"	47
+	"New Jersey"	"34"	"1999"	"1999"	"Male"	"M"	314
+	"New Jersey"	"34"	"2000"	"2000"	"Female"	"F"	32
+	"New Jersey"	"34"	"2000"	"2000"	"Male"	"M"	310
+	"New Jersey"	"34"	"2001"	"2001"	"Female"	"F"	35
+	"New Jersey"	"34"	"2001"	"2001"	"Male"	"M"	333
+	"New Jersey"	"34"	"2002"	"2002"	"Female"	"F"	39
+	"New Jersey"	"34"	"2002"	"2002"	"Male"	"M"	376
+	"New Jersey"	"34"	"2003"	"2003"	"Female"	"F"	54
+	"New Jersey"	"34"	"2003"	"2003"	"Male"	"M"	397
+	"New Jersey"	"34"	"2004"	"2004"	"Female"	"F"	39
+	"New Jersey"	"34"	"2004"	"2004"	"Male"	"M"	410
+	"New Jersey"	"34"	"2005"	"2005"	"Female"	"F"	39
+	"New Jersey"	"34"	"2005"	"2005"	"Male"	"M"	391
+	"New Jersey"	"34"	"2006"	"2006"	"Female"	"F"	43
+	"New Jersey"	"34"	"2006"	"2006"	"Male"	"M"	449
+	"New Jersey"	"34"	"2007"	"2007"	"Female"	"F"	42
+	"New Jersey"	"34"	"2007"	"2007"	"Male"	"M"	402
+	"New Jersey"	"34"	"2008"	"2008"	"Female"	"F"	49
+	"New Jersey"	"34"	"2008"	"2008"	"Male"	"M"	380
+	"New Jersey"	"34"	"2009"	"2009"	"Female"	"F"	37
+	"New Jersey"	"34"	"2009"	"2009"	"Male"	"M"	371
+	"New Jersey"	"34"	"2010"	"2010"	"Female"	"F"	43
+	"New Jersey"	"34"	"2010"	"2010"	"Male"	"M"	410
+	"New Jersey"	"34"	"2011"	"2011"	"Female"	"F"	36
+	"New Jersey"	"34"	"2011"	"2011"	"Male"	"M"	438
+	"New Jersey"	"34"	"2012"	"2012"	"Female"	"F"	39
+	"New Jersey"	"34"	"2012"	"2012"	"Male"	"M"	402
+	"New Jersey"	"34"	"2013"	"2013"	"Female"	"F"	45
+	"New Jersey"	"34"	"2013"	"2013"	"Male"	"M"	455
+	"New Jersey"	"34"	"2014"	"2014"	"Female"	"F"	47
+	"New Jersey"	"34"	"2014"	"2014"	"Male"	"M"	416
+	"New Jersey"	"34"	"2015"	"2015"	"Female"	"F"	35
+	"New Jersey"	"34"	"2015"	"2015"	"Male"	"M"	430
+	"New Jersey"	"34"	"2016"	"2016"	"Female"	"F"	45
+	"New Jersey"	"34"	"2016"	"2016"	"Male"	"M"	437
+	"New Jersey"	"34"	"2017"	"2017"	"Female"	"F"	68
+	"New Jersey"	"34"	"2017"	"2017"	"Male"	"M"	403
+	"New Jersey"	"34"	"2018"	"2018"	"Female"	"F"	39
+	"New Jersey"	"34"	"2018"	"2018"	"Male"	"M"	379
+	"New Jersey"	"34"	"2019"	"2019"	"Female"	"F"	37
+	"New Jersey"	"34"	"2019"	"2019"	"Male"	"M"	331
+	"New Jersey"	"34"	"2020 "	"2020"	"Female"	"F"	48
+	"New Jersey"	"34"	"2020 "	"2020"	"Male"	"M"	394
+	"New Mexico"	"35"	"1999"	"1999"	"Female"	"F"	38
+	"New Mexico"	"35"	"1999"	"1999"	"Male"	"M"	246
+	"New Mexico"	"35"	"2000"	"2000"	"Female"	"F"	38
+	"New Mexico"	"35"	"2000"	"2000"	"Male"	"M"	248
+	"New Mexico"	"35"	"2001"	"2001"	"Female"	"F"	46
+	"New Mexico"	"35"	"2001"	"2001"	"Male"	"M"	219
+	"New Mexico"	"35"	"2002"	"2002"	"Female"	"F"	40
+	"New Mexico"	"35"	"2002"	"2002"	"Male"	"M"	259
+	"New Mexico"	"35"	"2003"	"2003"	"Female"	"F"	39
+	"New Mexico"	"35"	"2003"	"2003"	"Male"	"M"	279
+	"New Mexico"	"35"	"2004"	"2004"	"Female"	"F"	41
+	"New Mexico"	"35"	"2004"	"2004"	"Male"	"M"	244
+	"New Mexico"	"35"	"2005"	"2005"	"Female"	"F"	33
+	"New Mexico"	"35"	"2005"	"2005"	"Male"	"M"	228
+	"New Mexico"	"35"	"2006"	"2006"	"Female"	"F"	29
+	"New Mexico"	"35"	"2006"	"2006"	"Male"	"M"	245
+	"New Mexico"	"35"	"2007"	"2007"	"Female"	"F"	43
+	"New Mexico"	"35"	"2007"	"2007"	"Male"	"M"	244
+	"New Mexico"	"35"	"2008"	"2008"	"Female"	"F"	44
+	"New Mexico"	"35"	"2008"	"2008"	"Male"	"M"	244
+	"New Mexico"	"35"	"2009"	"2009"	"Female"	"F"	39
+	"New Mexico"	"35"	"2009"	"2009"	"Male"	"M"	256
+	"New Mexico"	"35"	"2010"	"2010"	"Female"	"F"	32
+	"New Mexico"	"35"	"2010"	"2010"	"Male"	"M"	255
+	"New Mexico"	"35"	"2011"	"2011"	"Female"	"F"	44
+	"New Mexico"	"35"	"2011"	"2011"	"Male"	"M"	255
+	"New Mexico"	"35"	"2012"	"2012"	"Female"	"F"	39
+	"New Mexico"	"35"	"2012"	"2012"	"Male"	"M"	276
+	"New Mexico"	"35"	"2013"	"2013"	"Female"	"F"	51
+	"New Mexico"	"35"	"2013"	"2013"	"Male"	"M"	262
+	"New Mexico"	"35"	"2014"	"2014"	"Female"	"F"	46
+	"New Mexico"	"35"	"2014"	"2014"	"Male"	"M"	280
+	"New Mexico"	"35"	"2015"	"2015"	"Female"	"F"	58
+	"New Mexico"	"35"	"2015"	"2015"	"Male"	"M"	315
+	"New Mexico"	"35"	"2016"	"2016"	"Female"	"F"	71
+	"New Mexico"	"35"	"2016"	"2016"	"Male"	"M"	296
+	"New Mexico"	"35"	"2017"	"2017"	"Female"	"F"	54
+	"New Mexico"	"35"	"2017"	"2017"	"Male"	"M"	323
+	"New Mexico"	"35"	"2018"	"2018"	"Female"	"F"	65
+	"New Mexico"	"35"	"2018"	"2018"	"Male"	"M"	357
+	"New Mexico"	"35"	"2019"	"2019"	"Female"	"F"	71
+	"New Mexico"	"35"	"2019"	"2019"	"Male"	"M"	386
+	"New Mexico"	"35"	"2020 "	"2020"	"Female"	"F"	69
+	"New Mexico"	"35"	"2020 "	"2020"	"Male"	"M"	398
+	"New York"	"36"	"1999"	"1999"	"Female"	"F"	108
+	"New York"	"36"	"1999"	"1999"	"Male"	"M"	903
+	"New York"	"36"	"2000"	"2000"	"Female"	"F"	102
+	"New York"	"36"	"2000"	"2000"	"Male"	"M"	980
+	"New York"	"36"	"2001"	"2001"	"Female"	"F"	94
+	"New York"	"36"	"2001"	"2001"	"Male"	"M"	970
+	"New York"	"36"	"2002"	"2002"	"Female"	"F"	92
+	"New York"	"36"	"2002"	"2002"	"Male"	"M"	890
+	"New York"	"36"	"2003"	"2003"	"Female"	"F"	90
+	"New York"	"36"	"2003"	"2003"	"Male"	"M"	939
+	"New York"	"36"	"2004"	"2004"	"Female"	"F"	68
+	"New York"	"36"	"2004"	"2004"	"Male"	"M"	881
+	"New York"	"36"	"2005"	"2005"	"Female"	"F"	100
+	"New York"	"36"	"2005"	"2005"	"Male"	"M"	912
+	"New York"	"36"	"2006"	"2006"	"Female"	"F"	87
+	"New York"	"36"	"2006"	"2006"	"Male"	"M"	910
+	"New York"	"36"	"2007"	"2007"	"Female"	"F"	92
+	"New York"	"36"	"2007"	"2007"	"Male"	"M"	884
+	"New York"	"36"	"2008"	"2008"	"Female"	"F"	80
+	"New York"	"36"	"2008"	"2008"	"Male"	"M"	877
+	"New York"	"36"	"2009"	"2009"	"Female"	"F"	95
+	"New York"	"36"	"2009"	"2009"	"Male"	"M"	849
+	"New York"	"36"	"2010"	"2010"	"Female"	"F"	81
+	"New York"	"36"	"2010"	"2010"	"Male"	"M"	923
+	"New York"	"36"	"2011"	"2011"	"Female"	"F"	101
+	"New York"	"36"	"2011"	"2011"	"Male"	"M"	886
+	"New York"	"36"	"2012"	"2012"	"Female"	"F"	72
+	"New York"	"36"	"2012"	"2012"	"Male"	"M"	892
+	"New York"	"36"	"2013"	"2013"	"Female"	"F"	81
+	"New York"	"36"	"2013"	"2013"	"Male"	"M"	773
+	"New York"	"36"	"2014"	"2014"	"Female"	"F"	78
+	"New York"	"36"	"2014"	"2014"	"Male"	"M"	784
+	"New York"	"36"	"2015"	"2015"	"Female"	"F"	70
+	"New York"	"36"	"2015"	"2015"	"Male"	"M"	770
+	"New York"	"36"	"2016"	"2016"	"Female"	"F"	87
+	"New York"	"36"	"2016"	"2016"	"Male"	"M"	801
+	"New York"	"36"	"2017"	"2017"	"Female"	"F"	66
+	"New York"	"36"	"2017"	"2017"	"Male"	"M"	691
+	"New York"	"36"	"2018"	"2018"	"Female"	"F"	89
+	"New York"	"36"	"2018"	"2018"	"Male"	"M"	724
+	"New York"	"36"	"2019"	"2019"	"Female"	"F"	73
+	"New York"	"36"	"2019"	"2019"	"Male"	"M"	721
+	"New York"	"36"	"2020 "	"2020"	"Female"	"F"	87
+	"New York"	"36"	"2020 "	"2020"	"Male"	"M"	952
+	"North Carolina"	"37"	"1999"	"1999"	"Female"	"F"	184
+	"North Carolina"	"37"	"1999"	"1999"	"Male"	"M"	879
+	"North Carolina"	"37"	"2000"	"2000"	"Female"	"F"	192
+	"North Carolina"	"37"	"2000"	"2000"	"Male"	"M"	926
+	"North Carolina"	"37"	"2001"	"2001"	"Female"	"F"	148
+	"North Carolina"	"37"	"2001"	"2001"	"Male"	"M"	947
+	"North Carolina"	"37"	"2002"	"2002"	"Female"	"F"	179
+	"North Carolina"	"37"	"2002"	"2002"	"Male"	"M"	954
+	"North Carolina"	"37"	"2003"	"2003"	"Female"	"F"	158
+	"North Carolina"	"37"	"2003"	"2003"	"Male"	"M"	902
+	"North Carolina"	"37"	"2004"	"2004"	"Female"	"F"	167
+	"North Carolina"	"37"	"2004"	"2004"	"Male"	"M"	888
+	"North Carolina"	"37"	"2005"	"2005"	"Female"	"F"	163
+	"North Carolina"	"37"	"2005"	"2005"	"Male"	"M"	957
+	"North Carolina"	"37"	"2006"	"2006"	"Female"	"F"	180
+	"North Carolina"	"37"	"2006"	"2006"	"Male"	"M"	950
+	"North Carolina"	"37"	"2007"	"2007"	"Female"	"F"	177
+	"North Carolina"	"37"	"2007"	"2007"	"Male"	"M"	935
+	"North Carolina"	"37"	"2008"	"2008"	"Female"	"F"	199
+	"North Carolina"	"37"	"2008"	"2008"	"Male"	"M"	961
+	"North Carolina"	"37"	"2009"	"2009"	"Female"	"F"	183
+	"North Carolina"	"37"	"2009"	"2009"	"Male"	"M"	931
+	"North Carolina"	"37"	"2010"	"2010"	"Female"	"F"	182
+	"North Carolina"	"37"	"2010"	"2010"	"Male"	"M"	942
+	"North Carolina"	"37"	"2011"	"2011"	"Female"	"F"	183
+	"North Carolina"	"37"	"2011"	"2011"	"Male"	"M"	970
+	"North Carolina"	"37"	"2012"	"2012"	"Female"	"F"	195
+	"North Carolina"	"37"	"2012"	"2012"	"Male"	"M"	975
+	"North Carolina"	"37"	"2013"	"2013"	"Female"	"F"	187
+	"North Carolina"	"37"	"2013"	"2013"	"Male"	"M"	1033
+	"North Carolina"	"37"	"2014"	"2014"	"Female"	"F"	214
+	"North Carolina"	"37"	"2014"	"2014"	"Male"	"M"	982
+	"North Carolina"	"37"	"2015"	"2015"	"Female"	"F"	195
+	"North Carolina"	"37"	"2015"	"2015"	"Male"	"M"	1079
+	"North Carolina"	"37"	"2016"	"2016"	"Female"	"F"	257
+	"North Carolina"	"37"	"2016"	"2016"	"Male"	"M"	1130
+	"North Carolina"	"37"	"2017"	"2017"	"Female"	"F"	206
+	"North Carolina"	"37"	"2017"	"2017"	"Male"	"M"	1211
+	"North Carolina"	"37"	"2018"	"2018"	"Female"	"F"	225
+	"North Carolina"	"37"	"2018"	"2018"	"Male"	"M"	1175
+	"North Carolina"	"37"	"2019"	"2019"	"Female"	"F"	200
+	"North Carolina"	"37"	"2019"	"2019"	"Male"	"M"	1176
+	"North Carolina"	"37"	"2020 "	"2020"	"Female"	"F"	256
+	"North Carolina"	"37"	"2020 "	"2020"	"Male"	"M"	1424
+	"North Dakota"	"38"	"1999"	"1999"	"Female"	"F"	10
+	"North Dakota"	"38"	"1999"	"1999"	"Male"	"M"	39
+	"North Dakota"	"38"	"2000"	"2000"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2000"	"2000"	"Male"	"M"	41
+	"North Dakota"	"38"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2001"	"2001"	"Male"	"M"	42
+	"North Dakota"	"38"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2002"	"2002"	"Male"	"M"	55
+	"North Dakota"	"38"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2003"	"2003"	"Male"	"M"	48
+	"North Dakota"	"38"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2004"	"2004"	"Male"	"M"	46
+	"North Dakota"	"38"	"2005"	"2005"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2005"	"2005"	"Male"	"M"	58
+	"North Dakota"	"38"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2006"	"2006"	"Male"	"M"	43
+	"North Dakota"	"38"	"2007"	"2007"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2007"	"2007"	"Male"	"M"	54
+	"North Dakota"	"38"	"2008"	"2008"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2008"	"2008"	"Male"	"M"	54
+	"North Dakota"	"38"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2009"	"2009"	"Male"	"M"	52
+	"North Dakota"	"38"	"2010"	"2010"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2010"	"2010"	"Male"	"M"	60
+	"North Dakota"	"38"	"2011"	"2011"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2011"	"2011"	"Male"	"M"	53
+	"North Dakota"	"38"	"2012"	"2012"	"Female"	"F"	12
+	"North Dakota"	"38"	"2012"	"2012"	"Male"	"M"	60
+	"North Dakota"	"38"	"2013"	"2013"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2013"	"2013"	"Male"	"M"	81
+	"North Dakota"	"38"	"2014"	"2014"	"Female"	"F"	Suppressed
+	"North Dakota"	"38"	"2014"	"2014"	"Male"	"M"	88
+	"North Dakota"	"38"	"2015"	"2015"	"Female"	"F"	12
+	"North Dakota"	"38"	"2015"	"2015"	"Male"	"M"	80
+	"North Dakota"	"38"	"2016"	"2016"	"Female"	"F"	14
+	"North Dakota"	"38"	"2016"	"2016"	"Male"	"M"	76
+	"North Dakota"	"38"	"2017"	"2017"	"Female"	"F"	12
+	"North Dakota"	"38"	"2017"	"2017"	"Male"	"M"	90
+	"North Dakota"	"38"	"2018"	"2018"	"Female"	"F"	14
+	"North Dakota"	"38"	"2018"	"2018"	"Male"	"M"	75
+	"North Dakota"	"38"	"2019"	"2019"	"Female"	"F"	15
+	"North Dakota"	"38"	"2019"	"2019"	"Male"	"M"	80
+	"North Dakota"	"38"	"2020 "	"2020"	"Female"	"F"	15
+	"North Dakota"	"38"	"2020 "	"2020"	"Male"	"M"	84
+	"Ohio"	"39"	"1999"	"1999"	"Female"	"F"	130
+	"Ohio"	"39"	"1999"	"1999"	"Male"	"M"	805
+	"Ohio"	"39"	"2000"	"2000"	"Female"	"F"	125
+	"Ohio"	"39"	"2000"	"2000"	"Male"	"M"	765
+	"Ohio"	"39"	"2001"	"2001"	"Female"	"F"	131
+	"Ohio"	"39"	"2001"	"2001"	"Male"	"M"	900
+	"Ohio"	"39"	"2002"	"2002"	"Female"	"F"	134
+	"Ohio"	"39"	"2002"	"2002"	"Male"	"M"	932
+	"Ohio"	"39"	"2003"	"2003"	"Female"	"F"	103
+	"Ohio"	"39"	"2003"	"2003"	"Male"	"M"	821
+	"Ohio"	"39"	"2004"	"2004"	"Female"	"F"	149
+	"Ohio"	"39"	"2004"	"2004"	"Male"	"M"	886
+	"Ohio"	"39"	"2005"	"2005"	"Female"	"F"	135
+	"Ohio"	"39"	"2005"	"2005"	"Male"	"M"	976
+	"Ohio"	"39"	"2006"	"2006"	"Female"	"F"	151
+	"Ohio"	"39"	"2006"	"2006"	"Male"	"M"	961
+	"Ohio"	"39"	"2007"	"2007"	"Female"	"F"	130
+	"Ohio"	"39"	"2007"	"2007"	"Male"	"M"	973
+	"Ohio"	"39"	"2008"	"2008"	"Female"	"F"	124
+	"Ohio"	"39"	"2008"	"2008"	"Male"	"M"	985
+	"Ohio"	"39"	"2009"	"2009"	"Female"	"F"	143
+	"Ohio"	"39"	"2009"	"2009"	"Male"	"M"	840
+	"Ohio"	"39"	"2010"	"2010"	"Female"	"F"	153
+	"Ohio"	"39"	"2010"	"2010"	"Male"	"M"	988
+	"Ohio"	"39"	"2011"	"2011"	"Female"	"F"	170
+	"Ohio"	"39"	"2011"	"2011"	"Male"	"M"	1043
+	"Ohio"	"39"	"2012"	"2012"	"Female"	"F"	189
+	"Ohio"	"39"	"2012"	"2012"	"Male"	"M"	1061
+	"Ohio"	"39"	"2013"	"2013"	"Female"	"F"	174
+	"Ohio"	"39"	"2013"	"2013"	"Male"	"M"	1106
+	"Ohio"	"39"	"2014"	"2014"	"Female"	"F"	158
+	"Ohio"	"39"	"2014"	"2014"	"Male"	"M"	1040
+	"Ohio"	"39"	"2015"	"2015"	"Female"	"F"	200
+	"Ohio"	"39"	"2015"	"2015"	"Male"	"M"	1183
+	"Ohio"	"39"	"2016"	"2016"	"Female"	"F"	220
+	"Ohio"	"39"	"2016"	"2016"	"Male"	"M"	1292
+	"Ohio"	"39"	"2017"	"2017"	"Female"	"F"	214
+	"Ohio"	"39"	"2017"	"2017"	"Male"	"M"	1355
+	"Ohio"	"39"	"2018"	"2018"	"Female"	"F"	226
+	"Ohio"	"39"	"2018"	"2018"	"Male"	"M"	1314
+	"Ohio"	"39"	"2019"	"2019"	"Female"	"F"	214
+	"Ohio"	"39"	"2019"	"2019"	"Male"	"M"	1357
+	"Ohio"	"39"	"2020 "	"2020"	"Female"	"F"	242
+	"Ohio"	"39"	"2020 "	"2020"	"Male"	"M"	1512
+	"Oklahoma"	"40"	"1999"	"1999"	"Female"	"F"	87
+	"Oklahoma"	"40"	"1999"	"1999"	"Male"	"M"	420
+	"Oklahoma"	"40"	"2000"	"2000"	"Female"	"F"	82
+	"Oklahoma"	"40"	"2000"	"2000"	"Male"	"M"	365
+	"Oklahoma"	"40"	"2001"	"2001"	"Female"	"F"	67
+	"Oklahoma"	"40"	"2001"	"2001"	"Male"	"M"	407
+	"Oklahoma"	"40"	"2002"	"2002"	"Female"	"F"	84
+	"Oklahoma"	"40"	"2002"	"2002"	"Male"	"M"	369
+	"Oklahoma"	"40"	"2003"	"2003"	"Female"	"F"	63
+	"Oklahoma"	"40"	"2003"	"2003"	"Male"	"M"	380
+	"Oklahoma"	"40"	"2004"	"2004"	"Female"	"F"	71
+	"Oklahoma"	"40"	"2004"	"2004"	"Male"	"M"	378
+	"Oklahoma"	"40"	"2005"	"2005"	"Female"	"F"	78
+	"Oklahoma"	"40"	"2005"	"2005"	"Male"	"M"	381
+	"Oklahoma"	"40"	"2006"	"2006"	"Female"	"F"	80
+	"Oklahoma"	"40"	"2006"	"2006"	"Male"	"M"	398
+	"Oklahoma"	"40"	"2007"	"2007"	"Female"	"F"	85
+	"Oklahoma"	"40"	"2007"	"2007"	"Male"	"M"	395
+	"Oklahoma"	"40"	"2008"	"2008"	"Female"	"F"	77
+	"Oklahoma"	"40"	"2008"	"2008"	"Male"	"M"	431
+	"Oklahoma"	"40"	"2009"	"2009"	"Female"	"F"	86
+	"Oklahoma"	"40"	"2009"	"2009"	"Male"	"M"	445
+	"Oklahoma"	"40"	"2010"	"2010"	"Female"	"F"	78
+	"Oklahoma"	"40"	"2010"	"2010"	"Male"	"M"	459
+	"Oklahoma"	"40"	"2011"	"2011"	"Female"	"F"	114
+	"Oklahoma"	"40"	"2011"	"2011"	"Male"	"M"	512
+	"Oklahoma"	"40"	"2012"	"2012"	"Female"	"F"	109
+	"Oklahoma"	"40"	"2012"	"2012"	"Male"	"M"	507
+	"Oklahoma"	"40"	"2013"	"2013"	"Female"	"F"	117
+	"Oklahoma"	"40"	"2013"	"2013"	"Male"	"M"	514
+	"Oklahoma"	"40"	"2014"	"2014"	"Female"	"F"	121
+	"Oklahoma"	"40"	"2014"	"2014"	"Male"	"M"	492
+	"Oklahoma"	"40"	"2015"	"2015"	"Female"	"F"	121
+	"Oklahoma"	"40"	"2015"	"2015"	"Male"	"M"	586
+	"Oklahoma"	"40"	"2016"	"2016"	"Female"	"F"	114
+	"Oklahoma"	"40"	"2016"	"2016"	"Male"	"M"	654
+	"Oklahoma"	"40"	"2017"	"2017"	"Female"	"F"	131
+	"Oklahoma"	"40"	"2017"	"2017"	"Male"	"M"	554
+	"Oklahoma"	"40"	"2018"	"2018"	"Female"	"F"	109
+	"Oklahoma"	"40"	"2018"	"2018"	"Male"	"M"	556
+	"Oklahoma"	"40"	"2019"	"2019"	"Female"	"F"	112
+	"Oklahoma"	"40"	"2019"	"2019"	"Male"	"M"	627
+	"Oklahoma"	"40"	"2020 "	"2020"	"Female"	"F"	129
+	"Oklahoma"	"40"	"2020 "	"2020"	"Male"	"M"	697
+	"Oregon"	"41"	"1999"	"1999"	"Female"	"F"	55
+	"Oregon"	"41"	"1999"	"1999"	"Male"	"M"	330
+	"Oregon"	"41"	"2000"	"2000"	"Female"	"F"	66
+	"Oregon"	"41"	"2000"	"2000"	"Male"	"M"	308
+	"Oregon"	"41"	"2001"	"2001"	"Female"	"F"	58
+	"Oregon"	"41"	"2001"	"2001"	"Male"	"M"	291
+	"Oregon"	"41"	"2002"	"2002"	"Female"	"F"	53
+	"Oregon"	"41"	"2002"	"2002"	"Male"	"M"	316
+	"Oregon"	"41"	"2003"	"2003"	"Female"	"F"	46
+	"Oregon"	"41"	"2003"	"2003"	"Male"	"M"	343
+	"Oregon"	"41"	"2004"	"2004"	"Female"	"F"	52
+	"Oregon"	"41"	"2004"	"2004"	"Male"	"M"	326
+	"Oregon"	"41"	"2005"	"2005"	"Female"	"F"	52
+	"Oregon"	"41"	"2005"	"2005"	"Male"	"M"	335
+	"Oregon"	"41"	"2006"	"2006"	"Female"	"F"	56
+	"Oregon"	"41"	"2006"	"2006"	"Male"	"M"	316
+	"Oregon"	"41"	"2007"	"2007"	"Female"	"F"	60
+	"Oregon"	"41"	"2007"	"2007"	"Male"	"M"	322
+	"Oregon"	"41"	"2008"	"2008"	"Female"	"F"	49
+	"Oregon"	"41"	"2008"	"2008"	"Male"	"M"	330
+	"Oregon"	"41"	"2009"	"2009"	"Female"	"F"	68
+	"Oregon"	"41"	"2009"	"2009"	"Male"	"M"	345
+	"Oregon"	"41"	"2010"	"2010"	"Female"	"F"	69
+	"Oregon"	"41"	"2010"	"2010"	"Male"	"M"	379
+	"Oregon"	"41"	"2011"	"2011"	"Female"	"F"	54
+	"Oregon"	"41"	"2011"	"2011"	"Male"	"M"	361
+	"Oregon"	"41"	"2012"	"2012"	"Female"	"F"	68
+	"Oregon"	"41"	"2012"	"2012"	"Male"	"M"	363
+	"Oregon"	"41"	"2013"	"2013"	"Female"	"F"	74
+	"Oregon"	"41"	"2013"	"2013"	"Male"	"M"	383
+	"Oregon"	"41"	"2014"	"2014"	"Female"	"F"	77
+	"Oregon"	"41"	"2014"	"2014"	"Male"	"M"	404
+	"Oregon"	"41"	"2015"	"2015"	"Female"	"F"	76
+	"Oregon"	"41"	"2015"	"2015"	"Male"	"M"	399
+	"Oregon"	"41"	"2016"	"2016"	"Female"	"F"	77
+	"Oregon"	"41"	"2016"	"2016"	"Male"	"M"	426
+	"Oregon"	"41"	"2017"	"2017"	"Female"	"F"	83
+	"Oregon"	"41"	"2017"	"2017"	"Male"	"M"	436
+	"Oregon"	"41"	"2018"	"2018"	"Female"	"F"	79
+	"Oregon"	"41"	"2018"	"2018"	"Male"	"M"	425
+	"Oregon"	"41"	"2019"	"2019"	"Female"	"F"	86
+	"Oregon"	"41"	"2019"	"2019"	"Male"	"M"	469
+	"Oregon"	"41"	"2020 "	"2020"	"Female"	"F"	82
+	"Oregon"	"41"	"2020 "	"2020"	"Male"	"M"	494
+	"Pennsylvania"	"42"	"1999"	"1999"	"Female"	"F"	158
+	"Pennsylvania"	"42"	"1999"	"1999"	"Male"	"M"	1033
+	"Pennsylvania"	"42"	"2000"	"2000"	"Female"	"F"	144
+	"Pennsylvania"	"42"	"2000"	"2000"	"Male"	"M"	1106
+	"Pennsylvania"	"42"	"2001"	"2001"	"Female"	"F"	155
+	"Pennsylvania"	"42"	"2001"	"2001"	"Male"	"M"	1011
+	"Pennsylvania"	"42"	"2002"	"2002"	"Female"	"F"	167
+	"Pennsylvania"	"42"	"2002"	"2002"	"Male"	"M"	1050
+	"Pennsylvania"	"42"	"2003"	"2003"	"Female"	"F"	137
+	"Pennsylvania"	"42"	"2003"	"2003"	"Male"	"M"	1091
+	"Pennsylvania"	"42"	"2004"	"2004"	"Female"	"F"	166
+	"Pennsylvania"	"42"	"2004"	"2004"	"Male"	"M"	1102
+	"Pennsylvania"	"42"	"2005"	"2005"	"Female"	"F"	146
+	"Pennsylvania"	"42"	"2005"	"2005"	"Male"	"M"	1204
+	"Pennsylvania"	"42"	"2006"	"2006"	"Female"	"F"	134
+	"Pennsylvania"	"42"	"2006"	"2006"	"Male"	"M"	1231
+	"Pennsylvania"	"42"	"2007"	"2007"	"Female"	"F"	128
+	"Pennsylvania"	"42"	"2007"	"2007"	"Male"	"M"	1184
+	"Pennsylvania"	"42"	"2008"	"2008"	"Female"	"F"	138
+	"Pennsylvania"	"42"	"2008"	"2008"	"Male"	"M"	1197
+	"Pennsylvania"	"42"	"2009"	"2009"	"Female"	"F"	187
+	"Pennsylvania"	"42"	"2009"	"2009"	"Male"	"M"	1149
+	"Pennsylvania"	"42"	"2010"	"2010"	"Female"	"F"	142
+	"Pennsylvania"	"42"	"2010"	"2010"	"Male"	"M"	1160
+	"Pennsylvania"	"42"	"2011"	"2011"	"Female"	"F"	170
+	"Pennsylvania"	"42"	"2011"	"2011"	"Male"	"M"	1259
+	"Pennsylvania"	"42"	"2012"	"2012"	"Female"	"F"	170
+	"Pennsylvania"	"42"	"2012"	"2012"	"Male"	"M"	1267
+	"Pennsylvania"	"42"	"2013"	"2013"	"Female"	"F"	198
+	"Pennsylvania"	"42"	"2013"	"2013"	"Male"	"M"	1239
+	"Pennsylvania"	"42"	"2014"	"2014"	"Female"	"F"	167
+	"Pennsylvania"	"42"	"2014"	"2014"	"Male"	"M"	1215
+	"Pennsylvania"	"42"	"2015"	"2015"	"Female"	"F"	182
+	"Pennsylvania"	"42"	"2015"	"2015"	"Male"	"M"	1293
+	"Pennsylvania"	"42"	"2016"	"2016"	"Female"	"F"	187
+	"Pennsylvania"	"42"	"2016"	"2016"	"Male"	"M"	1354
+	"Pennsylvania"	"42"	"2017"	"2017"	"Female"	"F"	229
+	"Pennsylvania"	"42"	"2017"	"2017"	"Male"	"M"	1386
+	"Pennsylvania"	"42"	"2018"	"2018"	"Female"	"F"	210
+	"Pennsylvania"	"42"	"2018"	"2018"	"Male"	"M"	1428
+	"Pennsylvania"	"42"	"2019"	"2019"	"Female"	"F"	180
+	"Pennsylvania"	"42"	"2019"	"2019"	"Male"	"M"	1354
+	"Pennsylvania"	"42"	"2020 "	"2020"	"Female"	"F"	198
+	"Pennsylvania"	"42"	"2020 "	"2020"	"Male"	"M"	1539
+	"Rhode Island"	"44"	"1999"	"1999"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"1999"	"1999"	"Male"	"M"	48
+	"Rhode Island"	"44"	"2000"	"2000"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2000"	"2000"	"Male"	"M"	51
+	"Rhode Island"	"44"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2001"	"2001"	"Male"	"M"	43
+	"Rhode Island"	"44"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2002"	"2002"	"Male"	"M"	50
+	"Rhode Island"	"44"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2003"	"2003"	"Male"	"M"	32
+	"Rhode Island"	"44"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2004"	"2004"	"Male"	"M"	35
+	"Rhode Island"	"44"	"2005"	"2005"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2005"	"2005"	"Male"	"M"	35
+	"Rhode Island"	"44"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2006"	"2006"	"Male"	"M"	39
+	"Rhode Island"	"44"	"2007"	"2007"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2007"	"2007"	"Male"	"M"	35
+	"Rhode Island"	"44"	"2008"	"2008"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2008"	"2008"	"Male"	"M"	40
+	"Rhode Island"	"44"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2009"	"2009"	"Male"	"M"	52
+	"Rhode Island"	"44"	"2010"	"2010"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2010"	"2010"	"Male"	"M"	46
+	"Rhode Island"	"44"	"2011"	"2011"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2011"	"2011"	"Male"	"M"	28
+	"Rhode Island"	"44"	"2012"	"2012"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2012"	"2012"	"Male"	"M"	38
+	"Rhode Island"	"44"	"2013"	"2013"	"Female"	"F"	10
+	"Rhode Island"	"44"	"2013"	"2013"	"Male"	"M"	45
+	"Rhode Island"	"44"	"2014"	"2014"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2014"	"2014"	"Male"	"M"	29
+	"Rhode Island"	"44"	"2015"	"2015"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2015"	"2015"	"Male"	"M"	46
+	"Rhode Island"	"44"	"2016"	"2016"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2016"	"2016"	"Male"	"M"	42
+	"Rhode Island"	"44"	"2017"	"2017"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2017"	"2017"	"Male"	"M"	42
+	"Rhode Island"	"44"	"2018"	"2018"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2018"	"2018"	"Male"	"M"	34
+	"Rhode Island"	"44"	"2019"	"2019"	"Female"	"F"	10
+	"Rhode Island"	"44"	"2019"	"2019"	"Male"	"M"	38
+	"Rhode Island"	"44"	"2020 "	"2020"	"Female"	"F"	Suppressed
+	"Rhode Island"	"44"	"2020 "	"2020"	"Male"	"M"	48
+	"South Carolina"	"45"	"1999"	"1999"	"Female"	"F"	109
+	"South Carolina"	"45"	"1999"	"1999"	"Male"	"M"	437
+	"South Carolina"	"45"	"2000"	"2000"	"Female"	"F"	85
+	"South Carolina"	"45"	"2000"	"2000"	"Male"	"M"	410
+	"South Carolina"	"45"	"2001"	"2001"	"Female"	"F"	116
+	"South Carolina"	"45"	"2001"	"2001"	"Male"	"M"	447
+	"South Carolina"	"45"	"2002"	"2002"	"Female"	"F"	92
+	"South Carolina"	"45"	"2002"	"2002"	"Male"	"M"	474
+	"South Carolina"	"45"	"2003"	"2003"	"Female"	"F"	109
+	"South Carolina"	"45"	"2003"	"2003"	"Male"	"M"	483
+	"South Carolina"	"45"	"2004"	"2004"	"Female"	"F"	95
+	"South Carolina"	"45"	"2004"	"2004"	"Male"	"M"	476
+	"South Carolina"	"45"	"2005"	"2005"	"Female"	"F"	95
+	"South Carolina"	"45"	"2005"	"2005"	"Male"	"M"	491
+	"South Carolina"	"45"	"2006"	"2006"	"Female"	"F"	126
+	"South Carolina"	"45"	"2006"	"2006"	"Male"	"M"	485
+	"South Carolina"	"45"	"2007"	"2007"	"Female"	"F"	97
+	"South Carolina"	"45"	"2007"	"2007"	"Male"	"M"	491
+	"South Carolina"	"45"	"2008"	"2008"	"Female"	"F"	78
+	"South Carolina"	"45"	"2008"	"2008"	"Male"	"M"	536
+	"South Carolina"	"45"	"2009"	"2009"	"Female"	"F"	107
+	"South Carolina"	"45"	"2009"	"2009"	"Male"	"M"	526
+	"South Carolina"	"45"	"2010"	"2010"	"Female"	"F"	103
+	"South Carolina"	"45"	"2010"	"2010"	"Male"	"M"	541
+	"South Carolina"	"45"	"2011"	"2011"	"Female"	"F"	128
+	"South Carolina"	"45"	"2011"	"2011"	"Male"	"M"	570
+	"South Carolina"	"45"	"2012"	"2012"	"Female"	"F"	132
+	"South Carolina"	"45"	"2012"	"2012"	"Male"	"M"	607
+	"South Carolina"	"45"	"2013"	"2013"	"Female"	"F"	138
+	"South Carolina"	"45"	"2013"	"2013"	"Male"	"M"	599
+	"South Carolina"	"45"	"2014"	"2014"	"Female"	"F"	140
+	"South Carolina"	"45"	"2014"	"2014"	"Male"	"M"	623
+	"South Carolina"	"45"	"2015"	"2015"	"Female"	"F"	154
+	"South Carolina"	"45"	"2015"	"2015"	"Male"	"M"	691
+	"South Carolina"	"45"	"2016"	"2016"	"Female"	"F"	151
+	"South Carolina"	"45"	"2016"	"2016"	"Male"	"M"	736
+	"South Carolina"	"45"	"2017"	"2017"	"Female"	"F"	150
+	"South Carolina"	"45"	"2017"	"2017"	"Male"	"M"	741
+	"South Carolina"	"45"	"2018"	"2018"	"Female"	"F"	141
+	"South Carolina"	"45"	"2018"	"2018"	"Male"	"M"	750
+	"South Carolina"	"45"	"2019"	"2019"	"Female"	"F"	156
+	"South Carolina"	"45"	"2019"	"2019"	"Male"	"M"	853
+	"South Carolina"	"45"	"2020 "	"2020"	"Female"	"F"	155
+	"South Carolina"	"45"	"2020 "	"2020"	"Male"	"M"	971
+	"South Dakota"	"46"	"1999"	"1999"	"Female"	"F"	10
+	"South Dakota"	"46"	"1999"	"1999"	"Male"	"M"	62
+	"South Dakota"	"46"	"2000"	"2000"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2000"	"2000"	"Male"	"M"	54
+	"South Dakota"	"46"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2001"	"2001"	"Male"	"M"	47
+	"South Dakota"	"46"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2002"	"2002"	"Male"	"M"	56
+	"South Dakota"	"46"	"2003"	"2003"	"Female"	"F"	10
+	"South Dakota"	"46"	"2003"	"2003"	"Male"	"M"	61
+	"South Dakota"	"46"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2004"	"2004"	"Male"	"M"	67
+	"South Dakota"	"46"	"2005"	"2005"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2005"	"2005"	"Male"	"M"	77
+	"South Dakota"	"46"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2006"	"2006"	"Male"	"M"	68
+	"South Dakota"	"46"	"2007"	"2007"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2007"	"2007"	"Male"	"M"	45
+	"South Dakota"	"46"	"2008"	"2008"	"Female"	"F"	13
+	"South Dakota"	"46"	"2008"	"2008"	"Male"	"M"	70
+	"South Dakota"	"46"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2009"	"2009"	"Male"	"M"	70
+	"South Dakota"	"46"	"2010"	"2010"	"Female"	"F"	10
+	"South Dakota"	"46"	"2010"	"2010"	"Male"	"M"	63
+	"South Dakota"	"46"	"2011"	"2011"	"Female"	"F"	11
+	"South Dakota"	"46"	"2011"	"2011"	"Male"	"M"	56
+	"South Dakota"	"46"	"2012"	"2012"	"Female"	"F"	11
+	"South Dakota"	"46"	"2012"	"2012"	"Male"	"M"	73
+	"South Dakota"	"46"	"2013"	"2013"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2013"	"2013"	"Male"	"M"	70
+	"South Dakota"	"46"	"2014"	"2014"	"Female"	"F"	17
+	"South Dakota"	"46"	"2014"	"2014"	"Male"	"M"	69
+	"South Dakota"	"46"	"2015"	"2015"	"Female"	"F"	13
+	"South Dakota"	"46"	"2015"	"2015"	"Male"	"M"	81
+	"South Dakota"	"46"	"2016"	"2016"	"Female"	"F"	17
+	"South Dakota"	"46"	"2016"	"2016"	"Male"	"M"	86
+	"South Dakota"	"46"	"2017"	"2017"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2017"	"2017"	"Male"	"M"	89
+	"South Dakota"	"46"	"2018"	"2018"	"Female"	"F"	14
+	"South Dakota"	"46"	"2018"	"2018"	"Male"	"M"	100
+	"South Dakota"	"46"	"2019"	"2019"	"Female"	"F"	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	"Male"	"M"	103
+	"South Dakota"	"46"	"2020 "	"2020"	"Female"	"F"	15
+	"South Dakota"	"46"	"2020 "	"2020"	"Male"	"M"	103
+	"Tennessee"	"47"	"1999"	"1999"	"Female"	"F"	133
+	"Tennessee"	"47"	"1999"	"1999"	"Male"	"M"	718
+	"Tennessee"	"47"	"2000"	"2000"	"Female"	"F"	134
+	"Tennessee"	"47"	"2000"	"2000"	"Male"	"M"	764
+	"Tennessee"	"47"	"2001"	"2001"	"Female"	"F"	129
+	"Tennessee"	"47"	"2001"	"2001"	"Male"	"M"	719
+	"Tennessee"	"47"	"2002"	"2002"	"Female"	"F"	158
+	"Tennessee"	"47"	"2002"	"2002"	"Male"	"M"	748
+	"Tennessee"	"47"	"2003"	"2003"	"Female"	"F"	145
+	"Tennessee"	"47"	"2003"	"2003"	"Male"	"M"	695
+	"Tennessee"	"47"	"2004"	"2004"	"Female"	"F"	142
+	"Tennessee"	"47"	"2004"	"2004"	"Male"	"M"	728
+	"Tennessee"	"47"	"2005"	"2005"	"Female"	"F"	151
+	"Tennessee"	"47"	"2005"	"2005"	"Male"	"M"	827
+	"Tennessee"	"47"	"2006"	"2006"	"Female"	"F"	151
+	"Tennessee"	"47"	"2006"	"2006"	"Male"	"M"	788
+	"Tennessee"	"47"	"2007"	"2007"	"Female"	"F"	158
+	"Tennessee"	"47"	"2007"	"2007"	"Male"	"M"	767
+	"Tennessee"	"47"	"2008"	"2008"	"Female"	"F"	167
+	"Tennessee"	"47"	"2008"	"2008"	"Male"	"M"	818
+	"Tennessee"	"47"	"2009"	"2009"	"Female"	"F"	124
+	"Tennessee"	"47"	"2009"	"2009"	"Male"	"M"	844
+	"Tennessee"	"47"	"2010"	"2010"	"Female"	"F"	157
+	"Tennessee"	"47"	"2010"	"2010"	"Male"	"M"	771
+	"Tennessee"	"47"	"2011"	"2011"	"Female"	"F"	165
+	"Tennessee"	"47"	"2011"	"2011"	"Male"	"M"	780
+	"Tennessee"	"47"	"2012"	"2012"	"Female"	"F"	154
+	"Tennessee"	"47"	"2012"	"2012"	"Male"	"M"	842
+	"Tennessee"	"47"	"2013"	"2013"	"Female"	"F"	166
+	"Tennessee"	"47"	"2013"	"2013"	"Male"	"M"	864
+	"Tennessee"	"47"	"2014"	"2014"	"Female"	"F"	159
+	"Tennessee"	"47"	"2014"	"2014"	"Male"	"M"	857
+	"Tennessee"	"47"	"2015"	"2015"	"Female"	"F"	181
+	"Tennessee"	"47"	"2015"	"2015"	"Male"	"M"	886
+	"Tennessee"	"47"	"2016"	"2016"	"Female"	"F"	186
+	"Tennessee"	"47"	"2016"	"2016"	"Male"	"M"	959
+	"Tennessee"	"47"	"2017"	"2017"	"Female"	"F"	200
+	"Tennessee"	"47"	"2017"	"2017"	"Male"	"M"	1033
+	"Tennessee"	"47"	"2018"	"2018"	"Female"	"F"	207
+	"Tennessee"	"47"	"2018"	"2018"	"Male"	"M"	1014
+	"Tennessee"	"47"	"2019"	"2019"	"Female"	"F"	221
+	"Tennessee"	"47"	"2019"	"2019"	"Male"	"M"	1037
+	"Tennessee"	"47"	"2020 "	"2020"	"Female"	"F"	222
+	"Tennessee"	"47"	"2020 "	"2020"	"Male"	"M"	1237
+	"Texas"	"48"	"1999"	"1999"	"Female"	"F"	338
+	"Texas"	"48"	"1999"	"1999"	"Male"	"M"	1781
+	"Texas"	"48"	"2000"	"2000"	"Female"	"F"	363
+	"Texas"	"48"	"2000"	"2000"	"Male"	"M"	1803
+	"Texas"	"48"	"2001"	"2001"	"Female"	"F"	370
+	"Texas"	"48"	"2001"	"2001"	"Male"	"M"	1962
+	"Texas"	"48"	"2002"	"2002"	"Female"	"F"	366
+	"Texas"	"48"	"2002"	"2002"	"Male"	"M"	1916
+	"Texas"	"48"	"2003"	"2003"	"Female"	"F"	390
+	"Texas"	"48"	"2003"	"2003"	"Male"	"M"	2015
+	"Texas"	"48"	"2004"	"2004"	"Female"	"F"	384
+	"Texas"	"48"	"2004"	"2004"	"Male"	"M"	1950
+	"Texas"	"48"	"2005"	"2005"	"Female"	"F"	390
+	"Texas"	"48"	"2005"	"2005"	"Male"	"M"	2081
+	"Texas"	"48"	"2006"	"2006"	"Female"	"F"	410
+	"Texas"	"48"	"2006"	"2006"	"Male"	"M"	1993
+	"Texas"	"48"	"2007"	"2007"	"Female"	"F"	372
+	"Texas"	"48"	"2007"	"2007"	"Male"	"M"	2178
+	"Texas"	"48"	"2008"	"2008"	"Female"	"F"	415
+	"Texas"	"48"	"2008"	"2008"	"Male"	"M"	2168
+	"Texas"	"48"	"2009"	"2009"	"Female"	"F"	426
+	"Texas"	"48"	"2009"	"2009"	"Male"	"M"	2248
+	"Texas"	"48"	"2010"	"2010"	"Female"	"F"	415
+	"Texas"	"48"	"2010"	"2010"	"Male"	"M"	2284
+	"Texas"	"48"	"2011"	"2011"	"Female"	"F"	430
+	"Texas"	"48"	"2011"	"2011"	"Male"	"M"	2157
+	"Texas"	"48"	"2012"	"2012"	"Female"	"F"	420
+	"Texas"	"48"	"2012"	"2012"	"Male"	"M"	2301
+	"Texas"	"48"	"2013"	"2013"	"Female"	"F"	445
+	"Texas"	"48"	"2013"	"2013"	"Male"	"M"	2314
+	"Texas"	"48"	"2014"	"2014"	"Female"	"F"	491
+	"Texas"	"48"	"2014"	"2014"	"Male"	"M"	2342
+	"Texas"	"48"	"2015"	"2015"	"Female"	"F"	534
+	"Texas"	"48"	"2015"	"2015"	"Male"	"M"	2654
+	"Texas"	"48"	"2016"	"2016"	"Female"	"F"	571
+	"Texas"	"48"	"2016"	"2016"	"Male"	"M"	2753
+	"Texas"	"48"	"2017"	"2017"	"Female"	"F"	571
+	"Texas"	"48"	"2017"	"2017"	"Male"	"M"	2913
+	"Texas"	"48"	"2018"	"2018"	"Female"	"F"	550
+	"Texas"	"48"	"2018"	"2018"	"Male"	"M"	2939
+	"Texas"	"48"	"2019"	"2019"	"Female"	"F"	570
+	"Texas"	"48"	"2019"	"2019"	"Male"	"M"	3067
+	"Texas"	"48"	"2020 "	"2020"	"Female"	"F"	648
+	"Texas"	"48"	"2020 "	"2020"	"Male"	"M"	3474
+	"Utah"	"49"	"1999"	"1999"	"Female"	"F"	21
+	"Utah"	"49"	"1999"	"1999"	"Male"	"M"	166
+	"Utah"	"49"	"2000"	"2000"	"Female"	"F"	27
+	"Utah"	"49"	"2000"	"2000"	"Male"	"M"	166
+	"Utah"	"49"	"2001"	"2001"	"Female"	"F"	35
+	"Utah"	"49"	"2001"	"2001"	"Male"	"M"	191
+	"Utah"	"49"	"2002"	"2002"	"Female"	"F"	26
+	"Utah"	"49"	"2002"	"2002"	"Male"	"M"	176
+	"Utah"	"49"	"2003"	"2003"	"Female"	"F"	28
+	"Utah"	"49"	"2003"	"2003"	"Male"	"M"	199
+	"Utah"	"49"	"2004"	"2004"	"Female"	"F"	25
+	"Utah"	"49"	"2004"	"2004"	"Male"	"M"	195
+	"Utah"	"49"	"2005"	"2005"	"Female"	"F"	27
+	"Utah"	"49"	"2005"	"2005"	"Male"	"M"	199
+	"Utah"	"49"	"2006"	"2006"	"Female"	"F"	35
+	"Utah"	"49"	"2006"	"2006"	"Male"	"M"	187
+	"Utah"	"49"	"2007"	"2007"	"Female"	"F"	38
+	"Utah"	"49"	"2007"	"2007"	"Male"	"M"	203
+	"Utah"	"49"	"2008"	"2008"	"Female"	"F"	31
+	"Utah"	"49"	"2008"	"2008"	"Male"	"M"	200
+	"Utah"	"49"	"2009"	"2009"	"Female"	"F"	40
+	"Utah"	"49"	"2009"	"2009"	"Male"	"M"	214
+	"Utah"	"49"	"2010"	"2010"	"Female"	"F"	42
+	"Utah"	"49"	"2010"	"2010"	"Male"	"M"	266
+	"Utah"	"49"	"2011"	"2011"	"Female"	"F"	53
+	"Utah"	"49"	"2011"	"2011"	"Male"	"M"	246
+	"Utah"	"49"	"2012"	"2012"	"Female"	"F"	38
+	"Utah"	"49"	"2012"	"2012"	"Male"	"M"	282
+	"Utah"	"49"	"2013"	"2013"	"Female"	"F"	49
+	"Utah"	"49"	"2013"	"2013"	"Male"	"M"	285
+	"Utah"	"49"	"2014"	"2014"	"Female"	"F"	48
+	"Utah"	"49"	"2014"	"2014"	"Male"	"M"	275
+	"Utah"	"49"	"2015"	"2015"	"Female"	"F"	49
+	"Utah"	"49"	"2015"	"2015"	"Male"	"M"	312
+	"Utah"	"49"	"2016"	"2016"	"Female"	"F"	54
+	"Utah"	"49"	"2016"	"2016"	"Male"	"M"	309
+	"Utah"	"49"	"2017"	"2017"	"Female"	"F"	68
+	"Utah"	"49"	"2017"	"2017"	"Male"	"M"	336
+	"Utah"	"49"	"2018"	"2018"	"Female"	"F"	54
+	"Utah"	"49"	"2018"	"2018"	"Male"	"M"	325
+	"Utah"	"49"	"2019"	"2019"	"Female"	"F"	55
+	"Utah"	"49"	"2019"	"2019"	"Male"	"M"	334
+	"Utah"	"49"	"2020 "	"2020"	"Female"	"F"	60
+	"Utah"	"49"	"2020 "	"2020"	"Male"	"M"	357
+	"Vermont"	"50"	"1999"	"1999"	"Female"	"F"	10
+	"Vermont"	"50"	"1999"	"1999"	"Male"	"M"	50
+	"Vermont"	"50"	"2000"	"2000"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2000"	"2000"	"Male"	"M"	49
+	"Vermont"	"50"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2001"	"2001"	"Male"	"M"	47
+	"Vermont"	"50"	"2002"	"2002"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2002"	"2002"	"Male"	"M"	55
+	"Vermont"	"50"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2003"	"2003"	"Male"	"M"	44
+	"Vermont"	"50"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2004"	"2004"	"Male"	"M"	57
+	"Vermont"	"50"	"2005"	"2005"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2005"	"2005"	"Male"	"M"	37
+	"Vermont"	"50"	"2006"	"2006"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2006"	"2006"	"Male"	"M"	46
+	"Vermont"	"50"	"2007"	"2007"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2007"	"2007"	"Male"	"M"	45
+	"Vermont"	"50"	"2008"	"2008"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2008"	"2008"	"Male"	"M"	48
+	"Vermont"	"50"	"2009"	"2009"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2009"	"2009"	"Male"	"M"	53
+	"Vermont"	"50"	"2010"	"2010"	"Female"	"F"	10
+	"Vermont"	"50"	"2010"	"2010"	"Male"	"M"	60
+	"Vermont"	"50"	"2011"	"2011"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2011"	"2011"	"Male"	"M"	69
+	"Vermont"	"50"	"2012"	"2012"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2012"	"2012"	"Male"	"M"	54
+	"Vermont"	"50"	"2013"	"2013"	"Female"	"F"	15
+	"Vermont"	"50"	"2013"	"2013"	"Male"	"M"	49
+	"Vermont"	"50"	"2014"	"2014"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2014"	"2014"	"Male"	"M"	61
+	"Vermont"	"50"	"2015"	"2015"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2015"	"2015"	"Male"	"M"	63
+	"Vermont"	"50"	"2016"	"2016"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2016"	"2016"	"Male"	"M"	71
+	"Vermont"	"50"	"2017"	"2017"	"Female"	"F"	13
+	"Vermont"	"50"	"2017"	"2017"	"Male"	"M"	57
+	"Vermont"	"50"	"2018"	"2018"	"Female"	"F"	13
+	"Vermont"	"50"	"2018"	"2018"	"Male"	"M"	68
+	"Vermont"	"50"	"2019"	"2019"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2019"	"2019"	"Male"	"M"	59
+	"Vermont"	"50"	"2020 "	"2020"	"Female"	"F"	Suppressed
+	"Vermont"	"50"	"2020 "	"2020"	"Male"	"M"	68
+	"Virginia"	"51"	"1999"	"1999"	"Female"	"F"	128
+	"Virginia"	"51"	"1999"	"1999"	"Male"	"M"	691
+	"Virginia"	"51"	"2000"	"2000"	"Female"	"F"	139
+	"Virginia"	"51"	"2000"	"2000"	"Male"	"M"	652
+	"Virginia"	"51"	"2001"	"2001"	"Female"	"F"	128
+	"Virginia"	"51"	"2001"	"2001"	"Male"	"M"	635
+	"Virginia"	"51"	"2002"	"2002"	"Female"	"F"	127
+	"Virginia"	"51"	"2002"	"2002"	"Male"	"M"	676
+	"Virginia"	"51"	"2003"	"2003"	"Female"	"F"	119
+	"Virginia"	"51"	"2003"	"2003"	"Male"	"M"	687
+	"Virginia"	"51"	"2004"	"2004"	"Female"	"F"	134
+	"Virginia"	"51"	"2004"	"2004"	"Male"	"M"	680
+	"Virginia"	"51"	"2005"	"2005"	"Female"	"F"	129
+	"Virginia"	"51"	"2005"	"2005"	"Male"	"M"	752
+	"Virginia"	"51"	"2006"	"2006"	"Female"	"F"	129
+	"Virginia"	"51"	"2006"	"2006"	"Male"	"M"	676
+	"Virginia"	"51"	"2007"	"2007"	"Female"	"F"	132
+	"Virginia"	"51"	"2007"	"2007"	"Male"	"M"	681
+	"Virginia"	"51"	"2008"	"2008"	"Female"	"F"	112
+	"Virginia"	"51"	"2008"	"2008"	"Male"	"M"	695
+	"Virginia"	"51"	"2009"	"2009"	"Female"	"F"	120
+	"Virginia"	"51"	"2009"	"2009"	"Male"	"M"	701
+	"Virginia"	"51"	"2010"	"2010"	"Female"	"F"	127
+	"Virginia"	"51"	"2010"	"2010"	"Male"	"M"	740
+	"Virginia"	"51"	"2011"	"2011"	"Female"	"F"	140
+	"Virginia"	"51"	"2011"	"2011"	"Male"	"M"	713
+	"Virginia"	"51"	"2012"	"2012"	"Female"	"F"	105
+	"Virginia"	"51"	"2012"	"2012"	"Male"	"M"	724
+	"Virginia"	"51"	"2013"	"2013"	"Female"	"F"	140
+	"Virginia"	"51"	"2013"	"2013"	"Male"	"M"	716
+	"Virginia"	"51"	"2014"	"2014"	"Female"	"F"	141
+	"Virginia"	"51"	"2014"	"2014"	"Male"	"M"	739
+	"Virginia"	"51"	"2015"	"2015"	"Female"	"F"	150
+	"Virginia"	"51"	"2015"	"2015"	"Male"	"M"	787
+	"Virginia"	"51"	"2016"	"2016"	"Female"	"F"	163
+	"Virginia"	"51"	"2016"	"2016"	"Male"	"M"	875
+	"Virginia"	"51"	"2017"	"2017"	"Female"	"F"	171
+	"Virginia"	"51"	"2017"	"2017"	"Male"	"M"	858
+	"Virginia"	"51"	"2018"	"2018"	"Female"	"F"	167
+	"Virginia"	"51"	"2018"	"2018"	"Male"	"M"	864
+	"Virginia"	"51"	"2019"	"2019"	"Female"	"F"	163
+	"Virginia"	"51"	"2019"	"2019"	"Male"	"M"	857
+	"Virginia"	"51"	"2020 "	"2020"	"Female"	"F"	174
+	"Virginia"	"51"	"2020 "	"2020"	"Male"	"M"	995
+	"Washington"	"53"	"1999"	"1999"	"Female"	"F"	84
+	"Washington"	"53"	"1999"	"1999"	"Male"	"M"	493
+	"Washington"	"53"	"2000"	"2000"	"Female"	"F"	78
+	"Washington"	"53"	"2000"	"2000"	"Male"	"M"	444
+	"Washington"	"53"	"2001"	"2001"	"Female"	"F"	88
+	"Washington"	"53"	"2001"	"2001"	"Male"	"M"	416
+	"Washington"	"53"	"2002"	"2002"	"Female"	"F"	74
+	"Washington"	"53"	"2002"	"2002"	"Male"	"M"	486
+	"Washington"	"53"	"2003"	"2003"	"Female"	"F"	80
+	"Washington"	"53"	"2003"	"2003"	"Male"	"M"	479
+	"Washington"	"53"	"2004"	"2004"	"Female"	"F"	91
+	"Washington"	"53"	"2004"	"2004"	"Male"	"M"	470
+	"Washington"	"53"	"2005"	"2005"	"Female"	"F"	69
+	"Washington"	"53"	"2005"	"2005"	"Male"	"M"	486
+	"Washington"	"53"	"2006"	"2006"	"Female"	"F"	65
+	"Washington"	"53"	"2006"	"2006"	"Male"	"M"	472
+	"Washington"	"53"	"2007"	"2007"	"Female"	"F"	65
+	"Washington"	"53"	"2007"	"2007"	"Male"	"M"	477
+	"Washington"	"53"	"2008"	"2008"	"Female"	"F"	67
+	"Washington"	"53"	"2008"	"2008"	"Male"	"M"	511
+	"Washington"	"53"	"2009"	"2009"	"Female"	"F"	101
+	"Washington"	"53"	"2009"	"2009"	"Male"	"M"	501
+	"Washington"	"53"	"2010"	"2010"	"Female"	"F"	100
+	"Washington"	"53"	"2010"	"2010"	"Male"	"M"	494
+	"Washington"	"53"	"2011"	"2011"	"Female"	"F"	98
+	"Washington"	"53"	"2011"	"2011"	"Male"	"M"	501
+	"Washington"	"53"	"2012"	"2012"	"Female"	"F"	95
+	"Washington"	"53"	"2012"	"2012"	"Male"	"M"	570
+	"Washington"	"53"	"2013"	"2013"	"Female"	"F"	90
+	"Washington"	"53"	"2013"	"2013"	"Male"	"M"	525
+	"Washington"	"53"	"2014"	"2014"	"Female"	"F"	106
+	"Washington"	"53"	"2014"	"2014"	"Male"	"M"	574
+	"Washington"	"53"	"2015"	"2015"	"Female"	"F"	131
+	"Washington"	"53"	"2015"	"2015"	"Male"	"M"	576
+	"Washington"	"53"	"2016"	"2016"	"Female"	"F"	97
+	"Washington"	"53"	"2016"	"2016"	"Male"	"M"	571
+	"Washington"	"53"	"2017"	"2017"	"Female"	"F"	116
+	"Washington"	"53"	"2017"	"2017"	"Male"	"M"	703
+	"Washington"	"53"	"2018"	"2018"	"Female"	"F"	120
+	"Washington"	"53"	"2018"	"2018"	"Male"	"M"	669
+	"Washington"	"53"	"2019"	"2019"	"Female"	"F"	121
+	"Washington"	"53"	"2019"	"2019"	"Male"	"M"	696
+	"Washington"	"53"	"2020 "	"2020"	"Female"	"F"	120
+	"Washington"	"53"	"2020 "	"2020"	"Male"	"M"	721
+	"West Virginia"	"54"	"1999"	"1999"	"Female"	"F"	36
+	"West Virginia"	"54"	"1999"	"1999"	"Male"	"M"	217
+	"West Virginia"	"54"	"2000"	"2000"	"Female"	"F"	36
+	"West Virginia"	"54"	"2000"	"2000"	"Male"	"M"	206
+	"West Virginia"	"54"	"2001"	"2001"	"Female"	"F"	37
+	"West Virginia"	"54"	"2001"	"2001"	"Male"	"M"	211
+	"West Virginia"	"54"	"2002"	"2002"	"Female"	"F"	33
+	"West Virginia"	"54"	"2002"	"2002"	"Male"	"M"	241
+	"West Virginia"	"54"	"2003"	"2003"	"Female"	"F"	42
+	"West Virginia"	"54"	"2003"	"2003"	"Male"	"M"	223
+	"West Virginia"	"54"	"2004"	"2004"	"Female"	"F"	39
+	"West Virginia"	"54"	"2004"	"2004"	"Male"	"M"	212
+	"West Virginia"	"54"	"2005"	"2005"	"Female"	"F"	46
+	"West Virginia"	"54"	"2005"	"2005"	"Male"	"M"	215
+	"West Virginia"	"54"	"2006"	"2006"	"Female"	"F"	53
+	"West Virginia"	"54"	"2006"	"2006"	"Male"	"M"	198
+	"West Virginia"	"54"	"2007"	"2007"	"Female"	"F"	34
+	"West Virginia"	"54"	"2007"	"2007"	"Male"	"M"	232
+	"West Virginia"	"54"	"2008"	"2008"	"Female"	"F"	44
+	"West Virginia"	"54"	"2008"	"2008"	"Male"	"M"	193
+	"West Virginia"	"54"	"2009"	"2009"	"Female"	"F"	38
+	"West Virginia"	"54"	"2009"	"2009"	"Male"	"M"	214
+	"West Virginia"	"54"	"2010"	"2010"	"Female"	"F"	36
+	"West Virginia"	"54"	"2010"	"2010"	"Male"	"M"	233
+	"West Virginia"	"54"	"2011"	"2011"	"Female"	"F"	51
+	"West Virginia"	"54"	"2011"	"2011"	"Male"	"M"	221
+	"West Virginia"	"54"	"2012"	"2012"	"Female"	"F"	51
+	"West Virginia"	"54"	"2012"	"2012"	"Male"	"M"	219
+	"West Virginia"	"54"	"2013"	"2013"	"Female"	"F"	30
+	"West Virginia"	"54"	"2013"	"2013"	"Male"	"M"	243
+	"West Virginia"	"54"	"2014"	"2014"	"Female"	"F"	52
+	"West Virginia"	"54"	"2014"	"2014"	"Male"	"M"	227
+	"West Virginia"	"54"	"2015"	"2015"	"Female"	"F"	42
+	"West Virginia"	"54"	"2015"	"2015"	"Male"	"M"	229
+	"West Virginia"	"54"	"2016"	"2016"	"Female"	"F"	53
+	"West Virginia"	"54"	"2016"	"2016"	"Male"	"M"	268
+	"West Virginia"	"54"	"2017"	"2017"	"Female"	"F"	62
+	"West Virginia"	"54"	"2017"	"2017"	"Male"	"M"	283
+	"West Virginia"	"54"	"2018"	"2018"	"Female"	"F"	63
+	"West Virginia"	"54"	"2018"	"2018"	"Male"	"M"	276
+	"West Virginia"	"54"	"2019"	"2019"	"Female"	"F"	56
+	"West Virginia"	"54"	"2019"	"2019"	"Male"	"M"	238
+	"West Virginia"	"54"	"2020 "	"2020"	"Female"	"F"	51
+	"West Virginia"	"54"	"2020 "	"2020"	"Male"	"M"	269
+	"Wisconsin"	"55"	"1999"	"1999"	"Female"	"F"	48
+	"Wisconsin"	"55"	"1999"	"1999"	"Male"	"M"	401
+	"Wisconsin"	"55"	"2000"	"2000"	"Female"	"F"	53
+	"Wisconsin"	"55"	"2000"	"2000"	"Male"	"M"	389
+	"Wisconsin"	"55"	"2001"	"2001"	"Female"	"F"	46
+	"Wisconsin"	"55"	"2001"	"2001"	"Male"	"M"	432
+	"Wisconsin"	"55"	"2002"	"2002"	"Female"	"F"	52
+	"Wisconsin"	"55"	"2002"	"2002"	"Male"	"M"	387
+	"Wisconsin"	"55"	"2003"	"2003"	"Female"	"F"	56
+	"Wisconsin"	"55"	"2003"	"2003"	"Male"	"M"	408
+	"Wisconsin"	"55"	"2004"	"2004"	"Female"	"F"	57
+	"Wisconsin"	"55"	"2004"	"2004"	"Male"	"M"	356
+	"Wisconsin"	"55"	"2005"	"2005"	"Female"	"F"	46
+	"Wisconsin"	"55"	"2005"	"2005"	"Male"	"M"	424
+	"Wisconsin"	"55"	"2006"	"2006"	"Female"	"F"	46
+	"Wisconsin"	"55"	"2006"	"2006"	"Male"	"M"	369
+	"Wisconsin"	"55"	"2007"	"2007"	"Female"	"F"	71
+	"Wisconsin"	"55"	"2007"	"2007"	"Male"	"M"	411
+	"Wisconsin"	"55"	"2008"	"2008"	"Female"	"F"	64
+	"Wisconsin"	"55"	"2008"	"2008"	"Male"	"M"	375
+	"Wisconsin"	"55"	"2009"	"2009"	"Female"	"F"	68
+	"Wisconsin"	"55"	"2009"	"2009"	"Male"	"M"	385
+	"Wisconsin"	"55"	"2010"	"2010"	"Female"	"F"	51
+	"Wisconsin"	"55"	"2010"	"2010"	"Male"	"M"	442
+	"Wisconsin"	"55"	"2011"	"2011"	"Female"	"F"	52
+	"Wisconsin"	"55"	"2011"	"2011"	"Male"	"M"	391
+	"Wisconsin"	"55"	"2012"	"2012"	"Female"	"F"	43
+	"Wisconsin"	"55"	"2012"	"2012"	"Male"	"M"	434
+	"Wisconsin"	"55"	"2013"	"2013"	"Female"	"F"	63
+	"Wisconsin"	"55"	"2013"	"2013"	"Male"	"M"	501
+	"Wisconsin"	"55"	"2014"	"2014"	"Female"	"F"	63
+	"Wisconsin"	"55"	"2014"	"2014"	"Male"	"M"	419
+	"Wisconsin"	"55"	"2015"	"2015"	"Female"	"F"	70
+	"Wisconsin"	"55"	"2015"	"2015"	"Male"	"M"	539
+	"Wisconsin"	"55"	"2016"	"2016"	"Female"	"F"	83
+	"Wisconsin"	"55"	"2016"	"2016"	"Male"	"M"	573
+	"Wisconsin"	"55"	"2017"	"2017"	"Female"	"F"	78
+	"Wisconsin"	"55"	"2017"	"2017"	"Male"	"M"	533
+	"Wisconsin"	"55"	"2018"	"2018"	"Female"	"F"	58
+	"Wisconsin"	"55"	"2018"	"2018"	"Male"	"M"	528
+	"Wisconsin"	"55"	"2019"	"2019"	"Female"	"F"	87
+	"Wisconsin"	"55"	"2019"	"2019"	"Male"	"M"	503
+	"Wisconsin"	"55"	"2020 "	"2020"	"Female"	"F"	87
+	"Wisconsin"	"55"	"2020 "	"2020"	"Male"	"M"	624
+	"Wyoming"	"56"	"1999"	"1999"	"Female"	"F"	11
+	"Wyoming"	"56"	"1999"	"1999"	"Male"	"M"	62
+	"Wyoming"	"56"	"2000"	"2000"	"Female"	"F"	12
+	"Wyoming"	"56"	"2000"	"2000"	"Male"	"M"	49
+	"Wyoming"	"56"	"2001"	"2001"	"Female"	"F"	Suppressed
+	"Wyoming"	"56"	"2001"	"2001"	"Male"	"M"	61
+	"Wyoming"	"56"	"2002"	"2002"	"Female"	"F"	14
+	"Wyoming"	"56"	"2002"	"2002"	"Male"	"M"	81
+	"Wyoming"	"56"	"2003"	"2003"	"Female"	"F"	Suppressed
+	"Wyoming"	"56"	"2003"	"2003"	"Male"	"M"	82
+	"Wyoming"	"56"	"2004"	"2004"	"Female"	"F"	Suppressed
+	"Wyoming"	"56"	"2004"	"2004"	"Male"	"M"	47
+	"Wyoming"	"56"	"2005"	"2005"	"Female"	"F"	17
+	"Wyoming"	"56"	"2005"	"2005"	"Male"	"M"	54
+	"Wyoming"	"56"	"2006"	"2006"	"Female"	"F"	11
+	"Wyoming"	"56"	"2006"	"2006"	"Male"	"M"	70
+	"Wyoming"	"56"	"2007"	"2007"	"Female"	"F"	Suppressed
+	"Wyoming"	"56"	"2007"	"2007"	"Male"	"M"	66
+	"Wyoming"	"56"	"2008"	"2008"	"Female"	"F"	12
+	"Wyoming"	"56"	"2008"	"2008"	"Male"	"M"	81
+	"Wyoming"	"56"	"2009"	"2009"	"Female"	"F"	13
+	"Wyoming"	"56"	"2009"	"2009"	"Male"	"M"	83
+	"Wyoming"	"56"	"2010"	"2010"	"Female"	"F"	16
+	"Wyoming"	"56"	"2010"	"2010"	"Male"	"M"	76
+	"Wyoming"	"56"	"2011"	"2011"	"Female"	"F"	13
+	"Wyoming"	"56"	"2011"	"2011"	"Male"	"M"	83
+	"Wyoming"	"56"	"2012"	"2012"	"Female"	"F"	14
+	"Wyoming"	"56"	"2012"	"2012"	"Male"	"M"	103
+	"Wyoming"	"56"	"2013"	"2013"	"Female"	"F"	14
+	"Wyoming"	"56"	"2013"	"2013"	"Male"	"M"	89
+	"Wyoming"	"56"	"2014"	"2014"	"Female"	"F"	17
+	"Wyoming"	"56"	"2014"	"2014"	"Male"	"M"	74
+	"Wyoming"	"56"	"2015"	"2015"	"Female"	"F"	17
+	"Wyoming"	"56"	"2015"	"2015"	"Male"	"M"	96
+	"Wyoming"	"56"	"2016"	"2016"	"Female"	"F"	16
+	"Wyoming"	"56"	"2016"	"2016"	"Male"	"M"	86
+	"Wyoming"	"56"	"2017"	"2017"	"Female"	"F"	12
+	"Wyoming"	"56"	"2017"	"2017"	"Male"	"M"	100
+	"Wyoming"	"56"	"2018"	"2018"	"Female"	"F"	27
+	"Wyoming"	"56"	"2018"	"2018"	"Male"	"M"	96
+	"Wyoming"	"56"	"2019"	"2019"	"Female"	"F"	20
+	"Wyoming"	"56"	"2019"	"2019"	"Male"	"M"	112
+	"Wyoming"	"56"	"2020 "	"2020"	"Female"	"F"	21
+	"Wyoming"	"56"	"2020 "	"2020"	"Male"	"M"	130
