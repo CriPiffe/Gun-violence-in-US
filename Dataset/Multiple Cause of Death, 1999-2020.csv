@@ -1,2245 +1,2245 @@
 ,State,Gender,Year,Deaths
-0,Alabama,Female,1999.0,156.0
-1,New Hampshire,Male,1999.0,64.0
-2,Arkansas,Female,1999.0,62.0
-3,Arkansas,Male,1999.0,327.0
-4,District of Columbia,Male,1999.0,147.0
-5,District of Columbia,Female,1999.0,12.0
-6,Oklahoma,Male,1999.0,420.0
-7,New Hampshire,Female,1999.0,
-8,Oklahoma,Female,1999.0,87.0
-9,Indiana,Male,1999.0,582.0
-10,Maryland,Male,1999.0,584.0
-11,Maryland,Female,1999.0,60.0
-12,Texas,Female,1999.0,338.0
-13,Texas,Male,1999.0,1781.0
-14,New Jersey,Female,1999.0,47.0
-15,Indiana,Female,1999.0,94.0
-16,West Virginia,Female,1999.0,36.0
-17,Massachusetts,Female,1999.0,24.0
-18,Massachusetts,Male,1999.0,169.0
-19,Nebraska,Male,1999.0,125.0
-20,Florida,Male,1999.0,1410.0
-21,Florida,Female,1999.0,305.0
-22,Wisconsin,Male,1999.0,401.0
-23,Wisconsin,Female,1999.0,48.0
-24,Arizona,Female,1999.0,132.0
-25,Arizona,Male,1999.0,674.0
-26,Oregon,Male,1999.0,330.0
-27,Oregon,Female,1999.0,55.0
-28,Illinois,Female,1999.0,126.0
-29,Illinois,Male,1999.0,1081.0
-30,Nevada,Female,1999.0,55.0
-31,Nevada,Male,1999.0,314.0
-32,Tennessee,Female,1999.0,133.0
-33,Tennessee,Male,1999.0,718.0
-34,New Jersey,Male,1999.0,314.0
-35,Nebraska,Female,1999.0,21.0
-36,Washington,Male,1999.0,493.0
-37,Ohio,Male,1999.0,805.0
-38,Louisiana,Male,1999.0,650.0
-39,Louisiana,Female,1999.0,126.0
-40,Colorado,Female,1999.0,74.0
-41,Colorado,Male,1999.0,381.0
-42,New York,Female,1999.0,108.0
-43,New York,Male,1999.0,903.0
-44,Kansas,Male,1999.0,231.0
-45,Connecticut,Male,1999.0,184.0
-46,North Carolina,Male,1999.0,879.0
-47,North Carolina,Female,1999.0,184.0
-48,Kentucky,Female,1999.0,86.0
-49,Kentucky,Male,1999.0,440.0
-50,Vermont,Female,1999.0,10.0
-51,Vermont,Male,1999.0,50.0
-52,Connecticut,Female,1999.0,13.0
-53,Kansas,Female,1999.0,40.0
-54,North Dakota,Female,1999.0,10.0
-55,North Dakota,Male,1999.0,39.0
-56,Ohio,Female,1999.0,130.0
-57,Iowa,Female,1999.0,27.0
-58,Iowa,Male,1999.0,180.0
-59,California,Female,1999.0,408.0
-60,California,Male,1999.0,2596.0
-61,Maine,Male,1999.0,94.0
-62,Maine,Female,1999.0,18.0
-63,Delaware,Male,1999.0,56.0
-64,Delaware,Female,1999.0,
-65,New Mexico,Female,1999.0,38.0
-66,New Mexico,Male,1999.0,246.0
-67,Utah,Female,1999.0,21.0
-68,Utah,Male,1999.0,166.0
-69,Virginia,Male,1999.0,691.0
-70,Virginia,Female,1999.0,128.0
-71,Washington,Female,1999.0,84.0
-72,Michigan,Female,1999.0,140.0
-73,West Virginia,Male,1999.0,217.0
-74,Idaho,Female,1999.0,23.0
-75,Missouri,Female,1999.0,96.0
-76,Georgia,Male,1999.0,917.0
-77,South Dakota,Male,1999.0,62.0
-78,Hawaii,Male,1999.0,40.0
-79,Georgia,Female,1999.0,189.0
-80,Pennsylvania,Female,1999.0,158.0
-81,Missouri,Male,1999.0,617.0
-82,Idaho,Male,1999.0,130.0
-83,Montana,Male,1999.0,109.0
-84,Hawaii,Female,1999.0,
-85,Rhode Island,Female,1999.0,
-86,Montana,Female,1999.0,15.0
-87,Pennsylvania,Male,1999.0,1033.0
-88,Rhode Island,Male,1999.0,48.0
-89,Alaska,Male,1999.0,71.0
-90,Alaska,Female,1999.0,16.0
-91,South Dakota,Female,1999.0,10.0
-92,Minnesota,Male,1999.0,277.0
-93,Michigan,Male,1999.0,950.0
-94,South Carolina,Male,1999.0,437.0
-95,South Carolina,Female,1999.0,109.0
-96,Wyoming,Female,1999.0,11.0
-97,Minnesota,Female,1999.0,23.0
-98,Wyoming,Male,1999.0,62.0
-99,Alabama,Male,1999.0,635.0
-100,Mississippi,Female,1999.0,82.0
-101,Mississippi,Male,1999.0,432.0
-102,Delaware,Female,2000.0,
-103,Maine,Male,2000.0,96.0
-104,Maine,Female,2000.0,14.0
-105,Georgia,Female,2000.0,193.0
-106,Michigan,Female,2000.0,163.0
-107,California,Male,2000.0,2655.0
-108,California,Female,2000.0,395.0
-109,Georgia,Male,2000.0,908.0
-110,Iowa,Male,2000.0,173.0
-111,Iowa,Female,2000.0,19.0
-112,South Carolina,Female,2000.0,85.0
-113,South Carolina,Male,2000.0,410.0
-114,Ohio,Female,2000.0,125.0
-115,Ohio,Male,2000.0,765.0
-116,Washington,Female,2000.0,78.0
-117,Washington,Male,2000.0,444.0
-118,New Jersey,Male,2000.0,310.0
-119,New Jersey,Female,2000.0,32.0
-120,Delaware,Male,2000.0,43.0
-121,Hawaii,Male,2000.0,45.0
-122,Virginia,Male,2000.0,652.0
-123,New Mexico,Male,2000.0,248.0
-124,Alabama,Female,2000.0,137.0
-125,Kentucky,Male,2000.0,460.0
-126,Kentucky,Female,2000.0,85.0
-127,Alabama,Male,2000.0,629.0
-128,North Carolina,Female,2000.0,192.0
-129,North Carolina,Male,2000.0,926.0
-130,Rhode Island,Male,2000.0,51.0
-131,Connecticut,Female,2000.0,20.0
-132,Connecticut,Male,2000.0,161.0
-133,New York,Male,2000.0,980.0
-134,New York,Female,2000.0,102.0
-135,Rhode Island,Female,2000.0,
-136,Colorado,Male,2000.0,369.0
-137,Colorado,Female,2000.0,76.0
-138,Kansas,Male,2000.0,258.0
-139,Kansas,Female,2000.0,41.0
-140,Mississippi,Male,2000.0,394.0
-141,Louisiana,Female,2000.0,110.0
-142,Louisiana,Male,2000.0,680.0
-143,Mississippi,Female,2000.0,80.0
-144,Missouri,Female,2000.0,114.0
-145,Virginia,Female,2000.0,139.0
-146,Wyoming,Male,2000.0,49.0
-147,Utah,Male,2000.0,166.0
-148,Utah,Female,2000.0,27.0
-149,Missouri,Male,2000.0,630.0
-150,Hawaii,Female,2000.0,
-151,North Dakota,Female,2000.0,
-152,North Dakota,Male,2000.0,41.0
-153,New Mexico,Female,2000.0,38.0
-154,Texas,Male,2000.0,1803.0
-155,Vermont,Female,2000.0,
-156,Wyoming,Female,2000.0,12.0
-157,Nebraska,Female,2000.0,28.0
-158,South Dakota,Male,2000.0,54.0
-159,Nebraska,Male,2000.0,138.0
-160,Idaho,Male,2000.0,107.0
-161,Idaho,Female,2000.0,18.0
-162,West Virginia,Female,2000.0,36.0
-163,West Virginia,Male,2000.0,206.0
-164,Oklahoma,Female,2000.0,82.0
-165,Arizona,Female,2000.0,112.0
-166,Oklahoma,Male,2000.0,365.0
-167,Texas,Female,2000.0,363.0
-168,New Hampshire,Female,2000.0,10.0
-169,Tennessee,Male,2000.0,764.0
-170,Tennessee,Female,2000.0,134.0
-171,Nevada,Male,2000.0,297.0
-172,Nevada,Female,2000.0,43.0
-173,Massachusetts,Female,2000.0,24.0
-174,Massachusetts,Male,2000.0,151.0
-175,Montana,Female,2000.0,11.0
-176,Montana,Male,2000.0,121.0
-177,Oregon,Male,2000.0,308.0
-178,Illinois,Male,2000.0,1021.0
-179,Illinois,Female,2000.0,110.0
-180,South Dakota,Female,2000.0,
-181,Arizona,Male,2000.0,678.0
-182,New Hampshire,Male,2000.0,73.0
-183,Vermont,Male,2000.0,49.0
-184,Oregon,Female,2000.0,66.0
-185,Indiana,Male,2000.0,584.0
-186,Indiana,Female,2000.0,88.0
-187,Maryland,Female,2000.0,67.0
-188,Pennsylvania,Female,2000.0,144.0
-189,Wisconsin,Male,2000.0,389.0
-190,Minnesota,Male,2000.0,275.0
-191,Minnesota,Female,2000.0,42.0
-192,Maryland,Male,2000.0,539.0
-193,Alaska,Male,2000.0,100.0
-194,Alaska,Female,2000.0,16.0
-195,District of Columbia,Female,2000.0,13.0
-196,District of Columbia,Male,2000.0,135.0
-197,Florida,Female,2000.0,269.0
-198,Arkansas,Male,2000.0,346.0
-199,Arkansas,Female,2000.0,68.0
-200,Florida,Male,2000.0,1411.0
-201,Michigan,Male,2000.0,904.0
-202,Pennsylvania,Male,2000.0,1106.0
-203,Wisconsin,Female,2000.0,53.0
-204,Oregon,Female,2001.0,58.0
-205,Florida,Female,2001.0,286.0
-206,Florida,Male,2001.0,1525.0
-207,North Carolina,Male,2001.0,947.0
-208,Oregon,Male,2001.0,291.0
-209,Idaho,Male,2001.0,140.0
-210,Kansas,Male,2001.0,222.0
-211,Connecticut,Male,2001.0,179.0
-212,Idaho,Female,2001.0,33.0
-213,Connecticut,Female,2001.0,14.0
-214,South Dakota,Male,2001.0,47.0
-215,South Dakota,Female,2001.0,
-216,North Carolina,Female,2001.0,148.0
-217,Rhode Island,Female,2001.0,
-218,Rhode Island,Male,2001.0,43.0
-219,Kansas,Female,2001.0,45.0
-220,Tennessee,Female,2001.0,129.0
-221,Illinois,Male,2001.0,1146.0
-222,Pennsylvania,Female,2001.0,155.0
-223,Indiana,Male,2001.0,604.0
-224,Indiana,Female,2001.0,130.0
-225,Texas,Female,2001.0,370.0
-226,Ohio,Male,2001.0,900.0
-227,Ohio,Female,2001.0,131.0
-228,Pennsylvania,Male,2001.0,1011.0
-229,Hawaii,Male,2001.0,37.0
-230,South Carolina,Male,2001.0,447.0
-231,South Carolina,Female,2001.0,116.0
-232,Delaware,Male,2001.0,58.0
-233,Delaware,Female,2001.0,17.0
-234,Illinois,Female,2001.0,137.0
-235,District of Columbia,Female,2001.0,
-236,Georgia,Female,2001.0,188.0
-237,Georgia,Male,2001.0,932.0
-238,Iowa,Female,2001.0,14.0
-239,Iowa,Male,2001.0,175.0
-240,Hawaii,Female,2001.0,
-241,North Dakota,Male,2001.0,42.0
-242,North Dakota,Female,2001.0,
-243,Oklahoma,Female,2001.0,67.0
-244,Oklahoma,Male,2001.0,407.0
-245,Tennessee,Male,2001.0,719.0
-246,Utah,Female,2001.0,35.0
-247,Utah,Male,2001.0,191.0
-248,District of Columbia,Male,2001.0,161.0
-249,Texas,Male,2001.0,1962.0
-250,New York,Female,2001.0,94.0
-251,Vermont,Male,2001.0,47.0
-252,Arkansas,Male,2001.0,346.0
-253,Maryland,Male,2001.0,543.0
-254,Maryland,Female,2001.0,56.0
-255,New Hampshire,Female,2001.0,12.0
-256,New Hampshire,Male,2001.0,80.0
-257,Minnesota,Female,2001.0,41.0
-258,Minnesota,Male,2001.0,281.0
-259,Washington,Male,2001.0,416.0
-260,Washington,Female,2001.0,88.0
-261,New Jersey,Female,2001.0,35.0
-262,New Jersey,Male,2001.0,333.0
-263,Maine,Male,2001.0,81.0
-264,Maine,Female,2001.0,17.0
-265,California,Female,2001.0,390.0
-266,California,Male,2001.0,2764.0
-267,Missouri,Male,2001.0,663.0
-268,New Mexico,Female,2001.0,46.0
-269,Arkansas,Female,2001.0,65.0
-270,New Mexico,Male,2001.0,219.0
-271,Vermont,Female,2001.0,
-272,West Virginia,Male,2001.0,211.0
-273,Montana,Female,2001.0,23.0
-274,Alaska,Male,2001.0,81.0
-275,Alaska,Female,2001.0,14.0
-276,Wyoming,Female,2001.0,
-277,Wyoming,Male,2001.0,61.0
-278,Michigan,Male,2001.0,948.0
-279,Michigan,Female,2001.0,123.0
-280,Wisconsin,Male,2001.0,432.0
-281,Wisconsin,Female,2001.0,46.0
-282,Nebraska,Female,2001.0,14.0
-283,Nebraska,Male,2001.0,124.0
-284,Arizona,Female,2001.0,120.0
-285,Arizona,Male,2001.0,712.0
-286,Massachusetts,Male,2001.0,185.0
-287,Massachusetts,Female,2001.0,
-288,Nevada,Female,2001.0,55.0
-289,Nevada,Male,2001.0,280.0
-290,West Virginia,Female,2001.0,37.0
-291,Missouri,Female,2001.0,89.0
-292,Montana,Male,2001.0,137.0
-293,Mississippi,Male,2001.0,421.0
-294,Alabama,Male,2001.0,611.0
-295,Colorado,Male,2001.0,427.0
-296,Mississippi,Female,2001.0,80.0
-297,Virginia,Male,2001.0,635.0
-298,Louisiana,Female,2001.0,123.0
-299,Louisiana,Male,2001.0,660.0
-300,Virginia,Female,2001.0,128.0
-301,Colorado,Female,2001.0,77.0
-302,Alabama,Female,2001.0,130.0
-303,Kentucky,Male,2001.0,451.0
-304,New York,Male,2001.0,970.0
-305,Kentucky,Female,2001.0,73.0
-306,Massachusetts,Female,2002.0,11.0
-307,Massachusetts,Male,2002.0,190.0
-308,Pennsylvania,Male,2002.0,1050.0
-309,Pennsylvania,Female,2002.0,167.0
-310,New York,Female,2002.0,92.0
-311,Alabama,Female,2002.0,112.0
-312,Nevada,Male,2002.0,311.0
-313,Nevada,Female,2002.0,54.0
-314,Nebraska,Male,2002.0,121.0
-315,Illinois,Female,2002.0,119.0
-316,Illinois,Male,2002.0,1115.0
-317,Hawaii,Male,2002.0,30.0
-318,Hawaii,Female,2002.0,
-319,Oklahoma,Male,2002.0,369.0
-320,Oklahoma,Female,2002.0,84.0
-321,West Virginia,Male,2002.0,241.0
-322,West Virginia,Female,2002.0,33.0
-323,Colorado,Female,2002.0,78.0
-324,Connecticut,Female,2002.0,11.0
-325,District of Columbia,Male,2002.0,173.0
-326,District of Columbia,Female,2002.0,22.0
-327,Colorado,Male,2002.0,431.0
-328,Nebraska,Female,2002.0,18.0
-329,Virginia,Male,2002.0,676.0
-330,Arizona,Female,2002.0,133.0
-331,Montana,Male,2002.0,114.0
-332,Vermont,Female,2002.0,
-333,Alaska,Male,2002.0,91.0
-334,Alaska,Female,2002.0,34.0
-335,Vermont,Male,2002.0,55.0
-336,Michigan,Male,2002.0,953.0
-337,Michigan,Female,2002.0,138.0
-338,Idaho,Female,2002.0,16.0
-339,Idaho,Male,2002.0,146.0
-340,Kentucky,Female,2002.0,87.0
-341,Florida,Male,2002.0,1573.0
-342,Arizona,Male,2002.0,823.0
-343,Florida,Female,2002.0,304.0
-344,Rhode Island,Male,2002.0,50.0
-345,Wisconsin,Male,2002.0,387.0
-346,Wisconsin,Female,2002.0,52.0
-347,Rhode Island,Female,2002.0,
-348,North Carolina,Female,2002.0,179.0
-349,South Dakota,Female,2002.0,
-350,South Dakota,Male,2002.0,56.0
-351,Oregon,Male,2002.0,316.0
-352,Oregon,Female,2002.0,53.0
-353,North Carolina,Male,2002.0,954.0
-354,New York,Male,2002.0,890.0
-355,Kentucky,Male,2002.0,456.0
-356,Connecticut,Male,2002.0,135.0
-357,Alabama,Male,2002.0,613.0
-358,Ohio,Male,2002.0,932.0
-359,Ohio,Female,2002.0,134.0
-360,Mississippi,Female,2002.0,84.0
-361,Maine,Male,2002.0,76.0
-362,Maine,Female,2002.0,11.0
-363,Louisiana,Female,2002.0,127.0
-364,Louisiana,Male,2002.0,745.0
-365,Delaware,Male,2002.0,66.0
-366,Delaware,Female,2002.0,
-367,Utah,Male,2002.0,176.0
-368,Utah,Female,2002.0,26.0
-369,California,Female,2002.0,407.0
-370,California,Male,2002.0,2970.0
-371,New Jersey,Female,2002.0,39.0
-372,New Jersey,Male,2002.0,376.0
-373,Missouri,Male,2002.0,606.0
-374,Iowa,Female,2002.0,27.0
-375,Iowa,Male,2002.0,169.0
-376,Georgia,Female,2002.0,176.0
-377,Georgia,Male,2002.0,945.0
-378,Missouri,Female,2002.0,90.0
-379,North Dakota,Male,2002.0,55.0
-380,North Dakota,Female,2002.0,
-381,Virginia,Female,2002.0,127.0
-382,New Mexico,Female,2002.0,40.0
-383,New Mexico,Male,2002.0,259.0
-384,Wyoming,Female,2002.0,14.0
-385,Texas,Male,2002.0,1916.0
-386,New Hampshire,Male,2002.0,65.0
-387,Washington,Female,2002.0,74.0
-388,Arkansas,Female,2002.0,65.0
-389,Arkansas,Male,2002.0,376.0
-390,Tennessee,Female,2002.0,158.0
-391,Tennessee,Male,2002.0,748.0
-392,South Carolina,Male,2002.0,474.0
-393,South Carolina,Female,2002.0,92.0
-394,Maryland,Male,2002.0,547.0
-395,Maryland,Female,2002.0,60.0
-396,Mississippi,Male,2002.0,404.0
-397,Texas,Female,2002.0,366.0
-398,Kansas,Female,2002.0,40.0
-399,Indiana,Female,2002.0,111.0
-400,Kansas,Male,2002.0,229.0
-401,Wyoming,Male,2002.0,81.0
-402,Washington,Male,2002.0,486.0
-403,Indiana,Male,2002.0,609.0
-404,Montana,Female,2002.0,19.0
-405,Minnesota,Male,2002.0,275.0
-406,New Hampshire,Female,2002.0,
-407,Minnesota,Female,2002.0,29.0
-408,Hawaii,Female,2003.0,
-409,Mississippi,Female,2003.0,90.0
-410,Missouri,Female,2003.0,85.0
-411,Pennsylvania,Male,2003.0,1091.0
-412,Pennsylvania,Female,2003.0,137.0
-413,Missouri,Male,2003.0,572.0
-414,Minnesota,Male,2003.0,293.0
-415,Minnesota,Female,2003.0,37.0
-416,Hawaii,Male,2003.0,30.0
-417,Mississippi,Male,2003.0,384.0
-418,Nevada,Female,2003.0,59.0
-419,Montana,Male,2003.0,125.0
-420,New Jersey,Female,2003.0,54.0
-421,New Jersey,Male,2003.0,397.0
-422,Iowa,Female,2003.0,24.0
-423,Iowa,Male,2003.0,182.0
-424,North Dakota,Male,2003.0,48.0
-425,North Dakota,Female,2003.0,
-426,Louisiana,Male,2003.0,725.0
-427,Louisiana,Female,2003.0,118.0
-428,New Mexico,Female,2003.0,39.0
-429,New Mexico,Male,2003.0,279.0
-430,Kansas,Female,2003.0,41.0
-431,Kansas,Male,2003.0,257.0
-432,North Carolina,Male,2003.0,902.0
-433,North Carolina,Female,2003.0,158.0
-434,Rhode Island,Female,2003.0,
-435,New York,Female,2003.0,90.0
-436,New York,Male,2003.0,939.0
-437,Kentucky,Male,2003.0,479.0
-438,Kentucky,Female,2003.0,79.0
-439,Maine,Female,2003.0,11.0
-440,Maine,Male,2003.0,70.0
-441,New Hampshire,Male,2003.0,79.0
-442,New Hampshire,Female,2003.0,
-443,Michigan,Male,2003.0,896.0
-444,Michigan,Female,2003.0,130.0
-445,Idaho,Male,2003.0,143.0
-446,Oregon,Male,2003.0,343.0
-447,Oregon,Female,2003.0,46.0
-448,Nebraska,Female,2003.0,15.0
-449,Nebraska,Male,2003.0,116.0
-450,Massachusetts,Male,2003.0,182.0
-451,Massachusetts,Female,2003.0,22.0
-452,Montana,Female,2003.0,21.0
-453,Illinois,Female,2003.0,103.0
-454,Oklahoma,Male,2003.0,380.0
-455,Oklahoma,Female,2003.0,63.0
-456,Nevada,Male,2003.0,310.0
-457,Maryland,Male,2003.0,583.0
-458,Maryland,Female,2003.0,59.0
-459,Indiana,Female,2003.0,102.0
-460,Indiana,Male,2003.0,592.0
-461,Ohio,Male,2003.0,821.0
-462,Ohio,Female,2003.0,103.0
-463,Illinois,Male,2003.0,1043.0
-464,Rhode Island,Male,2003.0,32.0
-465,Idaho,Female,2003.0,19.0
-466,South Dakota,Male,2003.0,61.0
-467,Utah,Male,2003.0,199.0
-468,Arkansas,Male,2003.0,352.0
-469,California,Male,2003.0,3019.0
-470,Arkansas,Female,2003.0,53.0
-471,California,Female,2003.0,378.0
-472,Florida,Female,2003.0,290.0
-473,Tennessee,Female,2003.0,145.0
-474,District of Columbia,Female,2003.0,
-475,District of Columbia,Male,2003.0,159.0
-476,Colorado,Female,2003.0,72.0
-477,Colorado,Male,2003.0,421.0
-478,Utah,Female,2003.0,28.0
-479,Washington,Female,2003.0,80.0
-480,Connecticut,Male,2003.0,131.0
-481,Connecticut,Female,2003.0,22.0
-482,Vermont,Male,2003.0,44.0
-483,Vermont,Female,2003.0,
-484,Alaska,Male,2003.0,102.0
-485,Alaska,Female,2003.0,18.0
-486,Wyoming,Female,2003.0,
-487,Wyoming,Male,2003.0,82.0
-488,West Virginia,Female,2003.0,42.0
-489,West Virginia,Male,2003.0,223.0
-490,South Dakota,Female,2003.0,10.0
-491,Washington,Male,2003.0,479.0
-492,Virginia,Female,2003.0,119.0
-493,Tennessee,Male,2003.0,695.0
-494,Florida,Male,2003.0,1645.0
-495,Alabama,Male,2003.0,634.0
-496,Wisconsin,Male,2003.0,408.0
-497,Texas,Female,2003.0,390.0
-498,Wisconsin,Female,2003.0,56.0
-499,Texas,Male,2003.0,2015.0
-500,Delaware,Female,2003.0,
-501,Virginia,Male,2003.0,687.0
-502,Alabama,Female,2003.0,132.0
-503,Georgia,Male,2003.0,975.0
-504,Georgia,Female,2003.0,195.0
-505,South Carolina,Female,2003.0,109.0
-506,Delaware,Male,2003.0,56.0
-507,South Carolina,Male,2003.0,483.0
-508,Arizona,Female,2003.0,124.0
-509,Arizona,Male,2003.0,717.0
-510,Arizona,Male,2004.0,770.0
-511,North Carolina,Male,2004.0,888.0
-512,Illinois,Male,2004.0,878.0
-513,Illinois,Female,2004.0,115.0
-514,North Carolina,Female,2004.0,167.0
-515,Wisconsin,Female,2004.0,57.0
-516,Nebraska,Female,2004.0,12.0
-517,Utah,Female,2004.0,25.0
-518,Utah,Male,2004.0,195.0
-519,Alaska,Male,2004.0,101.0
-520,Arizona,Female,2004.0,110.0
-521,South Dakota,Female,2004.0,
-522,South Dakota,Male,2004.0,67.0
-523,West Virginia,Male,2004.0,212.0
-524,Alaska,Female,2004.0,15.0
-525,Wyoming,Male,2004.0,47.0
-526,Wyoming,Female,2004.0,
-527,Delaware,Female,2004.0,11.0
-528,Delaware,Male,2004.0,63.0
-529,Kansas,Male,2004.0,242.0
-530,North Dakota,Male,2004.0,46.0
-531,Montana,Male,2004.0,105.0
-532,Indiana,Male,2004.0,544.0
-533,Indiana,Female,2004.0,90.0
-534,Michigan,Female,2004.0,136.0
-535,Michigan,Male,2004.0,912.0
-536,North Dakota,Female,2004.0,
-537,New Jersey,Female,2004.0,39.0
-538,New Jersey,Male,2004.0,410.0
-539,Iowa,Female,2004.0,14.0
-540,Tennessee,Male,2004.0,728.0
-541,Tennessee,Female,2004.0,142.0
-542,California,Male,2004.0,2887.0
-543,California,Female,2004.0,366.0
-544,Texas,Male,2004.0,1950.0
-545,Ohio,Male,2004.0,886.0
-546,Texas,Female,2004.0,384.0
-547,District of Columbia,Female,2004.0,10.0
-548,Wisconsin,Male,2004.0,356.0
-549,District of Columbia,Male,2004.0,133.0
-550,Massachusetts,Male,2004.0,192.0
-551,Massachusetts,Female,2004.0,13.0
-552,Oklahoma,Female,2004.0,71.0
-553,Oklahoma,Male,2004.0,378.0
-554,Connecticut,Male,2004.0,153.0
-555,Connecticut,Female,2004.0,20.0
-556,Iowa,Male,2004.0,176.0
-557,Montana,Female,2004.0,20.0
-558,Kansas,Female,2004.0,50.0
-559,Ohio,Female,2004.0,149.0
-560,Oregon,Male,2004.0,326.0
-561,Colorado,Male,2004.0,460.0
-562,Colorado,Female,2004.0,83.0
-563,Pennsylvania,Female,2004.0,166.0
-564,Pennsylvania,Male,2004.0,1102.0
-565,Oregon,Female,2004.0,52.0
-566,Maryland,Male,2004.0,587.0
-567,Maryland,Female,2004.0,61.0
-568,Maine,Female,2004.0,13.0
-569,Maine,Male,2004.0,95.0
-570,New Mexico,Male,2004.0,244.0
-571,New Mexico,Female,2004.0,41.0
-572,Alabama,Male,2004.0,566.0
-573,Arkansas,Female,2004.0,60.0
-574,Arkansas,Male,2004.0,341.0
-575,Hawaii,Male,2004.0,35.0
-576,Hawaii,Female,2004.0,
-577,South Carolina,Male,2004.0,476.0
-578,Virginia,Male,2004.0,680.0
-579,Virginia,Female,2004.0,134.0
-580,New Hampshire,Female,2004.0,
-581,Rhode Island,Male,2004.0,35.0
-582,Rhode Island,Female,2004.0,
-583,New Hampshire,Male,2004.0,60.0
-584,Missouri,Female,2004.0,106.0
-585,Mississippi,Male,2004.0,410.0
-586,Alabama,Female,2004.0,117.0
-587,Louisiana,Male,2004.0,781.0
-588,Louisiana,Female,2004.0,121.0
-589,Georgia,Male,2004.0,879.0
-590,Georgia,Female,2004.0,182.0
-591,South Carolina,Female,2004.0,95.0
-592,Mississippi,Female,2004.0,62.0
-593,Missouri,Male,2004.0,563.0
-594,Nebraska,Male,2004.0,105.0
-595,Kentucky,Male,2004.0,460.0
-596,New York,Female,2004.0,68.0
-597,New York,Male,2004.0,881.0
-598,Vermont,Male,2004.0,57.0
-599,Minnesota,Male,2004.0,317.0
-600,Minnesota,Female,2004.0,43.0
-601,Washington,Male,2004.0,470.0
-602,Washington,Female,2004.0,91.0
-603,Florida,Male,2004.0,1558.0
-604,Kentucky,Female,2004.0,93.0
-605,Florida,Female,2004.0,324.0
-606,Idaho,Female,2004.0,20.0
-607,Nevada,Male,2004.0,328.0
-608,Nevada,Female,2004.0,54.0
-609,West Virginia,Female,2004.0,39.0
-610,Idaho,Male,2004.0,155.0
-611,Vermont,Female,2004.0,
-612,Iowa,Female,2005.0,27.0
-613,Texas,Male,2005.0,2081.0
-614,Texas,Female,2005.0,390.0
-615,Iowa,Male,2005.0,174.0
-616,Nevada,Male,2005.0,330.0
-617,New Jersey,Male,2005.0,391.0
-618,Nebraska,Female,2005.0,15.0
-619,New York,Female,2005.0,100.0
-620,Louisiana,Female,2005.0,133.0
-621,Utah,Male,2005.0,199.0
-622,Louisiana,Male,2005.0,722.0
-623,West Virginia,Male,2005.0,215.0
-624,West Virginia,Female,2005.0,46.0
-625,New York,Male,2005.0,912.0
-626,Virginia,Female,2005.0,129.0
-627,Virginia,Male,2005.0,752.0
-628,Nevada,Female,2005.0,54.0
-629,Nebraska,Male,2005.0,119.0
-630,Arkansas,Male,2005.0,350.0
-631,North Dakota,Female,2005.0,
-632,New Jersey,Female,2005.0,39.0
-633,North Carolina,Female,2005.0,163.0
-634,Colorado,Female,2005.0,73.0
-635,Connecticut,Female,2005.0,17.0
-636,North Carolina,Male,2005.0,957.0
-637,Colorado,Male,2005.0,454.0
-638,New Hampshire,Female,2005.0,10.0
-639,Massachusetts,Female,2005.0,22.0
-640,New Hampshire,Male,2005.0,78.0
-641,Maryland,Male,2005.0,596.0
-642,Kentucky,Male,2005.0,448.0
-643,North Dakota,Male,2005.0,58.0
-644,Kansas,Female,2005.0,27.0
-645,Kentucky,Female,2005.0,97.0
-646,New Mexico,Male,2005.0,228.0
-647,Massachusetts,Male,2005.0,202.0
-648,New Mexico,Female,2005.0,33.0
-649,Vermont,Female,2005.0,
-650,Vermont,Male,2005.0,37.0
-651,Arizona,Male,2005.0,816.0
-652,Arizona,Female,2005.0,114.0
-653,Arkansas,Female,2005.0,87.0
-654,Connecticut,Male,2005.0,170.0
-655,Utah,Female,2005.0,27.0
-656,Kansas,Male,2005.0,228.0
-657,Maryland,Female,2005.0,54.0
-658,Washington,Female,2005.0,69.0
-659,Oregon,Male,2005.0,335.0
-660,Hawaii,Male,2005.0,23.0
-661,District of Columbia,Female,2005.0,10.0
-662,District of Columbia,Male,2005.0,143.0
-663,Alabama,Female,2005.0,123.0
-664,Alabama,Male,2005.0,614.0
-665,Oklahoma,Female,2005.0,78.0
-666,Idaho,Female,2005.0,23.0
-667,Oklahoma,Male,2005.0,381.0
-668,Maine,Male,2005.0,98.0
-669,Maine,Female,2005.0,12.0
-670,Montana,Male,2005.0,137.0
-671,Montana,Female,2005.0,21.0
-672,Pennsylvania,Male,2005.0,1204.0
-673,Illinois,Male,2005.0,907.0
-674,Hawaii,Female,2005.0,
-675,Pennsylvania,Female,2005.0,146.0
-676,Illinois,Female,2005.0,115.0
-677,Missouri,Female,2005.0,89.0
-678,Missouri,Male,2005.0,667.0
-679,Alaska,Male,2005.0,99.0
-680,Alaska,Female,2005.0,18.0
-681,South Dakota,Male,2005.0,77.0
-682,South Dakota,Female,2005.0,
-683,Oregon,Female,2005.0,52.0
-684,Wyoming,Female,2005.0,17.0
-685,Wyoming,Male,2005.0,54.0
-686,Minnesota,Female,2005.0,49.0
-687,Minnesota,Male,2005.0,311.0
-688,Florida,Male,2005.0,1539.0
-689,Florida,Female,2005.0,291.0
-690,South Carolina,Male,2005.0,491.0
-691,Tennessee,Female,2005.0,151.0
-692,Idaho,Male,2005.0,171.0
-693,Wisconsin,Male,2005.0,424.0
-694,California,Male,2005.0,3025.0
-695,Tennessee,Male,2005.0,827.0
-696,Ohio,Male,2005.0,976.0
-697,Rhode Island,Female,2005.0,
-698,Mississippi,Male,2005.0,372.0
-699,California,Female,2005.0,349.0
-700,Ohio,Female,2005.0,135.0
-701,Washington,Male,2005.0,486.0
-702,Mississippi,Female,2005.0,85.0
-703,Indiana,Male,2005.0,610.0
-704,Indiana,Female,2005.0,86.0
-705,Rhode Island,Male,2005.0,35.0
-706,Wisconsin,Female,2005.0,46.0
-707,Delaware,Female,2005.0,
-708,Georgia,Male,2005.0,882.0
-709,Delaware,Male,2005.0,67.0
-710,Georgia,Female,2005.0,173.0
-711,Michigan,Male,2005.0,941.0
-712,Michigan,Female,2005.0,124.0
-713,South Carolina,Female,2005.0,95.0
-714,Maryland,Female,2006.0,60.0
-715,Maryland,Male,2006.0,601.0
-716,Mississippi,Male,2006.0,388.0
-717,Missouri,Female,2006.0,106.0
-718,Missouri,Male,2006.0,658.0
-719,Florida,Female,2006.0,331.0
-720,New Hampshire,Female,2006.0,10.0
-721,New Hampshire,Male,2006.0,73.0
-722,Kentucky,Male,2006.0,461.0
-723,Rhode Island,Female,2006.0,
-724,Kentucky,Female,2006.0,69.0
-725,Rhode Island,Male,2006.0,39.0
-726,Florida,Male,2006.0,1735.0
-727,Mississippi,Female,2006.0,81.0
-728,Arkansas,Female,2006.0,53.0
-729,Wyoming,Male,2006.0,70.0
-730,Colorado,Female,2006.0,88.0
-731,Arkansas,Male,2006.0,373.0
-732,Hawaii,Female,2006.0,
-733,Hawaii,Male,2006.0,26.0
-734,Vermont,Male,2006.0,46.0
-735,Vermont,Female,2006.0,
-736,Georgia,Female,2006.0,184.0
-737,Alabama,Female,2006.0,123.0
-738,Maine,Female,2006.0,17.0
-739,New Mexico,Female,2006.0,29.0
-740,Colorado,Male,2006.0,403.0
-741,New Mexico,Male,2006.0,245.0
-742,Pennsylvania,Male,2006.0,1231.0
-743,Louisiana,Female,2006.0,124.0
-744,Pennsylvania,Female,2006.0,134.0
-745,Louisiana,Male,2006.0,706.0
-746,South Carolina,Female,2006.0,126.0
-747,South Carolina,Male,2006.0,485.0
-748,Wyoming,Female,2006.0,11.0
-749,Washington,Male,2006.0,472.0
-750,Washington,Female,2006.0,65.0
-751,Georgia,Male,2006.0,942.0
-752,Alabama,Male,2006.0,659.0
-753,Maine,Male,2006.0,86.0
-754,Nevada,Male,2006.0,340.0
-755,Arizona,Male,2006.0,835.0
-756,Arizona,Female,2006.0,139.0
-757,District of Columbia,Male,2006.0,126.0
-758,North Carolina,Female,2006.0,180.0
-759,North Carolina,Male,2006.0,950.0
-760,District of Columbia,Female,2006.0,
-761,Michigan,Male,2006.0,1021.0
-762,Massachusetts,Female,2006.0,22.0
-763,Massachusetts,Male,2006.0,185.0
-764,Michigan,Female,2006.0,135.0
-765,Tennessee,Female,2006.0,151.0
-766,Tennessee,Male,2006.0,788.0
-767,California,Male,2006.0,2930.0
-768,Oklahoma,Female,2006.0,80.0
-769,California,Female,2006.0,366.0
-770,Texas,Female,2006.0,410.0
-771,Indiana,Female,2006.0,93.0
-772,Nebraska,Male,2006.0,126.0
-773,Nebraska,Female,2006.0,14.0
-774,Indiana,Male,2006.0,646.0
-775,Iowa,Male,2006.0,163.0
-776,Iowa,Female,2006.0,30.0
-777,Wisconsin,Male,2006.0,369.0
-778,Wisconsin,Female,2006.0,46.0
-779,Ohio,Male,2006.0,961.0
-780,Ohio,Female,2006.0,151.0
-781,Delaware,Male,2006.0,65.0
-782,Delaware,Female,2006.0,11.0
-783,Texas,Male,2006.0,1993.0
-784,Connecticut,Male,2006.0,154.0
-785,Connecticut,Female,2006.0,19.0
-786,Oklahoma,Male,2006.0,398.0
-787,Nevada,Female,2006.0,58.0
-788,Idaho,Male,2006.0,152.0
-789,Minnesota,Male,2006.0,296.0
-790,Minnesota,Female,2006.0,36.0
-791,New York,Female,2006.0,87.0
-792,New York,Male,2006.0,910.0
-793,Oregon,Male,2006.0,316.0
-794,Oregon,Female,2006.0,56.0
-795,North Dakota,Male,2006.0,43.0
-796,South Dakota,Female,2006.0,
-797,Utah,Male,2006.0,187.0
-798,Utah,Female,2006.0,35.0
-799,Idaho,Female,2006.0,26.0
-800,South Dakota,Male,2006.0,68.0
-801,Alaska,Male,2006.0,98.0
-802,Montana,Male,2006.0,113.0
-803,Montana,Female,2006.0,
-804,Illinois,Male,2006.0,936.0
-805,Illinois,Female,2006.0,99.0
-806,Alaska,Female,2006.0,14.0
-807,Kansas,Male,2006.0,252.0
-808,Kansas,Female,2006.0,39.0
-809,New Jersey,Male,2006.0,449.0
-810,West Virginia,Male,2006.0,198.0
-811,West Virginia,Female,2006.0,53.0
-812,Virginia,Female,2006.0,129.0
-813,Virginia,Male,2006.0,676.0
-814,New Jersey,Female,2006.0,43.0
-815,North Dakota,Female,2006.0,
-816,New Hampshire,Female,2007.0,10.0
-817,New Hampshire,Male,2007.0,68.0
-818,Rhode Island,Male,2007.0,35.0
-819,Arkansas,Female,2007.0,69.0
-820,Alabama,Female,2007.0,143.0
-821,Alabama,Male,2007.0,668.0
-822,Mississippi,Male,2007.0,450.0
-823,Wyoming,Male,2007.0,66.0
-824,Wyoming,Female,2007.0,
-825,Missouri,Female,2007.0,105.0
-826,Missouri,Male,2007.0,649.0
-827,Minnesota,Male,2007.0,303.0
-828,Minnesota,Female,2007.0,37.0
-829,Alaska,Female,2007.0,11.0
-830,Alaska,Male,2007.0,109.0
-831,Montana,Female,2007.0,18.0
-832,Montana,Male,2007.0,119.0
-833,Michigan,Male,2007.0,960.0
-834,Michigan,Female,2007.0,128.0
-835,Wisconsin,Male,2007.0,411.0
-836,Wisconsin,Female,2007.0,71.0
-837,Maryland,Female,2007.0,68.0
-838,Maryland,Male,2007.0,597.0
-839,Washington,Female,2007.0,65.0
-840,Washington,Male,2007.0,477.0
-841,Nevada,Male,2007.0,340.0
-842,Nevada,Female,2007.0,71.0
-843,Arkansas,Male,2007.0,357.0
-844,West Virginia,Female,2007.0,34.0
-845,Arizona,Male,2007.0,825.0
-846,Arizona,Female,2007.0,113.0
-847,Massachusetts,Female,2007.0,24.0
-848,Massachusetts,Male,2007.0,208.0
-849,Nebraska,Male,2007.0,116.0
-850,Nebraska,Female,2007.0,23.0
-851,West Virginia,Male,2007.0,232.0
-852,Maine,Male,2007.0,94.0
-853,Colorado,Female,2007.0,64.0
-854,Mississippi,Female,2007.0,87.0
-855,Kansas,Female,2007.0,33.0
-856,Kansas,Male,2007.0,256.0
-857,Utah,Female,2007.0,38.0
-858,Utah,Male,2007.0,203.0
-859,District of Columbia,Female,2007.0,12.0
-860,District of Columbia,Male,2007.0,130.0
-861,New York,Male,2007.0,884.0
-862,New York,Female,2007.0,92.0
-863,South Dakota,Male,2007.0,45.0
-864,South Dakota,Female,2007.0,
-865,Delaware,Male,2007.0,65.0
-866,Oregon,Female,2007.0,60.0
-867,Oregon,Male,2007.0,322.0
-868,Idaho,Male,2007.0,165.0
-869,Kentucky,Female,2007.0,100.0
-870,Kentucky,Male,2007.0,514.0
-871,Idaho,Female,2007.0,18.0
-872,Illinois,Female,2007.0,102.0
-873,Florida,Female,2007.0,339.0
-874,Illinois,Male,2007.0,924.0
-875,Connecticut,Male,2007.0,130.0
-876,Maine,Female,2007.0,12.0
-877,Indiana,Male,2007.0,556.0
-878,Indiana,Female,2007.0,111.0
-879,North Dakota,Male,2007.0,54.0
-880,North Dakota,Female,2007.0,
-881,Iowa,Female,2007.0,12.0
-882,Iowa,Male,2007.0,142.0
-883,Texas,Female,2007.0,372.0
-884,Texas,Male,2007.0,2178.0
-885,Tennessee,Male,2007.0,767.0
-886,Tennessee,Female,2007.0,158.0
-887,Ohio,Female,2007.0,130.0
-888,Ohio,Male,2007.0,973.0
-889,Oklahoma,Female,2007.0,85.0
-890,Oklahoma,Male,2007.0,395.0
-891,North Carolina,Male,2007.0,935.0
-892,North Carolina,Female,2007.0,177.0
-893,Connecticut,Female,2007.0,19.0
-894,Florida,Male,2007.0,1915.0
-895,Delaware,Female,2007.0,13.0
-896,California,Female,2007.0,379.0
-897,Louisiana,Male,2007.0,739.0
-898,Louisiana,Female,2007.0,129.0
-899,Hawaii,Female,2007.0,
-900,Georgia,Female,2007.0,183.0
-901,New Jersey,Female,2007.0,42.0
-902,Pennsylvania,Female,2007.0,128.0
-903,South Carolina,Female,2007.0,97.0
-904,New Jersey,Male,2007.0,402.0
-905,South Carolina,Male,2007.0,491.0
-906,Virginia,Female,2007.0,132.0
-907,Vermont,Male,2007.0,45.0
-908,Pennsylvania,Male,2007.0,1184.0
-909,Virginia,Male,2007.0,681.0
-910,New Mexico,Female,2007.0,43.0
-911,Georgia,Male,2007.0,1054.0
-912,California,Male,2007.0,2815.0
-913,New Mexico,Male,2007.0,244.0
-914,Colorado,Male,2007.0,436.0
-915,Rhode Island,Female,2007.0,
-916,Vermont,Female,2007.0,
-917,Hawaii,Male,2007.0,33.0
-918,Ohio,Female,2008.0,124.0
-919,Ohio,Male,2008.0,985.0
-920,Michigan,Female,2008.0,102.0
-921,Michigan,Male,2008.0,977.0
-922,Hawaii,Female,2008.0,
-923,Montana,Male,2008.0,122.0
-924,Wisconsin,Male,2008.0,375.0
-925,Tennessee,Male,2008.0,818.0
-926,Montana,Female,2008.0,31.0
-927,Wisconsin,Female,2008.0,64.0
-928,Georgia,Female,2008.0,223.0
-929,Georgia,Male,2008.0,950.0
-930,Rhode Island,Male,2008.0,40.0
-931,Indiana,Female,2008.0,114.0
-932,Indiana,Male,2008.0,606.0
-933,Delaware,Male,2008.0,90.0
-934,Delaware,Female,2008.0,
-935,Tennessee,Female,2008.0,167.0
-936,Hawaii,Male,2008.0,33.0
-937,Minnesota,Female,2008.0,40.0
-938,Pennsylvania,Female,2008.0,138.0
-939,Minnesota,Male,2008.0,331.0
-940,Missouri,Female,2008.0,119.0
-941,Florida,Female,2008.0,352.0
-942,Florida,Male,2008.0,1966.0
-943,South Carolina,Male,2008.0,536.0
-944,Idaho,Female,2008.0,24.0
-945,Idaho,Male,2008.0,146.0
-946,Oregon,Male,2008.0,330.0
-947,Oregon,Female,2008.0,49.0
-948,Oklahoma,Male,2008.0,431.0
-949,South Carolina,Female,2008.0,78.0
-950,Missouri,Male,2008.0,699.0
-951,Pennsylvania,Male,2008.0,1197.0
-952,South Dakota,Female,2008.0,13.0
-953,District of Columbia,Male,2008.0,125.0
-954,District of Columbia,Female,2008.0,
-955,Wyoming,Female,2008.0,12.0
-956,Alaska,Female,2008.0,17.0
-957,Alaska,Male,2008.0,122.0
-958,Wyoming,Male,2008.0,81.0
-959,Alabama,Male,2008.0,682.0
-960,Alabama,Female,2008.0,138.0
-961,Mississippi,Male,2008.0,473.0
-962,Illinois,Female,2008.0,99.0
-963,Illinois,Male,2008.0,1002.0
-964,Mississippi,Female,2008.0,90.0
-965,South Dakota,Male,2008.0,70.0
-966,Oklahoma,Female,2008.0,77.0
-967,Maine,Female,2008.0,15.0
-968,Colorado,Female,2008.0,64.0
-969,New York,Female,2008.0,80.0
-970,Utah,Female,2008.0,31.0
-971,Utah,Male,2008.0,200.0
-972,Colorado,Male,2008.0,447.0
-973,Nevada,Female,2008.0,61.0
-974,Nevada,Male,2008.0,339.0
-975,Washington,Male,2008.0,511.0
-976,Washington,Female,2008.0,67.0
-977,Maryland,Male,2008.0,570.0
-978,Maryland,Female,2008.0,75.0
-979,Kentucky,Female,2008.0,84.0
-980,Kentucky,Male,2008.0,492.0
-981,Rhode Island,Female,2008.0,
-982,New Mexico,Male,2008.0,244.0
-983,New York,Male,2008.0,877.0
-984,New Mexico,Female,2008.0,44.0
-985,Vermont,Male,2008.0,48.0
-986,Arkansas,Female,2008.0,71.0
-987,Arkansas,Male,2008.0,373.0
-988,Louisiana,Female,2008.0,126.0
-989,Louisiana,Male,2008.0,700.0
-990,California,Male,2008.0,2753.0
-991,California,Female,2008.0,355.0
-992,New Jersey,Male,2008.0,380.0
-993,New Jersey,Female,2008.0,49.0
-994,New Hampshire,Female,2008.0,15.0
-995,New Hampshire,Male,2008.0,79.0
-996,Virginia,Female,2008.0,112.0
-997,Virginia,Male,2008.0,695.0
-998,Maine,Male,2008.0,104.0
-999,Vermont,Female,2008.0,
-1000,Kansas,Male,2008.0,245.0
-1001,West Virginia,Male,2008.0,193.0
-1002,North Carolina,Male,2008.0,961.0
-1003,Massachusetts,Male,2008.0,202.0
-1004,Kansas,Female,2008.0,30.0
-1005,Massachusetts,Female,2008.0,16.0
-1006,Nebraska,Male,2008.0,135.0
-1007,Nebraska,Female,2008.0,14.0
-1008,Iowa,Male,2008.0,196.0
-1009,Iowa,Female,2008.0,27.0
-1010,North Dakota,Female,2008.0,
-1011,Texas,Male,2008.0,2168.0
-1012,North Dakota,Male,2008.0,54.0
-1013,North Carolina,Female,2008.0,199.0
-1014,Texas,Female,2008.0,415.0
-1015,West Virginia,Female,2008.0,44.0
-1016,Arizona,Male,2008.0,749.0
-1017,Connecticut,Male,2008.0,178.0
-1018,Arizona,Female,2008.0,151.0
-1019,Connecticut,Female,2008.0,21.0
-1020,New Hampshire,Female,2009.0,15.0
-1021,Vermont,Male,2009.0,53.0
-1022,Nebraska,Male,2009.0,115.0
-1023,Nebraska,Female,2009.0,16.0
-1024,Virginia,Female,2009.0,120.0
-1025,Wyoming,Female,2009.0,13.0
-1026,Wyoming,Male,2009.0,83.0
-1027,Rhode Island,Female,2009.0,
-1028,Rhode Island,Male,2009.0,52.0
-1029,Mississippi,Male,2009.0,414.0
-1030,Mississippi,Female,2009.0,72.0
-1031,Virginia,Male,2009.0,701.0
-1032,New Jersey,Male,2009.0,371.0
-1033,New Jersey,Female,2009.0,37.0
-1034,Tennessee,Male,2009.0,844.0
-1035,Pennsylvania,Female,2009.0,187.0
-1036,Pennsylvania,Male,2009.0,1149.0
-1037,North Dakota,Female,2009.0,
-1038,Tennessee,Female,2009.0,124.0
-1039,North Dakota,Male,2009.0,52.0
-1040,New Hampshire,Male,2009.0,74.0
-1041,New York,Male,2009.0,849.0
-1042,South Carolina,Male,2009.0,526.0
-1043,South Carolina,Female,2009.0,107.0
-1044,New York,Female,2009.0,95.0
-1045,South Dakota,Male,2009.0,70.0
-1046,South Dakota,Female,2009.0,
-1047,Washington,Male,2009.0,501.0
-1048,Washington,Female,2009.0,101.0
-1049,Missouri,Female,2009.0,119.0
-1050,Utah,Female,2009.0,40.0
-1051,Wisconsin,Female,2009.0,68.0
-1052,Wisconsin,Male,2009.0,385.0
-1053,Utah,Male,2009.0,214.0
-1054,Oklahoma,Female,2009.0,86.0
-1055,Oklahoma,Male,2009.0,445.0
-1056,West Virginia,Male,2009.0,214.0
-1057,Ohio,Male,2009.0,840.0
-1058,Nevada,Female,2009.0,58.0
-1059,Nevada,Male,2009.0,344.0
-1060,Ohio,Female,2009.0,143.0
-1061,North Carolina,Female,2009.0,183.0
-1062,North Carolina,Male,2009.0,931.0
-1063,Montana,Female,2009.0,21.0
-1064,Montana,Male,2009.0,147.0
-1065,Texas,Male,2009.0,2248.0
-1066,Texas,Female,2009.0,426.0
-1067,New Mexico,Male,2009.0,256.0
-1068,New Mexico,Female,2009.0,39.0
-1069,Oregon,Female,2009.0,68.0
-1070,Oregon,Male,2009.0,345.0
-1071,Vermont,Female,2009.0,
-1072,West Virginia,Female,2009.0,38.0
-1073,Missouri,Male,2009.0,699.0
-1074,Indiana,Female,2009.0,88.0
-1075,Maine,Male,2009.0,104.0
-1076,Michigan,Female,2009.0,122.0
-1077,Michigan,Male,2009.0,967.0
-1078,Idaho,Male,2009.0,163.0
-1079,Indiana,Male,2009.0,647.0
-1080,Alabama,Female,2009.0,151.0
-1081,Kansas,Female,2009.0,41.0
-1082,Kansas,Male,2009.0,259.0
-1083,Minnesota,Male,2009.0,300.0
-1084,Minnesota,Female,2009.0,34.0
-1085,Massachusetts,Male,2009.0,180.0
-1086,Massachusetts,Female,2009.0,23.0
-1087,California,Female,2009.0,333.0
-1088,Kentucky,Male,2009.0,453.0
-1089,Delaware,Male,2009.0,65.0
-1090,Delaware,Female,2009.0,
-1091,Kentucky,Female,2009.0,105.0
-1092,Connecticut,Female,2009.0,22.0
-1093,Connecticut,Male,2009.0,151.0
-1094,Maryland,Female,2009.0,65.0
-1095,Maryland,Male,2009.0,507.0
-1096,Arkansas,Female,2009.0,64.0
-1097,Arkansas,Male,2009.0,402.0
-1098,Georgia,Female,2009.0,222.0
-1099,Georgia,Male,2009.0,1021.0
-1100,Maine,Female,2009.0,17.0
-1101,Alabama,Male,2009.0,680.0
-1102,Idaho,Female,2009.0,29.0
-1103,Alaska,Female,2009.0,16.0
-1104,Louisiana,Female,2009.0,118.0
-1105,California,Male,2009.0,2707.0
-1106,Iowa,Male,2009.0,174.0
-1107,Alaska,Male,2009.0,86.0
-1108,Colorado,Female,2009.0,87.0
-1109,Iowa,Female,2009.0,18.0
-1110,Arizona,Female,2009.0,160.0
-1111,Colorado,Male,2009.0,490.0
-1112,Louisiana,Male,2009.0,691.0
-1113,Arizona,Male,2009.0,690.0
-1114,Hawaii,Female,2009.0,
-1115,District of Columbia,Male,2009.0,101.0
-1116,District of Columbia,Female,2009.0,
-1117,Florida,Male,2009.0,1921.0
-1118,Hawaii,Male,2009.0,40.0
-1119,Florida,Female,2009.0,390.0
-1120,Illinois,Male,2009.0,946.0
-1121,Illinois,Female,2009.0,103.0
-1122,Vermont,Female,2010.0,10.0
-1123,Massachusetts,Female,2010.0,27.0
-1124,Georgia,Male,2010.0,1020.0
-1125,Georgia,Female,2010.0,199.0
-1126,Rhode Island,Female,2010.0,
-1127,Rhode Island,Male,2010.0,46.0
-1128,Vermont,Male,2010.0,60.0
-1129,Connecticut,Male,2010.0,192.0
-1130,Utah,Male,2010.0,266.0
-1131,Utah,Female,2010.0,42.0
-1132,Nebraska,Female,2010.0,18.0
-1133,Colorado,Female,2010.0,80.0
-1134,Colorado,Male,2010.0,458.0
-1135,Kansas,Male,2010.0,255.0
-1136,Kansas,Female,2010.0,37.0
-1137,North Carolina,Male,2010.0,942.0
-1138,Nebraska,Male,2010.0,137.0
-1139,Pennsylvania,Female,2010.0,142.0
-1140,Pennsylvania,Male,2010.0,1160.0
-1141,Massachusetts,Male,2010.0,241.0
-1142,Connecticut,Female,2010.0,18.0
-1143,Tennessee,Male,2010.0,771.0
-1144,Texas,Female,2010.0,415.0
-1145,Nevada,Male,2010.0,325.0
-1146,Alabama,Female,2010.0,127.0
-1147,Tennessee,Female,2010.0,157.0
-1148,New Mexico,Male,2010.0,255.0
-1149,Alaska,Male,2010.0,116.0
-1150,Alaska,Female,2010.0,27.0
-1151,District of Columbia,Female,2010.0,
-1152,District of Columbia,Male,2010.0,93.0
-1153,Maine,Female,2010.0,12.0
-1154,New Mexico,Female,2010.0,32.0
-1155,New Jersey,Female,2010.0,43.0
-1156,New Jersey,Male,2010.0,410.0
-1157,Florida,Female,2010.0,379.0
-1158,South Dakota,Female,2010.0,10.0
-1159,South Dakota,Male,2010.0,63.0
-1160,Alabama,Male,2010.0,654.0
-1161,Louisiana,Female,2010.0,123.0
-1162,Florida,Male,2010.0,1873.0
-1163,Nevada,Female,2010.0,60.0
-1164,Maine,Male,2010.0,97.0
-1165,Wisconsin,Female,2010.0,51.0
-1166,New York,Male,2010.0,923.0
-1167,New York,Female,2010.0,81.0
-1168,Maryland,Male,2010.0,488.0
-1169,Maryland,Female,2010.0,45.0
-1170,Wyoming,Male,2010.0,76.0
-1171,Texas,Male,2010.0,2284.0
-1172,Hawaii,Female,2010.0,
-1173,Wyoming,Female,2010.0,16.0
-1174,Delaware,Female,2010.0,
-1175,Kentucky,Female,2010.0,80.0
-1176,Kentucky,Male,2010.0,473.0
-1177,New Hampshire,Female,2010.0,20.0
-1178,New Hampshire,Male,2010.0,96.0
-1179,South Carolina,Female,2010.0,103.0
-1180,South Carolina,Male,2010.0,541.0
-1181,Wisconsin,Male,2010.0,442.0
-1182,Delaware,Male,2010.0,81.0
-1183,Hawaii,Male,2010.0,38.0
-1184,North Carolina,Female,2010.0,182.0
-1185,Arkansas,Male,2010.0,351.0
-1186,Virginia,Female,2010.0,127.0
-1187,Virginia,Male,2010.0,740.0
-1188,Oregon,Male,2010.0,379.0
-1189,Oregon,Female,2010.0,69.0
-1190,Idaho,Female,2010.0,24.0
-1191,Idaho,Male,2010.0,174.0
-1192,Arkansas,Female,2010.0,68.0
-1193,Washington,Female,2010.0,100.0
-1194,Washington,Male,2010.0,494.0
-1195,Missouri,Male,2010.0,749.0
-1196,Missouri,Female,2010.0,96.0
-1197,Minnesota,Female,2010.0,43.0
-1198,Minnesota,Male,2010.0,314.0
-1199,Indiana,Male,2010.0,601.0
-1200,Indiana,Female,2010.0,104.0
-1201,Oklahoma,Male,2010.0,459.0
-1202,Ohio,Female,2010.0,153.0
-1203,Ohio,Male,2010.0,988.0
-1204,Arizona,Male,2010.0,787.0
-1205,Arizona,Female,2010.0,134.0
-1206,West Virginia,Female,2010.0,36.0
-1207,West Virginia,Male,2010.0,233.0
-1208,Oklahoma,Female,2010.0,78.0
-1209,Illinois,Female,2010.0,100.0
-1210,Illinois,Male,2010.0,959.0
-1211,Mississippi,Male,2010.0,382.0
-1212,Mississippi,Female,2010.0,94.0
-1213,North Dakota,Male,2010.0,60.0
-1214,Michigan,Male,2010.0,942.0
-1215,Louisiana,Male,2010.0,741.0
-1216,Montana,Female,2010.0,27.0
-1217,California,Male,2010.0,2531.0
-1218,Montana,Male,2010.0,139.0
-1219,North Dakota,Female,2010.0,
-1220,Michigan,Female,2010.0,125.0
-1221,Iowa,Male,2010.0,181.0
-1222,California,Female,2010.0,358.0
-1223,Iowa,Female,2010.0,33.0
-1224,Delaware,Female,2011.0,13.0
-1225,West Virginia,Male,2011.0,221.0
-1226,Indiana,Male,2011.0,537.0
-1227,Kentucky,Female,2011.0,95.0
-1228,Washington,Male,2011.0,501.0
-1229,Delaware,Male,2011.0,64.0
-1230,New Jersey,Female,2011.0,36.0
-1231,Montana,Male,2011.0,138.0
-1232,Missouri,Female,2011.0,128.0
-1233,Missouri,Male,2011.0,724.0
-1234,New Jersey,Male,2011.0,438.0
-1235,Iowa,Female,2011.0,27.0
-1236,Florida,Female,2011.0,365.0
-1237,Florida,Male,2011.0,1995.0
-1238,Iowa,Male,2011.0,193.0
-1239,Idaho,Male,2011.0,163.0
-1240,Washington,Female,2011.0,98.0
-1241,Wyoming,Female,2011.0,13.0
-1242,Pennsylvania,Female,2011.0,170.0
-1243,Pennsylvania,Male,2011.0,1259.0
-1244,Massachusetts,Male,2011.0,224.0
-1245,New Hampshire,Female,2011.0,13.0
-1246,New Hampshire,Male,2011.0,75.0
-1247,Vermont,Male,2011.0,69.0
-1248,West Virginia,Female,2011.0,51.0
-1249,New Mexico,Male,2011.0,255.0
-1250,Ohio,Female,2011.0,170.0
-1251,Arizona,Male,2011.0,823.0
-1252,California,Male,2011.0,2568.0
-1253,California,Female,2011.0,361.0
-1254,Oklahoma,Female,2011.0,114.0
-1255,Oklahoma,Male,2011.0,512.0
-1256,Arizona,Female,2011.0,131.0
-1257,Maine,Female,2011.0,22.0
-1258,Maine,Male,2011.0,109.0
-1259,Colorado,Female,2011.0,79.0
-1260,Tennessee,Female,2011.0,165.0
-1261,Tennessee,Male,2011.0,780.0
-1262,Indiana,Female,2011.0,94.0
-1263,Minnesota,Male,2011.0,354.0
-1264,South Carolina,Male,2011.0,570.0
-1265,South Carolina,Female,2011.0,128.0
-1266,Alaska,Female,2011.0,24.0
-1267,Alaska,Male,2011.0,101.0
-1268,Minnesota,Female,2011.0,39.0
-1269,Colorado,Male,2011.0,484.0
-1270,Vermont,Female,2011.0,
-1271,Wyoming,Male,2011.0,83.0
-1272,Kentucky,Male,2011.0,515.0
-1273,New Mexico,Female,2011.0,44.0
-1274,District of Columbia,Female,2011.0,
-1275,Texas,Male,2011.0,2157.0
-1276,Alabama,Male,2011.0,644.0
-1277,Hawaii,Male,2011.0,39.0
-1278,Virginia,Male,2011.0,713.0
-1279,Virginia,Female,2011.0,140.0
-1280,Georgia,Female,2011.0,215.0
-1281,South Dakota,Male,2011.0,56.0
-1282,Nebraska,Female,2011.0,20.0
-1283,South Dakota,Female,2011.0,11.0
-1284,Kansas,Male,2011.0,268.0
-1285,Illinois,Male,2011.0,1002.0
-1286,North Dakota,Male,2011.0,53.0
-1287,Texas,Female,2011.0,430.0
-1288,Kansas,Female,2011.0,56.0
-1289,Utah,Male,2011.0,246.0
-1290,North Dakota,Female,2011.0,
-1291,Nebraska,Male,2011.0,141.0
-1292,Michigan,Male,2011.0,1021.0
-1293,Michigan,Female,2011.0,126.0
-1294,Georgia,Male,2011.0,1005.0
-1295,Alabama,Female,2011.0,142.0
-1296,Louisiana,Female,2011.0,143.0
-1297,North Carolina,Female,2011.0,183.0
-1298,North Carolina,Male,2011.0,970.0
-1299,Louisiana,Male,2011.0,727.0
-1300,Utah,Female,2011.0,53.0
-1301,Connecticut,Male,2011.0,193.0
-1302,Connecticut,Female,2011.0,17.0
-1303,Oregon,Male,2011.0,361.0
-1304,Wisconsin,Female,2011.0,52.0
-1305,Wisconsin,Male,2011.0,391.0
-1306,Arkansas,Female,2011.0,76.0
-1307,Arkansas,Male,2011.0,385.0
-1308,Idaho,Female,2011.0,27.0
-1309,New York,Female,2011.0,101.0
-1310,New York,Male,2011.0,886.0
-1311,District of Columbia,Male,2011.0,79.0
-1312,Massachusetts,Female,2011.0,23.0
-1313,Mississippi,Male,2011.0,432.0
-1314,Illinois,Female,2011.0,96.0
-1315,Maryland,Male,2011.0,467.0
-1316,Oregon,Female,2011.0,54.0
-1317,Rhode Island,Female,2011.0,
-1318,Rhode Island,Male,2011.0,28.0
-1319,Mississippi,Female,2011.0,96.0
-1320,Maryland,Female,2011.0,55.0
-1321,Ohio,Male,2011.0,1043.0
-1322,Montana,Female,2011.0,29.0
-1323,Nevada,Female,2011.0,54.0
-1324,Nevada,Male,2011.0,311.0
-1325,Hawaii,Female,2011.0,
-1326,Ohio,Male,2012.0,1061.0
-1327,Illinois,Female,2012.0,120.0
-1328,Alabama,Female,2012.0,132.0
-1329,Illinois,Male,2012.0,1049.0
-1330,Ohio,Female,2012.0,189.0
-1331,District of Columbia,Male,2012.0,61.0
-1332,Iowa,Female,2012.0,35.0
-1333,District of Columbia,Female,2012.0,
-1334,North Carolina,Male,2012.0,975.0
-1335,New Mexico,Male,2012.0,276.0
-1336,North Carolina,Female,2012.0,195.0
-1337,Pennsylvania,Female,2012.0,170.0
-1338,Georgia,Male,2012.0,1031.0
-1339,Georgia,Female,2012.0,244.0
-1340,North Dakota,Female,2012.0,12.0
-1341,Kansas,Female,2012.0,47.0
-1342,Kansas,Male,2012.0,326.0
-1343,North Dakota,Male,2012.0,60.0
-1344,Oregon,Male,2012.0,363.0
-1345,Oregon,Female,2012.0,68.0
-1346,Rhode Island,Female,2012.0,
-1347,Rhode Island,Male,2012.0,38.0
-1348,Wisconsin,Male,2012.0,434.0
-1349,Wisconsin,Female,2012.0,43.0
-1350,New York,Male,2012.0,892.0
-1351,New York,Female,2012.0,72.0
-1352,Florida,Male,2012.0,2027.0
-1353,Oklahoma,Male,2012.0,507.0
-1354,South Carolina,Male,2012.0,607.0
-1355,South Carolina,Female,2012.0,132.0
-1356,Alabama,Male,2012.0,700.0
-1357,Kentucky,Male,2012.0,531.0
-1358,Kentucky,Female,2012.0,116.0
-1359,New Mexico,Female,2012.0,39.0
-1360,Hawaii,Male,2012.0,46.0
-1361,Pennsylvania,Male,2012.0,1267.0
-1362,Indiana,Male,2012.0,672.0
-1363,Idaho,Male,2012.0,176.0
-1364,Florida,Female,2012.0,428.0
-1365,Idaho,Female,2012.0,28.0
-1366,Iowa,Male,2012.0,181.0
-1367,Indiana,Female,2012.0,119.0
-1368,Hawaii,Female,2012.0,
-1369,Oklahoma,Female,2012.0,109.0
-1370,Louisiana,Male,2012.0,716.0
-1371,Michigan,Female,2012.0,136.0
-1372,Michigan,Male,2012.0,1078.0
-1373,Virginia,Female,2012.0,105.0
-1374,Texas,Male,2012.0,2301.0
-1375,Texas,Female,2012.0,420.0
-1376,Virginia,Male,2012.0,724.0
-1377,Louisiana,Female,2012.0,139.0
-1378,Wyoming,Female,2012.0,14.0
-1379,Arkansas,Male,2012.0,415.0
-1380,Alaska,Male,2012.0,111.0
-1381,Arkansas,Female,2012.0,70.0
-1382,Alaska,Female,2012.0,18.0
-1383,Maine,Male,2012.0,114.0
-1384,Maine,Female,2012.0,15.0
-1385,New Hampshire,Female,2012.0,18.0
-1386,Montana,Female,2012.0,24.0
-1387,Montana,Male,2012.0,144.0
-1388,California,Female,2012.0,343.0
-1389,Nevada,Male,2012.0,285.0
-1390,Nebraska,Male,2012.0,158.0
-1391,Nebraska,Female,2012.0,10.0
-1392,Massachusetts,Female,2012.0,26.0
-1393,Massachusetts,Male,2012.0,201.0
-1394,Colorado,Female,2012.0,94.0
-1395,Vermont,Female,2012.0,
-1396,Utah,Male,2012.0,282.0
-1397,New Hampshire,Male,2012.0,98.0
-1398,Utah,Female,2012.0,38.0
-1399,Wyoming,Male,2012.0,103.0
-1400,Connecticut,Female,2012.0,43.0
-1401,Connecticut,Male,2012.0,185.0
-1402,California,Male,2012.0,2619.0
-1403,Maryland,Male,2012.0,519.0
-1404,Maryland,Female,2012.0,52.0
-1405,Nevada,Female,2012.0,71.0
-1406,Vermont,Male,2012.0,54.0
-1407,Missouri,Male,2012.0,764.0
-1408,Colorado,Male,2012.0,573.0
-1409,New Jersey,Male,2012.0,402.0
-1410,Mississippi,Male,2012.0,434.0
-1411,Mississippi,Female,2012.0,99.0
-1412,New Jersey,Female,2012.0,39.0
-1413,Tennessee,Female,2012.0,154.0
-1414,Tennessee,Male,2012.0,842.0
-1415,South Dakota,Male,2012.0,73.0
-1416,South Dakota,Female,2012.0,11.0
-1417,Minnesota,Male,2012.0,337.0
-1418,Minnesota,Female,2012.0,41.0
-1419,West Virginia,Male,2012.0,219.0
-1420,Washington,Female,2012.0,95.0
-1421,Arizona,Male,2012.0,780.0
-1422,Arizona,Female,2012.0,154.0
-1423,Missouri,Female,2012.0,121.0
-1424,Delaware,Male,2012.0,80.0
-1425,Delaware,Female,2012.0,12.0
-1426,West Virginia,Female,2012.0,51.0
-1427,Washington,Male,2012.0,570.0
-1428,Ohio,Male,2013.0,1106.0
-1429,West Virginia,Female,2013.0,30.0
-1430,California,Male,2013.0,2583.0
-1431,Iowa,Female,2013.0,32.0
-1432,Iowa,Male,2013.0,219.0
-1433,Vermont,Male,2013.0,49.0
-1434,California,Female,2013.0,352.0
-1435,Vermont,Female,2013.0,15.0
-1436,Idaho,Female,2013.0,36.0
-1437,Mississippi,Female,2013.0,97.0
-1438,West Virginia,Male,2013.0,243.0
-1439,Massachusetts,Male,2013.0,182.0
-1440,Illinois,Female,2013.0,122.0
-1441,Illinois,Male,2013.0,984.0
-1442,Pennsylvania,Female,2013.0,198.0
-1443,Pennsylvania,Male,2013.0,1239.0
-1444,North Carolina,Male,2013.0,1033.0
-1445,North Carolina,Female,2013.0,187.0
-1446,Nebraska,Female,2013.0,18.0
-1447,Nebraska,Male,2013.0,150.0
-1448,Mississippi,Male,2013.0,426.0
-1449,Massachusetts,Female,2013.0,18.0
-1450,Montana,Male,2013.0,135.0
-1451,Idaho,Male,2013.0,191.0
-1452,Indiana,Male,2013.0,723.0
-1453,Indiana,Female,2013.0,121.0
-1454,Missouri,Female,2013.0,123.0
-1455,Missouri,Male,2013.0,753.0
-1456,Arkansas,Female,2013.0,75.0
-1457,Minnesota,Female,2013.0,52.0
-1458,Minnesota,Male,2013.0,372.0
-1459,Virginia,Male,2013.0,716.0
-1460,Virginia,Female,2013.0,140.0
-1461,Washington,Female,2013.0,90.0
-1462,North Dakota,Male,2013.0,81.0
-1463,Ohio,Female,2013.0,174.0
-1464,North Dakota,Female,2013.0,
-1465,Michigan,Male,2013.0,1039.0
-1466,Michigan,Female,2013.0,146.0
-1467,Oklahoma,Female,2013.0,117.0
-1468,Washington,Male,2013.0,525.0
-1469,Arizona,Male,2013.0,782.0
-1470,Oregon,Female,2013.0,74.0
-1471,Oregon,Male,2013.0,383.0
-1472,Hawaii,Male,2013.0,29.0
-1473,Hawaii,Female,2013.0,
-1474,Arizona,Female,2013.0,147.0
-1475,Montana,Female,2013.0,30.0
-1476,Oklahoma,Male,2013.0,514.0
-1477,Arkansas,Male,2013.0,425.0
-1478,Colorado,Female,2013.0,97.0
-1479,Delaware,Female,2013.0,16.0
-1480,Nevada,Female,2013.0,66.0
-1481,Nevada,Male,2013.0,325.0
-1482,Alabama,Female,2013.0,139.0
-1483,Connecticut,Female,2013.0,
-1484,New York,Male,2013.0,773.0
-1485,New York,Female,2013.0,81.0
-1486,Connecticut,Male,2013.0,149.0
-1487,Alaska,Male,2013.0,119.0
-1488,Alaska,Female,2013.0,25.0
-1489,Texas,Male,2013.0,2314.0
-1490,Texas,Female,2013.0,445.0
-1491,New Mexico,Female,2013.0,51.0
-1492,Delaware,Male,2013.0,85.0
-1493,Florida,Male,2013.0,2012.0
-1494,Colorado,Male,2013.0,514.0
-1495,Florida,Female,2013.0,412.0
-1496,South Carolina,Male,2013.0,599.0
-1497,South Carolina,Female,2013.0,138.0
-1498,Alabama,Male,2013.0,716.0
-1499,Maine,Male,2013.0,133.0
-1500,Maine,Female,2013.0,21.0
-1501,New Hampshire,Female,2013.0,
-1502,Kentucky,Female,2013.0,122.0
-1503,Kentucky,Male,2013.0,499.0
-1504,Tennessee,Female,2013.0,166.0
-1505,Tennessee,Male,2013.0,864.0
-1506,New Mexico,Male,2013.0,262.0
-1507,Rhode Island,Male,2013.0,45.0
-1508,New Hampshire,Male,2013.0,85.0
-1509,Utah,Male,2013.0,285.0
-1510,New Jersey,Male,2013.0,455.0
-1511,District of Columbia,Female,2013.0,
-1512,District of Columbia,Male,2013.0,64.0
-1513,Rhode Island,Female,2013.0,10.0
-1514,Utah,Female,2013.0,49.0
-1515,Wisconsin,Female,2013.0,63.0
-1516,Wyoming,Male,2013.0,89.0
-1517,Wyoming,Female,2013.0,14.0
-1518,Georgia,Female,2013.0,211.0
-1519,South Dakota,Male,2013.0,70.0
-1520,Georgia,Male,2013.0,1038.0
-1521,New Jersey,Female,2013.0,45.0
-1522,Kansas,Female,2013.0,42.0
-1523,Kansas,Male,2013.0,286.0
-1524,Louisiana,Female,2013.0,123.0
-1525,South Dakota,Female,2013.0,
-1526,Louisiana,Male,2013.0,761.0
-1527,Maryland,Male,2013.0,505.0
-1528,Maryland,Female,2013.0,62.0
-1529,Wisconsin,Male,2013.0,501.0
-1530,West Virginia,Female,2014.0,52.0
-1531,Tennessee,Female,2014.0,159.0
-1532,Tennessee,Male,2014.0,857.0
-1533,South Dakota,Female,2014.0,17.0
-1534,South Dakota,Male,2014.0,69.0
-1535,West Virginia,Male,2014.0,227.0
-1536,Delaware,Female,2014.0,
-1537,South Carolina,Male,2014.0,623.0
-1538,Illinois,Female,2014.0,111.0
-1539,Washington,Female,2014.0,106.0
-1540,Washington,Male,2014.0,574.0
-1541,District of Columbia,Female,2014.0,11.0
-1542,District of Columbia,Male,2014.0,70.0
-1543,Arizona,Male,2014.0,762.0
-1544,Arizona,Female,2014.0,155.0
-1545,Delaware,Male,2014.0,95.0
-1546,South Carolina,Female,2014.0,140.0
-1547,Colorado,Female,2014.0,101.0
-1548,Virginia,Male,2014.0,739.0
-1549,Oklahoma,Male,2014.0,492.0
-1550,Wisconsin,Female,2014.0,63.0
-1551,Wisconsin,Male,2014.0,419.0
-1552,Pennsylvania,Male,2014.0,1215.0
-1553,Pennsylvania,Female,2014.0,167.0
-1554,Georgia,Male,2014.0,1148.0
-1555,Georgia,Female,2014.0,238.0
-1556,Colorado,Male,2014.0,552.0
-1557,Utah,Male,2014.0,275.0
-1558,Utah,Female,2014.0,48.0
-1559,Alaska,Male,2014.0,124.0
-1560,Vermont,Female,2014.0,
-1561,Vermont,Male,2014.0,61.0
-1562,California,Male,2014.0,2525.0
-1563,California,Female,2014.0,337.0
-1564,Alaska,Female,2014.0,22.0
-1565,Rhode Island,Female,2014.0,
-1566,Rhode Island,Male,2014.0,29.0
-1567,Idaho,Male,2014.0,172.0
-1568,Idaho,Female,2014.0,37.0
-1569,Connecticut,Male,2014.0,171.0
-1570,Connecticut,Female,2014.0,16.0
-1571,Arkansas,Female,2014.0,92.0
-1572,Arkansas,Male,2014.0,404.0
-1573,Oklahoma,Female,2014.0,121.0
-1574,Virginia,Female,2014.0,141.0
-1575,Florida,Male,2014.0,2036.0
-1576,Texas,Female,2014.0,491.0
-1577,Texas,Male,2014.0,2342.0
-1578,Oregon,Male,2014.0,404.0
-1579,Hawaii,Male,2014.0,36.0
-1580,Hawaii,Female,2014.0,
-1581,Florida,Female,2014.0,358.0
-1582,Illinois,Male,2014.0,1059.0
-1583,Oregon,Female,2014.0,77.0
-1584,Alabama,Male,2014.0,674.0
-1585,Louisiana,Male,2014.0,729.0
-1586,Minnesota,Male,2014.0,329.0
-1587,Minnesota,Female,2014.0,48.0
-1588,Missouri,Female,2014.0,133.0
-1589,Indiana,Female,2014.0,99.0
-1590,Indiana,Male,2014.0,717.0
-1591,Maine,Female,2014.0,16.0
-1592,North Carolina,Male,2014.0,982.0
-1593,Missouri,Male,2014.0,802.0
-1594,New York,Female,2014.0,78.0
-1595,New York,Male,2014.0,784.0
-1596,New Hampshire,Female,2014.0,11.0
-1597,North Dakota,Male,2014.0,88.0
-1598,Kansas,Female,2014.0,44.0
-1599,Wyoming,Male,2014.0,74.0
-1600,Kansas,Male,2014.0,276.0
-1601,Maryland,Male,2014.0,462.0
-1602,Maryland,Female,2014.0,68.0
-1603,Nevada,Female,2014.0,70.0
-1604,Nevada,Male,2014.0,351.0
-1605,North Dakota,Female,2014.0,
-1606,Louisiana,Female,2014.0,163.0
-1607,Iowa,Female,2014.0,33.0
-1608,New Jersey,Female,2014.0,47.0
-1609,Ohio,Female,2014.0,158.0
-1610,Iowa,Male,2014.0,203.0
-1611,Mississippi,Female,2014.0,79.0
-1612,North Carolina,Female,2014.0,214.0
-1613,New Mexico,Male,2014.0,280.0
-1614,Mississippi,Male,2014.0,463.0
-1615,New Mexico,Female,2014.0,46.0
-1616,Kentucky,Female,2014.0,114.0
-1617,Kentucky,Male,2014.0,517.0
-1618,Maine,Male,2014.0,113.0
-1619,New Jersey,Male,2014.0,416.0
-1620,Nebraska,Male,2014.0,165.0
-1621,Nebraska,Female,2014.0,14.0
-1622,Massachusetts,Female,2014.0,28.0
-1623,Massachusetts,Male,2014.0,196.0
-1624,Montana,Male,2014.0,145.0
-1625,Ohio,Male,2014.0,1040.0
-1626,Wyoming,Female,2014.0,17.0
-1627,Montana,Female,2014.0,22.0
-1628,Michigan,Female,2014.0,139.0
-1629,Michigan,Male,2014.0,951.0
-1630,Alabama,Female,2014.0,139.0
-1631,New Hampshire,Male,2014.0,108.0
-1632,Texas,Male,2015.0,2654.0
-1633,North Carolina,Female,2015.0,195.0
-1634,Nevada,Female,2015.0,91.0
-1635,Maryland,Female,2015.0,54.0
-1636,Maryland,Male,2015.0,642.0
-1637,Pennsylvania,Male,2015.0,1293.0
-1638,Pennsylvania,Female,2015.0,182.0
-1639,Texas,Female,2015.0,534.0
-1640,North Carolina,Male,2015.0,1079.0
-1641,Colorado,Male,2015.0,589.0
-1642,Colorado,Female,2015.0,100.0
-1643,Utah,Female,2015.0,49.0
-1644,Utah,Male,2015.0,312.0
-1645,Iowa,Male,2015.0,205.0
-1646,South Carolina,Male,2015.0,691.0
-1647,Nevada,Male,2015.0,345.0
-1648,Connecticut,Female,2015.0,22.0
-1649,Delaware,Female,2015.0,16.0
-1650,Georgia,Male,2015.0,1186.0
-1651,South Carolina,Female,2015.0,154.0
-1652,New Mexico,Female,2015.0,58.0
-1653,New Mexico,Male,2015.0,315.0
-1654,Kentucky,Female,2015.0,111.0
-1655,Kentucky,Male,2015.0,574.0
-1656,District of Columbia,Male,2015.0,109.0
-1657,District of Columbia,Female,2015.0,
-1658,South Dakota,Female,2015.0,13.0
-1659,Florida,Female,2015.0,374.0
-1660,Florida,Male,2015.0,2175.0
-1661,South Dakota,Male,2015.0,81.0
-1662,New Jersey,Male,2015.0,430.0
-1663,New Jersey,Female,2015.0,35.0
-1664,Kansas,Male,2015.0,277.0
-1665,Kansas,Female,2015.0,49.0
-1666,New York,Female,2015.0,70.0
-1667,Louisiana,Female,2015.0,141.0
-1668,Georgia,Female,2015.0,251.0
-1669,Maine,Male,2015.0,123.0
-1670,Maine,Female,2015.0,19.0
-1671,Alabama,Male,2015.0,783.0
-1672,Alabama,Female,2015.0,172.0
-1673,New Hampshire,Female,2015.0,21.0
-1674,Connecticut,Male,2015.0,164.0
-1675,New Hampshire,Male,2015.0,98.0
-1676,Tennessee,Female,2015.0,181.0
-1677,New York,Male,2015.0,770.0
-1678,Rhode Island,Female,2015.0,
-1679,Rhode Island,Male,2015.0,46.0
-1680,Delaware,Male,2015.0,94.0
-1681,Louisiana,Male,2015.0,811.0
-1682,Tennessee,Male,2015.0,886.0
-1683,Alaska,Female,2015.0,37.0
-1684,Iowa,Female,2015.0,40.0
-1685,Wyoming,Male,2015.0,96.0
-1686,Vermont,Male,2015.0,63.0
-1687,North Dakota,Female,2015.0,12.0
-1688,Oklahoma,Male,2015.0,586.0
-1689,Oklahoma,Female,2015.0,121.0
-1690,North Dakota,Male,2015.0,80.0
-1691,Minnesota,Female,2015.0,53.0
-1692,Minnesota,Male,2015.0,350.0
-1693,Ohio,Male,2015.0,1183.0
-1694,Ohio,Female,2015.0,200.0
-1695,California,Male,2015.0,2663.0
-1696,Vermont,Female,2015.0,
-1697,Washington,Female,2015.0,131.0
-1698,Virginia,Female,2015.0,150.0
-1699,California,Female,2015.0,333.0
-1700,Alaska,Male,2015.0,138.0
-1701,Washington,Male,2015.0,576.0
-1702,Idaho,Male,2015.0,208.0
-1703,Montana,Male,2015.0,165.0
-1704,Montana,Female,2015.0,37.0
-1705,Michigan,Female,2015.0,139.0
-1706,Michigan,Male,2015.0,1015.0
-1707,Indiana,Male,2015.0,712.0
-1708,Virginia,Male,2015.0,787.0
-1709,Arizona,Male,2015.0,790.0
-1710,Idaho,Female,2015.0,38.0
-1711,Oregon,Female,2015.0,76.0
-1712,West Virginia,Male,2015.0,229.0
-1713,West Virginia,Female,2015.0,42.0
-1714,Hawaii,Female,2015.0,
-1715,Hawaii,Male,2015.0,51.0
-1716,Nebraska,Male,2015.0,149.0
-1717,Nebraska,Female,2015.0,19.0
-1718,Massachusetts,Female,2015.0,22.0
-1719,Illinois,Male,2015.0,1094.0
-1720,Massachusetts,Male,2015.0,183.0
-1721,Wisconsin,Female,2015.0,70.0
-1722,Wisconsin,Male,2015.0,539.0
-1723,Illinois,Female,2015.0,116.0
-1724,Mississippi,Female,2015.0,101.0
-1725,Mississippi,Male,2015.0,488.0
-1726,Arkansas,Female,2015.0,100.0
-1727,Arkansas,Male,2015.0,419.0
-1728,Missouri,Male,2015.0,934.0
-1729,Missouri,Female,2015.0,156.0
-1730,Arizona,Female,2015.0,167.0
-1731,Wyoming,Female,2015.0,17.0
-1732,Oregon,Male,2015.0,399.0
-1733,Indiana,Female,2015.0,124.0
-1734,Missouri,Male,2016.0,955.0
-1735,Missouri,Female,2016.0,180.0
-1736,Utah,Male,2016.0,309.0
-1737,New Jersey,Female,2016.0,45.0
-1738,Washington,Male,2016.0,571.0
-1739,Mississippi,Female,2016.0,105.0
-1740,Mississippi,Male,2016.0,477.0
-1741,Minnesota,Male,2016.0,367.0
-1742,District of Columbia,Male,2016.0,97.0
-1743,District of Columbia,Female,2016.0,
-1744,Minnesota,Female,2016.0,56.0
-1745,Washington,Female,2016.0,97.0
-1746,Kentucky,Female,2016.0,139.0
-1747,New Jersey,Male,2016.0,437.0
-1748,Wyoming,Male,2016.0,86.0
-1749,Arizona,Female,2016.0,185.0
-1750,Arizona,Male,2016.0,897.0
-1751,South Dakota,Female,2016.0,17.0
-1752,South Dakota,Male,2016.0,86.0
-1753,Kentucky,Male,2016.0,621.0
-1754,Louisiana,Female,2016.0,162.0
-1755,Michigan,Male,2016.0,1065.0
-1756,Delaware,Male,2016.0,98.0
-1757,Texas,Female,2016.0,571.0
-1758,Texas,Male,2016.0,2753.0
-1759,Wyoming,Female,2016.0,16.0
-1760,California,Female,2016.0,362.0
-1761,California,Male,2016.0,2757.0
-1762,Alaska,Male,2016.0,136.0
-1763,Alaska,Female,2016.0,35.0
-1764,Vermont,Female,2016.0,
-1765,Massachusetts,Male,2016.0,217.0
-1766,Maryland,Female,2016.0,68.0
-1767,Maryland,Male,2016.0,622.0
-1768,Colorado,Male,2016.0,668.0
-1769,Colorado,Female,2016.0,126.0
-1770,Nebraska,Male,2016.0,146.0
-1771,Nebraska,Female,2016.0,18.0
-1772,Utah,Female,2016.0,54.0
-1773,Massachusetts,Female,2016.0,14.0
-1774,Louisiana,Male,2016.0,823.0
-1775,Nevada,Female,2016.0,80.0
-1776,Vermont,Male,2016.0,71.0
-1777,Delaware,Female,2016.0,14.0
-1778,New Hampshire,Male,2016.0,115.0
-1779,Arkansas,Female,2016.0,102.0
-1780,Arkansas,Male,2016.0,433.0
-1781,New Hampshire,Female,2016.0,16.0
-1782,Virginia,Male,2016.0,875.0
-1783,Virginia,Female,2016.0,163.0
-1784,Nevada,Male,2016.0,409.0
-1785,Tennessee,Female,2016.0,186.0
-1786,Michigan,Female,2016.0,162.0
-1787,Montana,Female,2016.0,31.0
-1788,Maine,Female,2016.0,11.0
-1789,Montana,Male,2016.0,160.0
-1790,Maine,Male,2016.0,111.0
-1791,Connecticut,Male,2016.0,155.0
-1792,Connecticut,Female,2016.0,15.0
-1793,Tennessee,Male,2016.0,959.0
-1794,South Carolina,Male,2016.0,736.0
-1795,West Virginia,Male,2016.0,268.0
-1796,Oklahoma,Male,2016.0,654.0
-1797,Oklahoma,Female,2016.0,114.0
-1798,Alabama,Male,2016.0,857.0
-1799,Pennsylvania,Female,2016.0,187.0
-1800,North Carolina,Female,2016.0,257.0
-1801,North Carolina,Male,2016.0,1130.0
-1802,Georgia,Male,2016.0,1317.0
-1803,Hawaii,Male,2016.0,51.0
-1804,Hawaii,Female,2016.0,13.0
-1805,Florida,Female,2016.0,457.0
-1806,Wisconsin,Male,2016.0,573.0
-1807,Rhode Island,Male,2016.0,42.0
-1808,New York,Male,2016.0,801.0
-1809,New York,Female,2016.0,87.0
-1810,Rhode Island,Female,2016.0,
-1811,Idaho,Male,2016.0,197.0
-1812,Idaho,Female,2016.0,39.0
-1813,Indiana,Female,2016.0,146.0
-1814,Pennsylvania,Male,2016.0,1354.0
-1815,Indiana,Male,2016.0,840.0
-1816,West Virginia,Female,2016.0,53.0
-1817,North Dakota,Male,2016.0,76.0
-1818,South Carolina,Female,2016.0,151.0
-1819,Illinois,Male,2016.0,1340.0
-1820,Illinois,Female,2016.0,137.0
-1821,Oregon,Male,2016.0,426.0
-1822,Oregon,Female,2016.0,77.0
-1823,New Mexico,Female,2016.0,71.0
-1824,New Mexico,Male,2016.0,296.0
-1825,Wisconsin,Female,2016.0,83.0
-1826,Georgia,Female,2016.0,242.0
-1827,Iowa,Male,2016.0,259.0
-1828,Iowa,Female,2016.0,31.0
-1829,Florida,Male,2016.0,2236.0
-1830,Ohio,Male,2016.0,1292.0
-1831,Ohio,Female,2016.0,220.0
-1832,North Dakota,Female,2016.0,14.0
-1833,Alabama,Female,2016.0,180.0
-1834,Kansas,Female,2016.0,50.0
-1835,Kansas,Male,2016.0,332.0
-1836,Utah,Female,2017.0,68.0
-1837,South Carolina,Female,2017.0,150.0
-1838,Hawaii,Female,2017.0,
-1839,Hawaii,Male,2017.0,31.0
-1840,Massachusetts,Female,2017.0,24.0
-1841,Utah,Male,2017.0,336.0
-1842,Alabama,Male,2017.0,937.0
-1843,North Carolina,Male,2017.0,1211.0
-1844,Nebraska,Female,2017.0,19.0
-1845,Georgia,Female,2017.0,265.0
-1846,Georgia,Male,2017.0,1340.0
-1847,Nevada,Male,2017.0,399.0
-1848,Nevada,Female,2017.0,96.0
-1849,Iowa,Female,2017.0,23.0
-1850,Texas,Female,2017.0,571.0
-1851,Texas,Male,2017.0,2913.0
-1852,Pennsylvania,Male,2017.0,1386.0
-1853,Pennsylvania,Female,2017.0,229.0
-1854,Maryland,Female,2017.0,63.0
-1855,Maryland,Male,2017.0,670.0
-1856,Colorado,Male,2017.0,655.0
-1857,Colorado,Female,2017.0,109.0
-1858,North Carolina,Female,2017.0,206.0
-1859,Nebraska,Male,2017.0,145.0
-1860,Alabama,Female,2017.0,185.0
-1861,California,Male,2017.0,2729.0
-1862,Vermont,Female,2017.0,13.0
-1863,Oregon,Male,2017.0,436.0
-1864,Missouri,Male,2017.0,1118.0
-1865,Missouri,Female,2017.0,184.0
-1866,Oklahoma,Male,2017.0,554.0
-1867,Oklahoma,Female,2017.0,131.0
-1868,Wyoming,Male,2017.0,100.0
-1869,Washington,Female,2017.0,116.0
-1870,Washington,Male,2017.0,703.0
-1871,Arizona,Male,2017.0,943.0
-1872,Wyoming,Female,2017.0,12.0
-1873,Arizona,Female,2017.0,181.0
-1874,Ohio,Male,2017.0,1355.0
-1875,Minnesota,Female,2017.0,47.0
-1876,Minnesota,Male,2017.0,410.0
-1877,Mississippi,Male,2017.0,531.0
-1878,West Virginia,Male,2017.0,283.0
-1879,West Virginia,Female,2017.0,62.0
-1880,Mississippi,Female,2017.0,95.0
-1881,Illinois,Female,2017.0,156.0
-1882,Ohio,Female,2017.0,214.0
-1883,California,Female,2017.0,376.0
-1884,Wisconsin,Male,2017.0,533.0
-1885,Virginia,Female,2017.0,171.0
-1886,Oregon,Female,2017.0,83.0
-1887,Massachusetts,Male,2017.0,234.0
-1888,Indiana,Male,2017.0,869.0
-1889,Indiana,Female,2017.0,142.0
-1890,Vermont,Male,2017.0,57.0
-1891,Alaska,Female,2017.0,29.0
-1892,Alaska,Male,2017.0,146.0
-1893,Wisconsin,Female,2017.0,78.0
-1894,Virginia,Male,2017.0,858.0
-1895,Montana,Male,2017.0,194.0
-1896,North Dakota,Female,2017.0,12.0
-1897,North Dakota,Male,2017.0,90.0
-1898,Arkansas,Male,2017.0,497.0
-1899,Arkansas,Female,2017.0,112.0
-1900,Michigan,Female,2017.0,138.0
-1901,Michigan,Male,2017.0,995.0
-1902,Idaho,Female,2017.0,37.0
-1903,Idaho,Male,2017.0,241.0
-1904,Montana,Female,2017.0,44.0
-1905,Connecticut,Female,2017.0,21.0
-1906,Illinois,Male,2017.0,1380.0
-1907,Rhode Island,Male,2017.0,42.0
-1908,Kentucky,Male,2017.0,608.0
-1909,South Dakota,Male,2017.0,89.0
-1910,Tennessee,Male,2017.0,1033.0
-1911,New Jersey,Male,2017.0,403.0
-1912,District of Columbia,Female,2017.0,
-1913,District of Columbia,Male,2017.0,90.0
-1914,Connecticut,Male,2017.0,164.0
-1915,Florida,Male,2017.0,2283.0
-1916,Louisiana,Male,2017.0,842.0
-1917,Louisiana,Female,2017.0,158.0
-1918,South Dakota,Female,2017.0,
-1919,Iowa,Male,2017.0,269.0
-1920,Florida,Female,2017.0,428.0
-1921,Kentucky,Female,2017.0,115.0
-1922,Kansas,Female,2017.0,70.0
-1923,Maine,Female,2017.0,23.0
-1924,South Carolina,Male,2017.0,741.0
-1925,Delaware,Female,2017.0,13.0
-1926,Delaware,Male,2017.0,95.0
-1927,New Jersey,Female,2017.0,68.0
-1928,Kansas,Male,2017.0,395.0
-1929,New Hampshire,Male,2017.0,125.0
-1930,New York,Female,2017.0,66.0
-1931,New Mexico,Male,2017.0,323.0
-1932,New York,Male,2017.0,691.0
-1933,Rhode Island,Female,2017.0,
-1934,Tennessee,Female,2017.0,200.0
-1935,New Hampshire,Female,2017.0,19.0
-1936,Maine,Male,2017.0,143.0
-1937,New Mexico,Female,2017.0,54.0
-1938,Arkansas,Female,2018.0,93.0
-1939,Arkansas,Male,2018.0,468.0
-1940,Alaska,Male,2018.0,123.0
-1941,Montana,Female,2018.0,28.0
-1942,Alabama,Male,2018.0,889.0
-1943,Delaware,Female,2018.0,16.0
-1944,Massachusetts,Female,2018.0,22.0
-1945,Massachusetts,Male,2018.0,234.0
-1946,Delaware,Male,2018.0,91.0
-1947,Indiana,Female,2018.0,172.0
-1948,Rhode Island,Female,2018.0,
-1949,Rhode Island,Male,2018.0,34.0
-1950,Vermont,Female,2018.0,13.0
-1951,Vermont,Male,2018.0,68.0
-1952,Florida,Male,2018.0,2455.0
-1953,Florida,Female,2018.0,429.0
-1954,South Dakota,Male,2018.0,100.0
-1955,South Dakota,Female,2018.0,14.0
-1956,North Dakota,Female,2018.0,14.0
-1957,North Dakota,Male,2018.0,75.0
-1958,Alaska,Female,2018.0,28.0
-1959,New Jersey,Female,2018.0,39.0
-1960,Connecticut,Female,2018.0,21.0
-1961,Michigan,Female,2018.0,189.0
-1962,Washington,Male,2018.0,669.0
-1963,West Virginia,Male,2018.0,276.0
-1964,West Virginia,Female,2018.0,63.0
-1965,District of Columbia,Female,2018.0,11.0
-1966,District of Columbia,Male,2018.0,114.0
-1967,Wisconsin,Male,2018.0,528.0
-1968,New Mexico,Male,2018.0,357.0
-1969,Washington,Female,2018.0,120.0
-1970,New Mexico,Female,2018.0,65.0
-1971,Mississippi,Male,2018.0,554.0
-1972,Mississippi,Female,2018.0,121.0
-1973,Ohio,Female,2018.0,226.0
-1974,Ohio,Male,2018.0,1314.0
-1975,South Carolina,Male,2018.0,750.0
-1976,Minnesota,Male,2018.0,398.0
-1977,South Carolina,Female,2018.0,141.0
-1978,Minnesota,Female,2018.0,29.0
-1979,New Jersey,Male,2018.0,379.0
-1980,Illinois,Female,2018.0,160.0
-1981,Wyoming,Male,2018.0,96.0
-1982,Michigan,Male,2018.0,1116.0
-1983,Idaho,Female,2018.0,51.0
-1984,Idaho,Male,2018.0,236.0
-1985,Virginia,Male,2018.0,864.0
-1986,Kentucky,Male,2018.0,641.0
-1987,Wisconsin,Female,2018.0,58.0
-1988,Oklahoma,Male,2018.0,556.0
-1989,Illinois,Male,2018.0,1216.0
-1990,Kentucky,Female,2018.0,116.0
-1991,Missouri,Female,2018.0,221.0
-1992,Oklahoma,Female,2018.0,109.0
-1993,Kansas,Female,2018.0,60.0
-1994,Kansas,Male,2018.0,364.0
-1995,Arizona,Male,2018.0,971.0
-1996,Arizona,Female,2018.0,151.0
-1997,Wyoming,Female,2018.0,27.0
-1998,Missouri,Male,2018.0,1082.0
-1999,Virginia,Female,2018.0,167.0
-2000,Montana,Male,2018.0,154.0
-2001,California,Male,2018.0,2607.0
-2002,New Hampshire,Male,2018.0,129.0
-2003,New Hampshire,Female,2018.0,21.0
-2004,Nebraska,Female,2018.0,21.0
-2005,Nebraska,Male,2018.0,161.0
-2006,North Carolina,Male,2018.0,1175.0
-2007,North Carolina,Female,2018.0,225.0
-2008,New York,Female,2018.0,89.0
-2009,Colorado,Female,2018.0,128.0
-2010,Colorado,Male,2018.0,739.0
-2011,California,Female,2018.0,359.0
-2012,Maryland,Female,2018.0,82.0
-2013,Tennessee,Female,2018.0,207.0
-2014,Tennessee,Male,2018.0,1014.0
-2015,New York,Male,2018.0,724.0
-2016,Pennsylvania,Female,2018.0,210.0
-2017,Pennsylvania,Male,2018.0,1428.0
-2018,Texas,Male,2018.0,2939.0
-2019,Texas,Female,2018.0,550.0
-2020,Iowa,Male,2018.0,252.0
-2021,Iowa,Female,2018.0,29.0
-2022,Georgia,Male,2018.0,1372.0
-2023,Nevada,Female,2018.0,99.0
-2024,Nevada,Male,2018.0,435.0
-2025,Maine,Male,2018.0,139.0
-2026,Maine,Female,2018.0,18.0
-2027,Georgia,Female,2018.0,287.0
-2028,Connecticut,Male,2018.0,163.0
-2029,Utah,Female,2018.0,54.0
-2030,Utah,Male,2018.0,325.0
-2031,Maryland,Male,2018.0,615.0
-2032,Alabama,Female,2018.0,175.0
-2033,Hawaii,Male,2018.0,43.0
-2034,Hawaii,Female,2018.0,10.0
-2035,Louisiana,Female,2018.0,150.0
-2036,Louisiana,Male,2018.0,838.0
-2037,Indiana,Male,2018.0,797.0
-2038,Oregon,Female,2018.0,79.0
-2039,Oregon,Male,2018.0,425.0
-2040,Ohio,Female,2019.0,214.0
-2041,Georgia,Male,2019.0,1412.0
-2042,Wisconsin,Male,2019.0,503.0
-2043,Delaware,Male,2019.0,79.0
-2044,Iowa,Female,2019.0,34.0
-2045,Washington,Male,2019.0,696.0
-2046,Washington,Female,2019.0,121.0
-2047,Iowa,Male,2019.0,256.0
-2048,Montana,Male,2019.0,163.0
-2049,Oregon,Female,2019.0,86.0
-2050,Texas,Female,2019.0,570.0
-2051,Idaho,Male,2019.0,208.0
-2052,Idaho,Female,2019.0,40.0
-2053,Texas,Male,2019.0,3067.0
-2054,Pennsylvania,Male,2019.0,1354.0
-2055,Illinois,Female,2019.0,159.0
-2056,New Mexico,Female,2019.0,71.0
-2057,Illinois,Male,2019.0,1209.0
-2058,Pennsylvania,Female,2019.0,180.0
-2059,Oregon,Male,2019.0,469.0
-2060,New Mexico,Male,2019.0,386.0
-2061,Alabama,Male,2019.0,889.0
-2062,Georgia,Female,2019.0,276.0
-2063,Wisconsin,Female,2019.0,87.0
-2064,District of Columbia,Female,2019.0,
-2065,District of Columbia,Male,2019.0,131.0
-2066,California,Male,2019.0,2530.0
-2067,Massachusetts,Female,2019.0,29.0
-2068,South Carolina,Female,2019.0,156.0
-2069,Connecticut,Male,2019.0,171.0
-2070,Minnesota,Female,2019.0,55.0
-2071,Alaska,Female,2019.0,31.0
-2072,Alaska,Male,2019.0,145.0
-2073,South Carolina,Male,2019.0,853.0
-2074,Maine,Female,2019.0,16.0
-2075,Maine,Male,2019.0,144.0
-2076,Ohio,Male,2019.0,1357.0
-2077,Nevada,Male,2019.0,404.0
-2078,Mississippi,Female,2019.0,118.0
-2079,Mississippi,Male,2019.0,589.0
-2080,Wyoming,Male,2019.0,112.0
-2081,Wyoming,Female,2019.0,20.0
-2082,Massachusetts,Male,2019.0,213.0
-2083,Minnesota,Male,2019.0,400.0
-2084,Connecticut,Female,2019.0,15.0
-2085,Kansas,Male,2019.0,349.0
-2086,Delaware,Female,2019.0,12.0
-2087,California,Female,2019.0,345.0
-2088,Nevada,Female,2019.0,75.0
-2089,Kansas,Female,2019.0,50.0
-2090,Utah,Male,2019.0,334.0
-2091,New York,Male,2019.0,721.0
-2092,Kentucky,Male,2019.0,571.0
-2093,New Jersey,Male,2019.0,331.0
-2094,New Jersey,Female,2019.0,37.0
-2095,Michigan,Female,2019.0,160.0
-2096,Maryland,Female,2019.0,64.0
-2097,Maryland,Male,2019.0,676.0
-2098,North Carolina,Female,2019.0,200.0
-2099,Nebraska,Male,2019.0,179.0
-2100,Nebraska,Female,2019.0,23.0
-2101,South Dakota,Male,2019.0,103.0
-2102,Montana,Female,2019.0,40.0
-2103,Kentucky,Female,2019.0,107.0
-2104,North Carolina,Male,2019.0,1176.0
-2105,New Hampshire,Female,2019.0,22.0
-2106,New Hampshire,Male,2019.0,132.0
-2107,Arkansas,Female,2019.0,95.0
-2108,Arkansas,Male,2019.0,478.0
-2109,Louisiana,Male,2019.0,857.0
-2110,Louisiana,Female,2019.0,155.0
-2111,South Dakota,Female,2019.0,
-2112,North Dakota,Male,2019.0,80.0
-2113,North Dakota,Female,2019.0,15.0
-2114,Indiana,Female,2019.0,125.0
-2115,Utah,Female,2019.0,55.0
-2116,Alabama,Female,2019.0,183.0
-2117,Indiana,Male,2019.0,830.0
-2118,Rhode Island,Female,2019.0,10.0
-2119,Vermont,Male,2019.0,59.0
-2120,Arizona,Female,2019.0,181.0
-2121,Arizona,Male,2019.0,943.0
-2122,West Virginia,Female,2019.0,56.0
-2123,West Virginia,Male,2019.0,238.0
-2124,New York,Female,2019.0,73.0
-2125,Rhode Island,Male,2019.0,38.0
-2126,Tennessee,Male,2019.0,1037.0
-2127,Tennessee,Female,2019.0,221.0
-2128,Florida,Male,2019.0,2409.0
-2129,Florida,Female,2019.0,443.0
-2130,Missouri,Female,2019.0,198.0
-2131,Hawaii,Male,2019.0,50.0
-2132,Hawaii,Female,2019.0,
-2133,Colorado,Male,2019.0,695.0
-2134,Michigan,Male,2019.0,1055.0
-2135,Oklahoma,Female,2019.0,112.0
-2136,Oklahoma,Male,2019.0,627.0
-2137,Colorado,Female,2019.0,133.0
-2138,Vermont,Female,2019.0,
-2139,Virginia,Male,2019.0,857.0
-2140,Virginia,Female,2019.0,163.0
-2141,Missouri,Male,2019.0,1049.0
-2142,Alabama,Male,2020.0,959.0
-2143,Wisconsin,Female,2020.0,87.0
-2144,Wisconsin,Male,2020.0,624.0
-2145,West Virginia,Female,2020.0,51.0
-2146,West Virginia,Male,2020.0,269.0
-2147,Alabama,Female,2020.0,177.0
-2148,Minnesota,Female,2020.0,55.0
-2149,Alaska,Male,2020.0,140.0
-2150,New Jersey,Male,2020.0,394.0
-2151,Kentucky,Male,2020.0,753.0
-2152,Kentucky,Female,2020.0,139.0
-2153,New Mexico,Female,2020.0,69.0
-2154,New Mexico,Male,2020.0,398.0
-2155,Kansas,Male,2020.0,423.0
-2156,Kansas,Female,2020.0,68.0
-2157,New York,Female,2020.0,87.0
-2158,New York,Male,2020.0,952.0
-2159,New Jersey,Female,2020.0,48.0
-2160,Iowa,Male,2020.0,308.0
-2161,North Carolina,Female,2020.0,256.0
-2162,North Carolina,Male,2020.0,1424.0
-2163,Indiana,Male,2020.0,975.0
-2164,Indiana,Female,2020.0,169.0
-2165,North Dakota,Female,2020.0,15.0
-2166,North Dakota,Male,2020.0,84.0
-2167,Illinois,Male,2020.0,1570.0
-2168,Illinois,Female,2020.0,170.0
-2169,Ohio,Female,2020.0,242.0
-2170,Iowa,Female,2020.0,44.0
-2171,Ohio,Male,2020.0,1512.0
-2172,Louisiana,Female,2020.0,166.0
-2173,New Hampshire,Male,2020.0,97.0
-2174,Mississippi,Female,2020.0,125.0
-2175,Mississippi,Male,2020.0,690.0
-2176,Michigan,Male,2020.0,1246.0
-2177,Michigan,Female,2020.0,204.0
-2178,Wyoming,Female,2020.0,21.0
-2179,Missouri,Female,2020.0,225.0
-2180,Missouri,Male,2020.0,1197.0
-2181,Montana,Female,2020.0,30.0
-2182,Montana,Male,2020.0,200.0
-2183,Louisiana,Male,2020.0,1013.0
-2184,Massachusetts,Male,2020.0,245.0
-2185,Nebraska,Female,2020.0,15.0
-2186,Nebraska,Male,2020.0,181.0
-2187,Maryland,Male,2020.0,706.0
-2188,Maryland,Female,2020.0,91.0
-2189,Nevada,Female,2020.0,73.0
-2190,Nevada,Male,2020.0,456.0
-2191,Maine,Male,2020.0,130.0
-2192,Maine,Female,2020.0,20.0
-2193,New Hampshire,Female,2020.0,27.0
-2194,Massachusetts,Female,2020.0,24.0
-2195,Alaska,Female,2020.0,30.0
-2196,Idaho,Male,2020.0,268.0
-2197,Oklahoma,Female,2020.0,129.0
-2198,Connecticut,Male,2020.0,190.0
-2199,Connecticut,Female,2020.0,24.0
-2200,Texas,Female,2020.0,648.0
-2201,Texas,Male,2020.0,3474.0
-2202,Colorado,Male,2020.0,781.0
-2203,Colorado,Female,2020.0,120.0
-2204,Utah,Female,2020.0,60.0
-2205,Utah,Male,2020.0,357.0
-2206,California,Male,2020.0,2963.0
-2207,Tennessee,Male,2020.0,1237.0
-2208,California,Female,2020.0,400.0
-2209,Vermont,Male,2020.0,68.0
-2210,Arkansas,Male,2020.0,561.0
-2211,Arkansas,Female,2020.0,109.0
-2212,Virginia,Female,2020.0,174.0
-2213,Virginia,Male,2020.0,995.0
-2214,Arizona,Male,2020.0,1047.0
-2215,Arizona,Female,2020.0,191.0
-2216,Washington,Female,2020.0,120.0
-2217,Washington,Male,2020.0,721.0
-2218,Vermont,Female,2020.0,
-2219,Idaho,Female,2020.0,44.0
-2220,Tennessee,Female,2020.0,222.0
-2221,Delaware,Male,2020.0,119.0
-2222,Oklahoma,Male,2020.0,697.0
-2223,Hawaii,Male,2020.0,45.0
-2224,Hawaii,Female,2020.0,
-2225,Minnesota,Male,2020.0,450.0
-2226,Oregon,Female,2020.0,82.0
-2227,Oregon,Male,2020.0,494.0
-2228,Pennsylvania,Female,2020.0,198.0
-2229,Pennsylvania,Male,2020.0,1539.0
-2230,Georgia,Male,2020.0,1590.0
-2231,Delaware,Female,2020.0,15.0
-2232,Georgia,Female,2020.0,285.0
-2233,Rhode Island,Male,2020.0,48.0
-2234,Florida,Male,2020.0,2521.0
-2235,Florida,Female,2020.0,475.0
-2236,South Carolina,Female,2020.0,155.0
-2237,South Carolina,Male,2020.0,971.0
-2238,District of Columbia,Male,2020.0,145.0
-2239,District of Columbia,Female,2020.0,22.0
-2240,South Dakota,Female,2020.0,15.0
-2241,South Dakota,Male,2020.0,103.0
-2242,Rhode Island,Female,2020.0,
-2243,Wyoming,Male,2020.0,130.0
+0,Alabama,Female,1999,156
+1,New Hampshire,Male,1999,64
+2,Arkansas,Female,1999,62
+3,Arkansas,Male,1999,327
+4,District of Columbia,Male,1999,147
+5,District of Columbia,Female,1999,12
+6,Oklahoma,Male,1999,420
+7,New Hampshire,Female,1999,0
+8,Oklahoma,Female,1999,87
+9,Indiana,Male,1999,582
+10,Maryland,Male,1999,584
+11,Maryland,Female,1999,60
+12,Texas,Female,1999,338
+13,Texas,Male,1999,1781
+14,New Jersey,Female,1999,47
+15,Indiana,Female,1999,94
+16,West Virginia,Female,1999,36
+17,Massachusetts,Female,1999,24
+18,Massachusetts,Male,1999,169
+19,Nebraska,Male,1999,125
+20,Florida,Male,1999,1410
+21,Florida,Female,1999,305
+22,Wisconsin,Male,1999,401
+23,Wisconsin,Female,1999,48
+24,Arizona,Female,1999,132
+25,Arizona,Male,1999,674
+26,Oregon,Male,1999,330
+27,Oregon,Female,1999,55
+28,Illinois,Female,1999,126
+29,Illinois,Male,1999,1081
+30,Nevada,Female,1999,55
+31,Nevada,Male,1999,314
+32,Tennessee,Female,1999,133
+33,Tennessee,Male,1999,718
+34,New Jersey,Male,1999,314
+35,Nebraska,Female,1999,21
+36,Washington,Male,1999,493
+37,Ohio,Male,1999,805
+38,Louisiana,Male,1999,650
+39,Louisiana,Female,1999,126
+40,Colorado,Female,1999,74
+41,Colorado,Male,1999,381
+42,New York,Female,1999,108
+43,New York,Male,1999,903
+44,Kansas,Male,1999,231
+45,Connecticut,Male,1999,184
+46,North Carolina,Male,1999,879
+47,North Carolina,Female,1999,184
+48,Kentucky,Female,1999,86
+49,Kentucky,Male,1999,440
+50,Vermont,Female,1999,10
+51,Vermont,Male,1999,50
+52,Connecticut,Female,1999,13
+53,Kansas,Female,1999,40
+54,North Dakota,Female,1999,10
+55,North Dakota,Male,1999,39
+56,Ohio,Female,1999,130
+57,Iowa,Female,1999,27
+58,Iowa,Male,1999,180
+59,California,Female,1999,408
+60,California,Male,1999,2596
+61,Maine,Male,1999,94
+62,Maine,Female,1999,18
+63,Delaware,Male,1999,56
+64,Delaware,Female,1999,0
+65,New Mexico,Female,1999,38
+66,New Mexico,Male,1999,246
+67,Utah,Female,1999,21
+68,Utah,Male,1999,166
+69,Virginia,Male,1999,691
+70,Virginia,Female,1999,128
+71,Washington,Female,1999,84
+72,Michigan,Female,1999,140
+73,West Virginia,Male,1999,217
+74,Idaho,Female,1999,23
+75,Missouri,Female,1999,96
+76,Georgia,Male,1999,917
+77,South Dakota,Male,1999,62
+78,Hawaii,Male,1999,40
+79,Georgia,Female,1999,189
+80,Pennsylvania,Female,1999,158
+81,Missouri,Male,1999,617
+82,Idaho,Male,1999,130
+83,Montana,Male,1999,109
+84,Hawaii,Female,1999,0
+85,Rhode Island,Female,1999,0
+86,Montana,Female,1999,15
+87,Pennsylvania,Male,1999,1033
+88,Rhode Island,Male,1999,48
+89,Alaska,Male,1999,71
+90,Alaska,Female,1999,16
+91,South Dakota,Female,1999,10
+92,Minnesota,Male,1999,277
+93,Michigan,Male,1999,950
+94,South Carolina,Male,1999,437
+95,South Carolina,Female,1999,109
+96,Wyoming,Female,1999,11
+97,Minnesota,Female,1999,23
+98,Wyoming,Male,1999,62
+99,Alabama,Male,1999,635
+100,Mississippi,Female,1999,82
+101,Mississippi,Male,1999,432
+102,Delaware,Female,2000,0
+103,Maine,Male,2000,96
+104,Maine,Female,2000,14
+105,Georgia,Female,2000,193
+106,Michigan,Female,2000,163
+107,California,Male,2000,2655
+108,California,Female,2000,395
+109,Georgia,Male,2000,908
+110,Iowa,Male,2000,173
+111,Iowa,Female,2000,19
+112,South Carolina,Female,2000,85
+113,South Carolina,Male,2000,410
+114,Ohio,Female,2000,125
+115,Ohio,Male,2000,765
+116,Washington,Female,2000,78
+117,Washington,Male,2000,444
+118,New Jersey,Male,2000,310
+119,New Jersey,Female,2000,32
+120,Delaware,Male,2000,43
+121,Hawaii,Male,2000,45
+122,Virginia,Male,2000,652
+123,New Mexico,Male,2000,248
+124,Alabama,Female,2000,137
+125,Kentucky,Male,2000,460
+126,Kentucky,Female,2000,85
+127,Alabama,Male,2000,629
+128,North Carolina,Female,2000,192
+129,North Carolina,Male,2000,926
+130,Rhode Island,Male,2000,51
+131,Connecticut,Female,2000,20
+132,Connecticut,Male,2000,161
+133,New York,Male,2000,980
+134,New York,Female,2000,102
+135,Rhode Island,Female,2000,0
+136,Colorado,Male,2000,369
+137,Colorado,Female,2000,76
+138,Kansas,Male,2000,258
+139,Kansas,Female,2000,41
+140,Mississippi,Male,2000,394
+141,Louisiana,Female,2000,110
+142,Louisiana,Male,2000,680
+143,Mississippi,Female,2000,80
+144,Missouri,Female,2000,114
+145,Virginia,Female,2000,139
+146,Wyoming,Male,2000,49
+147,Utah,Male,2000,166
+148,Utah,Female,2000,27
+149,Missouri,Male,2000,630
+150,Hawaii,Female,2000,0
+151,North Dakota,Female,2000,0
+152,North Dakota,Male,2000,41
+153,New Mexico,Female,2000,38
+154,Texas,Male,2000,1803
+155,Vermont,Female,2000,0
+156,Wyoming,Female,2000,12
+157,Nebraska,Female,2000,28
+158,South Dakota,Male,2000,54
+159,Nebraska,Male,2000,138
+160,Idaho,Male,2000,107
+161,Idaho,Female,2000,18
+162,West Virginia,Female,2000,36
+163,West Virginia,Male,2000,206
+164,Oklahoma,Female,2000,82
+165,Arizona,Female,2000,112
+166,Oklahoma,Male,2000,365
+167,Texas,Female,2000,363
+168,New Hampshire,Female,2000,10
+169,Tennessee,Male,2000,764
+170,Tennessee,Female,2000,134
+171,Nevada,Male,2000,297
+172,Nevada,Female,2000,43
+173,Massachusetts,Female,2000,24
+174,Massachusetts,Male,2000,151
+175,Montana,Female,2000,11
+176,Montana,Male,2000,121
+177,Oregon,Male,2000,308
+178,Illinois,Male,2000,1021
+179,Illinois,Female,2000,110
+180,South Dakota,Female,2000,0
+181,Arizona,Male,2000,678
+182,New Hampshire,Male,2000,73
+183,Vermont,Male,2000,49
+184,Oregon,Female,2000,66
+185,Indiana,Male,2000,584
+186,Indiana,Female,2000,88
+187,Maryland,Female,2000,67
+188,Pennsylvania,Female,2000,144
+189,Wisconsin,Male,2000,389
+190,Minnesota,Male,2000,275
+191,Minnesota,Female,2000,42
+192,Maryland,Male,2000,539
+193,Alaska,Male,2000,100
+194,Alaska,Female,2000,16
+195,District of Columbia,Female,2000,13
+196,District of Columbia,Male,2000,135
+197,Florida,Female,2000,269
+198,Arkansas,Male,2000,346
+199,Arkansas,Female,2000,68
+200,Florida,Male,2000,1411
+201,Michigan,Male,2000,904
+202,Pennsylvania,Male,2000,1106
+203,Wisconsin,Female,2000,53
+204,Oregon,Female,2001,58
+205,Florida,Female,2001,286
+206,Florida,Male,2001,1525
+207,North Carolina,Male,2001,947
+208,Oregon,Male,2001,291
+209,Idaho,Male,2001,140
+210,Kansas,Male,2001,222
+211,Connecticut,Male,2001,179
+212,Idaho,Female,2001,33
+213,Connecticut,Female,2001,14
+214,South Dakota,Male,2001,47
+215,South Dakota,Female,2001,0
+216,North Carolina,Female,2001,148
+217,Rhode Island,Female,2001,0
+218,Rhode Island,Male,2001,43
+219,Kansas,Female,2001,45
+220,Tennessee,Female,2001,129
+221,Illinois,Male,2001,1146
+222,Pennsylvania,Female,2001,155
+223,Indiana,Male,2001,604
+224,Indiana,Female,2001,130
+225,Texas,Female,2001,370
+226,Ohio,Male,2001,900
+227,Ohio,Female,2001,131
+228,Pennsylvania,Male,2001,1011
+229,Hawaii,Male,2001,37
+230,South Carolina,Male,2001,447
+231,South Carolina,Female,2001,116
+232,Delaware,Male,2001,58
+233,Delaware,Female,2001,17
+234,Illinois,Female,2001,137
+235,District of Columbia,Female,2001,0
+236,Georgia,Female,2001,188
+237,Georgia,Male,2001,932
+238,Iowa,Female,2001,14
+239,Iowa,Male,2001,175
+240,Hawaii,Female,2001,0
+241,North Dakota,Male,2001,42
+242,North Dakota,Female,2001,0
+243,Oklahoma,Female,2001,67
+244,Oklahoma,Male,2001,407
+245,Tennessee,Male,2001,719
+246,Utah,Female,2001,35
+247,Utah,Male,2001,191
+248,District of Columbia,Male,2001,161
+249,Texas,Male,2001,1962
+250,New York,Female,2001,94
+251,Vermont,Male,2001,47
+252,Arkansas,Male,2001,346
+253,Maryland,Male,2001,543
+254,Maryland,Female,2001,56
+255,New Hampshire,Female,2001,12
+256,New Hampshire,Male,2001,80
+257,Minnesota,Female,2001,41
+258,Minnesota,Male,2001,281
+259,Washington,Male,2001,416
+260,Washington,Female,2001,88
+261,New Jersey,Female,2001,35
+262,New Jersey,Male,2001,333
+263,Maine,Male,2001,81
+264,Maine,Female,2001,17
+265,California,Female,2001,390
+266,California,Male,2001,2764
+267,Missouri,Male,2001,663
+268,New Mexico,Female,2001,46
+269,Arkansas,Female,2001,65
+270,New Mexico,Male,2001,219
+271,Vermont,Female,2001,0
+272,West Virginia,Male,2001,211
+273,Montana,Female,2001,23
+274,Alaska,Male,2001,81
+275,Alaska,Female,2001,14
+276,Wyoming,Female,2001,0
+277,Wyoming,Male,2001,61
+278,Michigan,Male,2001,948
+279,Michigan,Female,2001,123
+280,Wisconsin,Male,2001,432
+281,Wisconsin,Female,2001,46
+282,Nebraska,Female,2001,14
+283,Nebraska,Male,2001,124
+284,Arizona,Female,2001,120
+285,Arizona,Male,2001,712
+286,Massachusetts,Male,2001,185
+287,Massachusetts,Female,2001,0
+288,Nevada,Female,2001,55
+289,Nevada,Male,2001,280
+290,West Virginia,Female,2001,37
+291,Missouri,Female,2001,89
+292,Montana,Male,2001,137
+293,Mississippi,Male,2001,421
+294,Alabama,Male,2001,611
+295,Colorado,Male,2001,427
+296,Mississippi,Female,2001,80
+297,Virginia,Male,2001,635
+298,Louisiana,Female,2001,123
+299,Louisiana,Male,2001,660
+300,Virginia,Female,2001,128
+301,Colorado,Female,2001,77
+302,Alabama,Female,2001,130
+303,Kentucky,Male,2001,451
+304,New York,Male,2001,970
+305,Kentucky,Female,2001,73
+306,Massachusetts,Female,2002,11
+307,Massachusetts,Male,2002,190
+308,Pennsylvania,Male,2002,1050
+309,Pennsylvania,Female,2002,167
+310,New York,Female,2002,92
+311,Alabama,Female,2002,112
+312,Nevada,Male,2002,311
+313,Nevada,Female,2002,54
+314,Nebraska,Male,2002,121
+315,Illinois,Female,2002,119
+316,Illinois,Male,2002,1115
+317,Hawaii,Male,2002,30
+318,Hawaii,Female,2002,0
+319,Oklahoma,Male,2002,369
+320,Oklahoma,Female,2002,84
+321,West Virginia,Male,2002,241
+322,West Virginia,Female,2002,33
+323,Colorado,Female,2002,78
+324,Connecticut,Female,2002,11
+325,District of Columbia,Male,2002,173
+326,District of Columbia,Female,2002,22
+327,Colorado,Male,2002,431
+328,Nebraska,Female,2002,18
+329,Virginia,Male,2002,676
+330,Arizona,Female,2002,133
+331,Montana,Male,2002,114
+332,Vermont,Female,2002,0
+333,Alaska,Male,2002,91
+334,Alaska,Female,2002,34
+335,Vermont,Male,2002,55
+336,Michigan,Male,2002,953
+337,Michigan,Female,2002,138
+338,Idaho,Female,2002,16
+339,Idaho,Male,2002,146
+340,Kentucky,Female,2002,87
+341,Florida,Male,2002,1573
+342,Arizona,Male,2002,823
+343,Florida,Female,2002,304
+344,Rhode Island,Male,2002,50
+345,Wisconsin,Male,2002,387
+346,Wisconsin,Female,2002,52
+347,Rhode Island,Female,2002,0
+348,North Carolina,Female,2002,179
+349,South Dakota,Female,2002,0
+350,South Dakota,Male,2002,56
+351,Oregon,Male,2002,316
+352,Oregon,Female,2002,53
+353,North Carolina,Male,2002,954
+354,New York,Male,2002,890
+355,Kentucky,Male,2002,456
+356,Connecticut,Male,2002,135
+357,Alabama,Male,2002,613
+358,Ohio,Male,2002,932
+359,Ohio,Female,2002,134
+360,Mississippi,Female,2002,84
+361,Maine,Male,2002,76
+362,Maine,Female,2002,11
+363,Louisiana,Female,2002,127
+364,Louisiana,Male,2002,745
+365,Delaware,Male,2002,66
+366,Delaware,Female,2002,0
+367,Utah,Male,2002,176
+368,Utah,Female,2002,26
+369,California,Female,2002,407
+370,California,Male,2002,2970
+371,New Jersey,Female,2002,39
+372,New Jersey,Male,2002,376
+373,Missouri,Male,2002,606
+374,Iowa,Female,2002,27
+375,Iowa,Male,2002,169
+376,Georgia,Female,2002,176
+377,Georgia,Male,2002,945
+378,Missouri,Female,2002,90
+379,North Dakota,Male,2002,55
+380,North Dakota,Female,2002,0
+381,Virginia,Female,2002,127
+382,New Mexico,Female,2002,40
+383,New Mexico,Male,2002,259
+384,Wyoming,Female,2002,14
+385,Texas,Male,2002,1916
+386,New Hampshire,Male,2002,65
+387,Washington,Female,2002,74
+388,Arkansas,Female,2002,65
+389,Arkansas,Male,2002,376
+390,Tennessee,Female,2002,158
+391,Tennessee,Male,2002,748
+392,South Carolina,Male,2002,474
+393,South Carolina,Female,2002,92
+394,Maryland,Male,2002,547
+395,Maryland,Female,2002,60
+396,Mississippi,Male,2002,404
+397,Texas,Female,2002,366
+398,Kansas,Female,2002,40
+399,Indiana,Female,2002,111
+400,Kansas,Male,2002,229
+401,Wyoming,Male,2002,81
+402,Washington,Male,2002,486
+403,Indiana,Male,2002,609
+404,Montana,Female,2002,19
+405,Minnesota,Male,2002,275
+406,New Hampshire,Female,2002,0
+407,Minnesota,Female,2002,29
+408,Hawaii,Female,2003,0
+409,Mississippi,Female,2003,90
+410,Missouri,Female,2003,85
+411,Pennsylvania,Male,2003,1091
+412,Pennsylvania,Female,2003,137
+413,Missouri,Male,2003,572
+414,Minnesota,Male,2003,293
+415,Minnesota,Female,2003,37
+416,Hawaii,Male,2003,30
+417,Mississippi,Male,2003,384
+418,Nevada,Female,2003,59
+419,Montana,Male,2003,125
+420,New Jersey,Female,2003,54
+421,New Jersey,Male,2003,397
+422,Iowa,Female,2003,24
+423,Iowa,Male,2003,182
+424,North Dakota,Male,2003,48
+425,North Dakota,Female,2003,0
+426,Louisiana,Male,2003,725
+427,Louisiana,Female,2003,118
+428,New Mexico,Female,2003,39
+429,New Mexico,Male,2003,279
+430,Kansas,Female,2003,41
+431,Kansas,Male,2003,257
+432,North Carolina,Male,2003,902
+433,North Carolina,Female,2003,158
+434,Rhode Island,Female,2003,0
+435,New York,Female,2003,90
+436,New York,Male,2003,939
+437,Kentucky,Male,2003,479
+438,Kentucky,Female,2003,79
+439,Maine,Female,2003,11
+440,Maine,Male,2003,70
+441,New Hampshire,Male,2003,79
+442,New Hampshire,Female,2003,0
+443,Michigan,Male,2003,896
+444,Michigan,Female,2003,130
+445,Idaho,Male,2003,143
+446,Oregon,Male,2003,343
+447,Oregon,Female,2003,46
+448,Nebraska,Female,2003,15
+449,Nebraska,Male,2003,116
+450,Massachusetts,Male,2003,182
+451,Massachusetts,Female,2003,22
+452,Montana,Female,2003,21
+453,Illinois,Female,2003,103
+454,Oklahoma,Male,2003,380
+455,Oklahoma,Female,2003,63
+456,Nevada,Male,2003,310
+457,Maryland,Male,2003,583
+458,Maryland,Female,2003,59
+459,Indiana,Female,2003,102
+460,Indiana,Male,2003,592
+461,Ohio,Male,2003,821
+462,Ohio,Female,2003,103
+463,Illinois,Male,2003,1043
+464,Rhode Island,Male,2003,32
+465,Idaho,Female,2003,19
+466,South Dakota,Male,2003,61
+467,Utah,Male,2003,199
+468,Arkansas,Male,2003,352
+469,California,Male,2003,3019
+470,Arkansas,Female,2003,53
+471,California,Female,2003,378
+472,Florida,Female,2003,290
+473,Tennessee,Female,2003,145
+474,District of Columbia,Female,2003,0
+475,District of Columbia,Male,2003,159
+476,Colorado,Female,2003,72
+477,Colorado,Male,2003,421
+478,Utah,Female,2003,28
+479,Washington,Female,2003,80
+480,Connecticut,Male,2003,131
+481,Connecticut,Female,2003,22
+482,Vermont,Male,2003,44
+483,Vermont,Female,2003,0
+484,Alaska,Male,2003,102
+485,Alaska,Female,2003,18
+486,Wyoming,Female,2003,0
+487,Wyoming,Male,2003,82
+488,West Virginia,Female,2003,42
+489,West Virginia,Male,2003,223
+490,South Dakota,Female,2003,10
+491,Washington,Male,2003,479
+492,Virginia,Female,2003,119
+493,Tennessee,Male,2003,695
+494,Florida,Male,2003,1645
+495,Alabama,Male,2003,634
+496,Wisconsin,Male,2003,408
+497,Texas,Female,2003,390
+498,Wisconsin,Female,2003,56
+499,Texas,Male,2003,2015
+500,Delaware,Female,2003,0
+501,Virginia,Male,2003,687
+502,Alabama,Female,2003,132
+503,Georgia,Male,2003,975
+504,Georgia,Female,2003,195
+505,South Carolina,Female,2003,109
+506,Delaware,Male,2003,56
+507,South Carolina,Male,2003,483
+508,Arizona,Female,2003,124
+509,Arizona,Male,2003,717
+510,Arizona,Male,2004,770
+511,North Carolina,Male,2004,888
+512,Illinois,Male,2004,878
+513,Illinois,Female,2004,115
+514,North Carolina,Female,2004,167
+515,Wisconsin,Female,2004,57
+516,Nebraska,Female,2004,12
+517,Utah,Female,2004,25
+518,Utah,Male,2004,195
+519,Alaska,Male,2004,101
+520,Arizona,Female,2004,110
+521,South Dakota,Female,2004,0
+522,South Dakota,Male,2004,67
+523,West Virginia,Male,2004,212
+524,Alaska,Female,2004,15
+525,Wyoming,Male,2004,47
+526,Wyoming,Female,2004,0
+527,Delaware,Female,2004,11
+528,Delaware,Male,2004,63
+529,Kansas,Male,2004,242
+530,North Dakota,Male,2004,46
+531,Montana,Male,2004,105
+532,Indiana,Male,2004,544
+533,Indiana,Female,2004,90
+534,Michigan,Female,2004,136
+535,Michigan,Male,2004,912
+536,North Dakota,Female,2004,0
+537,New Jersey,Female,2004,39
+538,New Jersey,Male,2004,410
+539,Iowa,Female,2004,14
+540,Tennessee,Male,2004,728
+541,Tennessee,Female,2004,142
+542,California,Male,2004,2887
+543,California,Female,2004,366
+544,Texas,Male,2004,1950
+545,Ohio,Male,2004,886
+546,Texas,Female,2004,384
+547,District of Columbia,Female,2004,10
+548,Wisconsin,Male,2004,356
+549,District of Columbia,Male,2004,133
+550,Massachusetts,Male,2004,192
+551,Massachusetts,Female,2004,13
+552,Oklahoma,Female,2004,71
+553,Oklahoma,Male,2004,378
+554,Connecticut,Male,2004,153
+555,Connecticut,Female,2004,20
+556,Iowa,Male,2004,176
+557,Montana,Female,2004,20
+558,Kansas,Female,2004,50
+559,Ohio,Female,2004,149
+560,Oregon,Male,2004,326
+561,Colorado,Male,2004,460
+562,Colorado,Female,2004,83
+563,Pennsylvania,Female,2004,166
+564,Pennsylvania,Male,2004,1102
+565,Oregon,Female,2004,52
+566,Maryland,Male,2004,587
+567,Maryland,Female,2004,61
+568,Maine,Female,2004,13
+569,Maine,Male,2004,95
+570,New Mexico,Male,2004,244
+571,New Mexico,Female,2004,41
+572,Alabama,Male,2004,566
+573,Arkansas,Female,2004,60
+574,Arkansas,Male,2004,341
+575,Hawaii,Male,2004,35
+576,Hawaii,Female,2004,0
+577,South Carolina,Male,2004,476
+578,Virginia,Male,2004,680
+579,Virginia,Female,2004,134
+580,New Hampshire,Female,2004,0
+581,Rhode Island,Male,2004,35
+582,Rhode Island,Female,2004,0
+583,New Hampshire,Male,2004,60
+584,Missouri,Female,2004,106
+585,Mississippi,Male,2004,410
+586,Alabama,Female,2004,117
+587,Louisiana,Male,2004,781
+588,Louisiana,Female,2004,121
+589,Georgia,Male,2004,879
+590,Georgia,Female,2004,182
+591,South Carolina,Female,2004,95
+592,Mississippi,Female,2004,62
+593,Missouri,Male,2004,563
+594,Nebraska,Male,2004,105
+595,Kentucky,Male,2004,460
+596,New York,Female,2004,68
+597,New York,Male,2004,881
+598,Vermont,Male,2004,57
+599,Minnesota,Male,2004,317
+600,Minnesota,Female,2004,43
+601,Washington,Male,2004,470
+602,Washington,Female,2004,91
+603,Florida,Male,2004,1558
+604,Kentucky,Female,2004,93
+605,Florida,Female,2004,324
+606,Idaho,Female,2004,20
+607,Nevada,Male,2004,328
+608,Nevada,Female,2004,54
+609,West Virginia,Female,2004,39
+610,Idaho,Male,2004,155
+611,Vermont,Female,2004,0
+612,Iowa,Female,2005,27
+613,Texas,Male,2005,2081
+614,Texas,Female,2005,390
+615,Iowa,Male,2005,174
+616,Nevada,Male,2005,330
+617,New Jersey,Male,2005,391
+618,Nebraska,Female,2005,15
+619,New York,Female,2005,100
+620,Louisiana,Female,2005,133
+621,Utah,Male,2005,199
+622,Louisiana,Male,2005,722
+623,West Virginia,Male,2005,215
+624,West Virginia,Female,2005,46
+625,New York,Male,2005,912
+626,Virginia,Female,2005,129
+627,Virginia,Male,2005,752
+628,Nevada,Female,2005,54
+629,Nebraska,Male,2005,119
+630,Arkansas,Male,2005,350
+631,North Dakota,Female,2005,0
+632,New Jersey,Female,2005,39
+633,North Carolina,Female,2005,163
+634,Colorado,Female,2005,73
+635,Connecticut,Female,2005,17
+636,North Carolina,Male,2005,957
+637,Colorado,Male,2005,454
+638,New Hampshire,Female,2005,10
+639,Massachusetts,Female,2005,22
+640,New Hampshire,Male,2005,78
+641,Maryland,Male,2005,596
+642,Kentucky,Male,2005,448
+643,North Dakota,Male,2005,58
+644,Kansas,Female,2005,27
+645,Kentucky,Female,2005,97
+646,New Mexico,Male,2005,228
+647,Massachusetts,Male,2005,202
+648,New Mexico,Female,2005,33
+649,Vermont,Female,2005,0
+650,Vermont,Male,2005,37
+651,Arizona,Male,2005,816
+652,Arizona,Female,2005,114
+653,Arkansas,Female,2005,87
+654,Connecticut,Male,2005,170
+655,Utah,Female,2005,27
+656,Kansas,Male,2005,228
+657,Maryland,Female,2005,54
+658,Washington,Female,2005,69
+659,Oregon,Male,2005,335
+660,Hawaii,Male,2005,23
+661,District of Columbia,Female,2005,10
+662,District of Columbia,Male,2005,143
+663,Alabama,Female,2005,123
+664,Alabama,Male,2005,614
+665,Oklahoma,Female,2005,78
+666,Idaho,Female,2005,23
+667,Oklahoma,Male,2005,381
+668,Maine,Male,2005,98
+669,Maine,Female,2005,12
+670,Montana,Male,2005,137
+671,Montana,Female,2005,21
+672,Pennsylvania,Male,2005,1204
+673,Illinois,Male,2005,907
+674,Hawaii,Female,2005,0
+675,Pennsylvania,Female,2005,146
+676,Illinois,Female,2005,115
+677,Missouri,Female,2005,89
+678,Missouri,Male,2005,667
+679,Alaska,Male,2005,99
+680,Alaska,Female,2005,18
+681,South Dakota,Male,2005,77
+682,South Dakota,Female,2005,0
+683,Oregon,Female,2005,52
+684,Wyoming,Female,2005,17
+685,Wyoming,Male,2005,54
+686,Minnesota,Female,2005,49
+687,Minnesota,Male,2005,311
+688,Florida,Male,2005,1539
+689,Florida,Female,2005,291
+690,South Carolina,Male,2005,491
+691,Tennessee,Female,2005,151
+692,Idaho,Male,2005,171
+693,Wisconsin,Male,2005,424
+694,California,Male,2005,3025
+695,Tennessee,Male,2005,827
+696,Ohio,Male,2005,976
+697,Rhode Island,Female,2005,0
+698,Mississippi,Male,2005,372
+699,California,Female,2005,349
+700,Ohio,Female,2005,135
+701,Washington,Male,2005,486
+702,Mississippi,Female,2005,85
+703,Indiana,Male,2005,610
+704,Indiana,Female,2005,86
+705,Rhode Island,Male,2005,35
+706,Wisconsin,Female,2005,46
+707,Delaware,Female,2005,0
+708,Georgia,Male,2005,882
+709,Delaware,Male,2005,67
+710,Georgia,Female,2005,173
+711,Michigan,Male,2005,941
+712,Michigan,Female,2005,124
+713,South Carolina,Female,2005,95
+714,Maryland,Female,2006,60
+715,Maryland,Male,2006,601
+716,Mississippi,Male,2006,388
+717,Missouri,Female,2006,106
+718,Missouri,Male,2006,658
+719,Florida,Female,2006,331
+720,New Hampshire,Female,2006,10
+721,New Hampshire,Male,2006,73
+722,Kentucky,Male,2006,461
+723,Rhode Island,Female,2006,0
+724,Kentucky,Female,2006,69
+725,Rhode Island,Male,2006,39
+726,Florida,Male,2006,1735
+727,Mississippi,Female,2006,81
+728,Arkansas,Female,2006,53
+729,Wyoming,Male,2006,70
+730,Colorado,Female,2006,88
+731,Arkansas,Male,2006,373
+732,Hawaii,Female,2006,0
+733,Hawaii,Male,2006,26
+734,Vermont,Male,2006,46
+735,Vermont,Female,2006,0
+736,Georgia,Female,2006,184
+737,Alabama,Female,2006,123
+738,Maine,Female,2006,17
+739,New Mexico,Female,2006,29
+740,Colorado,Male,2006,403
+741,New Mexico,Male,2006,245
+742,Pennsylvania,Male,2006,1231
+743,Louisiana,Female,2006,124
+744,Pennsylvania,Female,2006,134
+745,Louisiana,Male,2006,706
+746,South Carolina,Female,2006,126
+747,South Carolina,Male,2006,485
+748,Wyoming,Female,2006,11
+749,Washington,Male,2006,472
+750,Washington,Female,2006,65
+751,Georgia,Male,2006,942
+752,Alabama,Male,2006,659
+753,Maine,Male,2006,86
+754,Nevada,Male,2006,340
+755,Arizona,Male,2006,835
+756,Arizona,Female,2006,139
+757,District of Columbia,Male,2006,126
+758,North Carolina,Female,2006,180
+759,North Carolina,Male,2006,950
+760,District of Columbia,Female,2006,0
+761,Michigan,Male,2006,1021
+762,Massachusetts,Female,2006,22
+763,Massachusetts,Male,2006,185
+764,Michigan,Female,2006,135
+765,Tennessee,Female,2006,151
+766,Tennessee,Male,2006,788
+767,California,Male,2006,2930
+768,Oklahoma,Female,2006,80
+769,California,Female,2006,366
+770,Texas,Female,2006,410
+771,Indiana,Female,2006,93
+772,Nebraska,Male,2006,126
+773,Nebraska,Female,2006,14
+774,Indiana,Male,2006,646
+775,Iowa,Male,2006,163
+776,Iowa,Female,2006,30
+777,Wisconsin,Male,2006,369
+778,Wisconsin,Female,2006,46
+779,Ohio,Male,2006,961
+780,Ohio,Female,2006,151
+781,Delaware,Male,2006,65
+782,Delaware,Female,2006,11
+783,Texas,Male,2006,1993
+784,Connecticut,Male,2006,154
+785,Connecticut,Female,2006,19
+786,Oklahoma,Male,2006,398
+787,Nevada,Female,2006,58
+788,Idaho,Male,2006,152
+789,Minnesota,Male,2006,296
+790,Minnesota,Female,2006,36
+791,New York,Female,2006,87
+792,New York,Male,2006,910
+793,Oregon,Male,2006,316
+794,Oregon,Female,2006,56
+795,North Dakota,Male,2006,43
+796,South Dakota,Female,2006,0
+797,Utah,Male,2006,187
+798,Utah,Female,2006,35
+799,Idaho,Female,2006,26
+800,South Dakota,Male,2006,68
+801,Alaska,Male,2006,98
+802,Montana,Male,2006,113
+803,Montana,Female,2006,0
+804,Illinois,Male,2006,936
+805,Illinois,Female,2006,99
+806,Alaska,Female,2006,14
+807,Kansas,Male,2006,252
+808,Kansas,Female,2006,39
+809,New Jersey,Male,2006,449
+810,West Virginia,Male,2006,198
+811,West Virginia,Female,2006,53
+812,Virginia,Female,2006,129
+813,Virginia,Male,2006,676
+814,New Jersey,Female,2006,43
+815,North Dakota,Female,2006,0
+816,New Hampshire,Female,2007,10
+817,New Hampshire,Male,2007,68
+818,Rhode Island,Male,2007,35
+819,Arkansas,Female,2007,69
+820,Alabama,Female,2007,143
+821,Alabama,Male,2007,668
+822,Mississippi,Male,2007,450
+823,Wyoming,Male,2007,66
+824,Wyoming,Female,2007,0
+825,Missouri,Female,2007,105
+826,Missouri,Male,2007,649
+827,Minnesota,Male,2007,303
+828,Minnesota,Female,2007,37
+829,Alaska,Female,2007,11
+830,Alaska,Male,2007,109
+831,Montana,Female,2007,18
+832,Montana,Male,2007,119
+833,Michigan,Male,2007,960
+834,Michigan,Female,2007,128
+835,Wisconsin,Male,2007,411
+836,Wisconsin,Female,2007,71
+837,Maryland,Female,2007,68
+838,Maryland,Male,2007,597
+839,Washington,Female,2007,65
+840,Washington,Male,2007,477
+841,Nevada,Male,2007,340
+842,Nevada,Female,2007,71
+843,Arkansas,Male,2007,357
+844,West Virginia,Female,2007,34
+845,Arizona,Male,2007,825
+846,Arizona,Female,2007,113
+847,Massachusetts,Female,2007,24
+848,Massachusetts,Male,2007,208
+849,Nebraska,Male,2007,116
+850,Nebraska,Female,2007,23
+851,West Virginia,Male,2007,232
+852,Maine,Male,2007,94
+853,Colorado,Female,2007,64
+854,Mississippi,Female,2007,87
+855,Kansas,Female,2007,33
+856,Kansas,Male,2007,256
+857,Utah,Female,2007,38
+858,Utah,Male,2007,203
+859,District of Columbia,Female,2007,12
+860,District of Columbia,Male,2007,130
+861,New York,Male,2007,884
+862,New York,Female,2007,92
+863,South Dakota,Male,2007,45
+864,South Dakota,Female,2007,0
+865,Delaware,Male,2007,65
+866,Oregon,Female,2007,60
+867,Oregon,Male,2007,322
+868,Idaho,Male,2007,165
+869,Kentucky,Female,2007,100
+870,Kentucky,Male,2007,514
+871,Idaho,Female,2007,18
+872,Illinois,Female,2007,102
+873,Florida,Female,2007,339
+874,Illinois,Male,2007,924
+875,Connecticut,Male,2007,130
+876,Maine,Female,2007,12
+877,Indiana,Male,2007,556
+878,Indiana,Female,2007,111
+879,North Dakota,Male,2007,54
+880,North Dakota,Female,2007,0
+881,Iowa,Female,2007,12
+882,Iowa,Male,2007,142
+883,Texas,Female,2007,372
+884,Texas,Male,2007,2178
+885,Tennessee,Male,2007,767
+886,Tennessee,Female,2007,158
+887,Ohio,Female,2007,130
+888,Ohio,Male,2007,973
+889,Oklahoma,Female,2007,85
+890,Oklahoma,Male,2007,395
+891,North Carolina,Male,2007,935
+892,North Carolina,Female,2007,177
+893,Connecticut,Female,2007,19
+894,Florida,Male,2007,1915
+895,Delaware,Female,2007,13
+896,California,Female,2007,379
+897,Louisiana,Male,2007,739
+898,Louisiana,Female,2007,129
+899,Hawaii,Female,2007,0
+900,Georgia,Female,2007,183
+901,New Jersey,Female,2007,42
+902,Pennsylvania,Female,2007,128
+903,South Carolina,Female,2007,97
+904,New Jersey,Male,2007,402
+905,South Carolina,Male,2007,491
+906,Virginia,Female,2007,132
+907,Vermont,Male,2007,45
+908,Pennsylvania,Male,2007,1184
+909,Virginia,Male,2007,681
+910,New Mexico,Female,2007,43
+911,Georgia,Male,2007,1054
+912,California,Male,2007,2815
+913,New Mexico,Male,2007,244
+914,Colorado,Male,2007,436
+915,Rhode Island,Female,2007,0
+916,Vermont,Female,2007,0
+917,Hawaii,Male,2007,33
+918,Ohio,Female,2008,124
+919,Ohio,Male,2008,985
+920,Michigan,Female,2008,102
+921,Michigan,Male,2008,977
+922,Hawaii,Female,2008,0
+923,Montana,Male,2008,122
+924,Wisconsin,Male,2008,375
+925,Tennessee,Male,2008,818
+926,Montana,Female,2008,31
+927,Wisconsin,Female,2008,64
+928,Georgia,Female,2008,223
+929,Georgia,Male,2008,950
+930,Rhode Island,Male,2008,40
+931,Indiana,Female,2008,114
+932,Indiana,Male,2008,606
+933,Delaware,Male,2008,90
+934,Delaware,Female,2008,0
+935,Tennessee,Female,2008,167
+936,Hawaii,Male,2008,33
+937,Minnesota,Female,2008,40
+938,Pennsylvania,Female,2008,138
+939,Minnesota,Male,2008,331
+940,Missouri,Female,2008,119
+941,Florida,Female,2008,352
+942,Florida,Male,2008,1966
+943,South Carolina,Male,2008,536
+944,Idaho,Female,2008,24
+945,Idaho,Male,2008,146
+946,Oregon,Male,2008,330
+947,Oregon,Female,2008,49
+948,Oklahoma,Male,2008,431
+949,South Carolina,Female,2008,78
+950,Missouri,Male,2008,699
+951,Pennsylvania,Male,2008,1197
+952,South Dakota,Female,2008,13
+953,District of Columbia,Male,2008,125
+954,District of Columbia,Female,2008,0
+955,Wyoming,Female,2008,12
+956,Alaska,Female,2008,17
+957,Alaska,Male,2008,122
+958,Wyoming,Male,2008,81
+959,Alabama,Male,2008,682
+960,Alabama,Female,2008,138
+961,Mississippi,Male,2008,473
+962,Illinois,Female,2008,99
+963,Illinois,Male,2008,1002
+964,Mississippi,Female,2008,90
+965,South Dakota,Male,2008,70
+966,Oklahoma,Female,2008,77
+967,Maine,Female,2008,15
+968,Colorado,Female,2008,64
+969,New York,Female,2008,80
+970,Utah,Female,2008,31
+971,Utah,Male,2008,200
+972,Colorado,Male,2008,447
+973,Nevada,Female,2008,61
+974,Nevada,Male,2008,339
+975,Washington,Male,2008,511
+976,Washington,Female,2008,67
+977,Maryland,Male,2008,570
+978,Maryland,Female,2008,75
+979,Kentucky,Female,2008,84
+980,Kentucky,Male,2008,492
+981,Rhode Island,Female,2008,0
+982,New Mexico,Male,2008,244
+983,New York,Male,2008,877
+984,New Mexico,Female,2008,44
+985,Vermont,Male,2008,48
+986,Arkansas,Female,2008,71
+987,Arkansas,Male,2008,373
+988,Louisiana,Female,2008,126
+989,Louisiana,Male,2008,700
+990,California,Male,2008,2753
+991,California,Female,2008,355
+992,New Jersey,Male,2008,380
+993,New Jersey,Female,2008,49
+994,New Hampshire,Female,2008,15
+995,New Hampshire,Male,2008,79
+996,Virginia,Female,2008,112
+997,Virginia,Male,2008,695
+998,Maine,Male,2008,104
+999,Vermont,Female,2008,0
+1000,Kansas,Male,2008,245
+1001,West Virginia,Male,2008,193
+1002,North Carolina,Male,2008,961
+1003,Massachusetts,Male,2008,202
+1004,Kansas,Female,2008,30
+1005,Massachusetts,Female,2008,16
+1006,Nebraska,Male,2008,135
+1007,Nebraska,Female,2008,14
+1008,Iowa,Male,2008,196
+1009,Iowa,Female,2008,27
+1010,North Dakota,Female,2008,0
+1011,Texas,Male,2008,2168
+1012,North Dakota,Male,2008,54
+1013,North Carolina,Female,2008,199
+1014,Texas,Female,2008,415
+1015,West Virginia,Female,2008,44
+1016,Arizona,Male,2008,749
+1017,Connecticut,Male,2008,178
+1018,Arizona,Female,2008,151
+1019,Connecticut,Female,2008,21
+1020,New Hampshire,Female,2009,15
+1021,Vermont,Male,2009,53
+1022,Nebraska,Male,2009,115
+1023,Nebraska,Female,2009,16
+1024,Virginia,Female,2009,120
+1025,Wyoming,Female,2009,13
+1026,Wyoming,Male,2009,83
+1027,Rhode Island,Female,2009,0
+1028,Rhode Island,Male,2009,52
+1029,Mississippi,Male,2009,414
+1030,Mississippi,Female,2009,72
+1031,Virginia,Male,2009,701
+1032,New Jersey,Male,2009,371
+1033,New Jersey,Female,2009,37
+1034,Tennessee,Male,2009,844
+1035,Pennsylvania,Female,2009,187
+1036,Pennsylvania,Male,2009,1149
+1037,North Dakota,Female,2009,0
+1038,Tennessee,Female,2009,124
+1039,North Dakota,Male,2009,52
+1040,New Hampshire,Male,2009,74
+1041,New York,Male,2009,849
+1042,South Carolina,Male,2009,526
+1043,South Carolina,Female,2009,107
+1044,New York,Female,2009,95
+1045,South Dakota,Male,2009,70
+1046,South Dakota,Female,2009,0
+1047,Washington,Male,2009,501
+1048,Washington,Female,2009,101
+1049,Missouri,Female,2009,119
+1050,Utah,Female,2009,40
+1051,Wisconsin,Female,2009,68
+1052,Wisconsin,Male,2009,385
+1053,Utah,Male,2009,214
+1054,Oklahoma,Female,2009,86
+1055,Oklahoma,Male,2009,445
+1056,West Virginia,Male,2009,214
+1057,Ohio,Male,2009,840
+1058,Nevada,Female,2009,58
+1059,Nevada,Male,2009,344
+1060,Ohio,Female,2009,143
+1061,North Carolina,Female,2009,183
+1062,North Carolina,Male,2009,931
+1063,Montana,Female,2009,21
+1064,Montana,Male,2009,147
+1065,Texas,Male,2009,2248
+1066,Texas,Female,2009,426
+1067,New Mexico,Male,2009,256
+1068,New Mexico,Female,2009,39
+1069,Oregon,Female,2009,68
+1070,Oregon,Male,2009,345
+1071,Vermont,Female,2009,0
+1072,West Virginia,Female,2009,38
+1073,Missouri,Male,2009,699
+1074,Indiana,Female,2009,88
+1075,Maine,Male,2009,104
+1076,Michigan,Female,2009,122
+1077,Michigan,Male,2009,967
+1078,Idaho,Male,2009,163
+1079,Indiana,Male,2009,647
+1080,Alabama,Female,2009,151
+1081,Kansas,Female,2009,41
+1082,Kansas,Male,2009,259
+1083,Minnesota,Male,2009,300
+1084,Minnesota,Female,2009,34
+1085,Massachusetts,Male,2009,180
+1086,Massachusetts,Female,2009,23
+1087,California,Female,2009,333
+1088,Kentucky,Male,2009,453
+1089,Delaware,Male,2009,65
+1090,Delaware,Female,2009,0
+1091,Kentucky,Female,2009,105
+1092,Connecticut,Female,2009,22
+1093,Connecticut,Male,2009,151
+1094,Maryland,Female,2009,65
+1095,Maryland,Male,2009,507
+1096,Arkansas,Female,2009,64
+1097,Arkansas,Male,2009,402
+1098,Georgia,Female,2009,222
+1099,Georgia,Male,2009,1021
+1100,Maine,Female,2009,17
+1101,Alabama,Male,2009,680
+1102,Idaho,Female,2009,29
+1103,Alaska,Female,2009,16
+1104,Louisiana,Female,2009,118
+1105,California,Male,2009,2707
+1106,Iowa,Male,2009,174
+1107,Alaska,Male,2009,86
+1108,Colorado,Female,2009,87
+1109,Iowa,Female,2009,18
+1110,Arizona,Female,2009,160
+1111,Colorado,Male,2009,490
+1112,Louisiana,Male,2009,691
+1113,Arizona,Male,2009,690
+1114,Hawaii,Female,2009,0
+1115,District of Columbia,Male,2009,101
+1116,District of Columbia,Female,2009,0
+1117,Florida,Male,2009,1921
+1118,Hawaii,Male,2009,40
+1119,Florida,Female,2009,390
+1120,Illinois,Male,2009,946
+1121,Illinois,Female,2009,103
+1122,Vermont,Female,2010,10
+1123,Massachusetts,Female,2010,27
+1124,Georgia,Male,2010,1020
+1125,Georgia,Female,2010,199
+1126,Rhode Island,Female,2010,0
+1127,Rhode Island,Male,2010,46
+1128,Vermont,Male,2010,60
+1129,Connecticut,Male,2010,192
+1130,Utah,Male,2010,266
+1131,Utah,Female,2010,42
+1132,Nebraska,Female,2010,18
+1133,Colorado,Female,2010,80
+1134,Colorado,Male,2010,458
+1135,Kansas,Male,2010,255
+1136,Kansas,Female,2010,37
+1137,North Carolina,Male,2010,942
+1138,Nebraska,Male,2010,137
+1139,Pennsylvania,Female,2010,142
+1140,Pennsylvania,Male,2010,1160
+1141,Massachusetts,Male,2010,241
+1142,Connecticut,Female,2010,18
+1143,Tennessee,Male,2010,771
+1144,Texas,Female,2010,415
+1145,Nevada,Male,2010,325
+1146,Alabama,Female,2010,127
+1147,Tennessee,Female,2010,157
+1148,New Mexico,Male,2010,255
+1149,Alaska,Male,2010,116
+1150,Alaska,Female,2010,27
+1151,District of Columbia,Female,2010,0
+1152,District of Columbia,Male,2010,93
+1153,Maine,Female,2010,12
+1154,New Mexico,Female,2010,32
+1155,New Jersey,Female,2010,43
+1156,New Jersey,Male,2010,410
+1157,Florida,Female,2010,379
+1158,South Dakota,Female,2010,10
+1159,South Dakota,Male,2010,63
+1160,Alabama,Male,2010,654
+1161,Louisiana,Female,2010,123
+1162,Florida,Male,2010,1873
+1163,Nevada,Female,2010,60
+1164,Maine,Male,2010,97
+1165,Wisconsin,Female,2010,51
+1166,New York,Male,2010,923
+1167,New York,Female,2010,81
+1168,Maryland,Male,2010,488
+1169,Maryland,Female,2010,45
+1170,Wyoming,Male,2010,76
+1171,Texas,Male,2010,2284
+1172,Hawaii,Female,2010,0
+1173,Wyoming,Female,2010,16
+1174,Delaware,Female,2010,0
+1175,Kentucky,Female,2010,80
+1176,Kentucky,Male,2010,473
+1177,New Hampshire,Female,2010,20
+1178,New Hampshire,Male,2010,96
+1179,South Carolina,Female,2010,103
+1180,South Carolina,Male,2010,541
+1181,Wisconsin,Male,2010,442
+1182,Delaware,Male,2010,81
+1183,Hawaii,Male,2010,38
+1184,North Carolina,Female,2010,182
+1185,Arkansas,Male,2010,351
+1186,Virginia,Female,2010,127
+1187,Virginia,Male,2010,740
+1188,Oregon,Male,2010,379
+1189,Oregon,Female,2010,69
+1190,Idaho,Female,2010,24
+1191,Idaho,Male,2010,174
+1192,Arkansas,Female,2010,68
+1193,Washington,Female,2010,100
+1194,Washington,Male,2010,494
+1195,Missouri,Male,2010,749
+1196,Missouri,Female,2010,96
+1197,Minnesota,Female,2010,43
+1198,Minnesota,Male,2010,314
+1199,Indiana,Male,2010,601
+1200,Indiana,Female,2010,104
+1201,Oklahoma,Male,2010,459
+1202,Ohio,Female,2010,153
+1203,Ohio,Male,2010,988
+1204,Arizona,Male,2010,787
+1205,Arizona,Female,2010,134
+1206,West Virginia,Female,2010,36
+1207,West Virginia,Male,2010,233
+1208,Oklahoma,Female,2010,78
+1209,Illinois,Female,2010,100
+1210,Illinois,Male,2010,959
+1211,Mississippi,Male,2010,382
+1212,Mississippi,Female,2010,94
+1213,North Dakota,Male,2010,60
+1214,Michigan,Male,2010,942
+1215,Louisiana,Male,2010,741
+1216,Montana,Female,2010,27
+1217,California,Male,2010,2531
+1218,Montana,Male,2010,139
+1219,North Dakota,Female,2010,0
+1220,Michigan,Female,2010,125
+1221,Iowa,Male,2010,181
+1222,California,Female,2010,358
+1223,Iowa,Female,2010,33
+1224,Delaware,Female,2011,13
+1225,West Virginia,Male,2011,221
+1226,Indiana,Male,2011,537
+1227,Kentucky,Female,2011,95
+1228,Washington,Male,2011,501
+1229,Delaware,Male,2011,64
+1230,New Jersey,Female,2011,36
+1231,Montana,Male,2011,138
+1232,Missouri,Female,2011,128
+1233,Missouri,Male,2011,724
+1234,New Jersey,Male,2011,438
+1235,Iowa,Female,2011,27
+1236,Florida,Female,2011,365
+1237,Florida,Male,2011,1995
+1238,Iowa,Male,2011,193
+1239,Idaho,Male,2011,163
+1240,Washington,Female,2011,98
+1241,Wyoming,Female,2011,13
+1242,Pennsylvania,Female,2011,170
+1243,Pennsylvania,Male,2011,1259
+1244,Massachusetts,Male,2011,224
+1245,New Hampshire,Female,2011,13
+1246,New Hampshire,Male,2011,75
+1247,Vermont,Male,2011,69
+1248,West Virginia,Female,2011,51
+1249,New Mexico,Male,2011,255
+1250,Ohio,Female,2011,170
+1251,Arizona,Male,2011,823
+1252,California,Male,2011,2568
+1253,California,Female,2011,361
+1254,Oklahoma,Female,2011,114
+1255,Oklahoma,Male,2011,512
+1256,Arizona,Female,2011,131
+1257,Maine,Female,2011,22
+1258,Maine,Male,2011,109
+1259,Colorado,Female,2011,79
+1260,Tennessee,Female,2011,165
+1261,Tennessee,Male,2011,780
+1262,Indiana,Female,2011,94
+1263,Minnesota,Male,2011,354
+1264,South Carolina,Male,2011,570
+1265,South Carolina,Female,2011,128
+1266,Alaska,Female,2011,24
+1267,Alaska,Male,2011,101
+1268,Minnesota,Female,2011,39
+1269,Colorado,Male,2011,484
+1270,Vermont,Female,2011,0
+1271,Wyoming,Male,2011,83
+1272,Kentucky,Male,2011,515
+1273,New Mexico,Female,2011,44
+1274,District of Columbia,Female,2011,0
+1275,Texas,Male,2011,2157
+1276,Alabama,Male,2011,644
+1277,Hawaii,Male,2011,39
+1278,Virginia,Male,2011,713
+1279,Virginia,Female,2011,140
+1280,Georgia,Female,2011,215
+1281,South Dakota,Male,2011,56
+1282,Nebraska,Female,2011,20
+1283,South Dakota,Female,2011,11
+1284,Kansas,Male,2011,268
+1285,Illinois,Male,2011,1002
+1286,North Dakota,Male,2011,53
+1287,Texas,Female,2011,430
+1288,Kansas,Female,2011,56
+1289,Utah,Male,2011,246
+1290,North Dakota,Female,2011,0
+1291,Nebraska,Male,2011,141
+1292,Michigan,Male,2011,1021
+1293,Michigan,Female,2011,126
+1294,Georgia,Male,2011,1005
+1295,Alabama,Female,2011,142
+1296,Louisiana,Female,2011,143
+1297,North Carolina,Female,2011,183
+1298,North Carolina,Male,2011,970
+1299,Louisiana,Male,2011,727
+1300,Utah,Female,2011,53
+1301,Connecticut,Male,2011,193
+1302,Connecticut,Female,2011,17
+1303,Oregon,Male,2011,361
+1304,Wisconsin,Female,2011,52
+1305,Wisconsin,Male,2011,391
+1306,Arkansas,Female,2011,76
+1307,Arkansas,Male,2011,385
+1308,Idaho,Female,2011,27
+1309,New York,Female,2011,101
+1310,New York,Male,2011,886
+1311,District of Columbia,Male,2011,79
+1312,Massachusetts,Female,2011,23
+1313,Mississippi,Male,2011,432
+1314,Illinois,Female,2011,96
+1315,Maryland,Male,2011,467
+1316,Oregon,Female,2011,54
+1317,Rhode Island,Female,2011,0
+1318,Rhode Island,Male,2011,28
+1319,Mississippi,Female,2011,96
+1320,Maryland,Female,2011,55
+1321,Ohio,Male,2011,1043
+1322,Montana,Female,2011,29
+1323,Nevada,Female,2011,54
+1324,Nevada,Male,2011,311
+1325,Hawaii,Female,2011,0
+1326,Ohio,Male,2012,1061
+1327,Illinois,Female,2012,120
+1328,Alabama,Female,2012,132
+1329,Illinois,Male,2012,1049
+1330,Ohio,Female,2012,189
+1331,District of Columbia,Male,2012,61
+1332,Iowa,Female,2012,35
+1333,District of Columbia,Female,2012,0
+1334,North Carolina,Male,2012,975
+1335,New Mexico,Male,2012,276
+1336,North Carolina,Female,2012,195
+1337,Pennsylvania,Female,2012,170
+1338,Georgia,Male,2012,1031
+1339,Georgia,Female,2012,244
+1340,North Dakota,Female,2012,12
+1341,Kansas,Female,2012,47
+1342,Kansas,Male,2012,326
+1343,North Dakota,Male,2012,60
+1344,Oregon,Male,2012,363
+1345,Oregon,Female,2012,68
+1346,Rhode Island,Female,2012,0
+1347,Rhode Island,Male,2012,38
+1348,Wisconsin,Male,2012,434
+1349,Wisconsin,Female,2012,43
+1350,New York,Male,2012,892
+1351,New York,Female,2012,72
+1352,Florida,Male,2012,2027
+1353,Oklahoma,Male,2012,507
+1354,South Carolina,Male,2012,607
+1355,South Carolina,Female,2012,132
+1356,Alabama,Male,2012,700
+1357,Kentucky,Male,2012,531
+1358,Kentucky,Female,2012,116
+1359,New Mexico,Female,2012,39
+1360,Hawaii,Male,2012,46
+1361,Pennsylvania,Male,2012,1267
+1362,Indiana,Male,2012,672
+1363,Idaho,Male,2012,176
+1364,Florida,Female,2012,428
+1365,Idaho,Female,2012,28
+1366,Iowa,Male,2012,181
+1367,Indiana,Female,2012,119
+1368,Hawaii,Female,2012,0
+1369,Oklahoma,Female,2012,109
+1370,Louisiana,Male,2012,716
+1371,Michigan,Female,2012,136
+1372,Michigan,Male,2012,1078
+1373,Virginia,Female,2012,105
+1374,Texas,Male,2012,2301
+1375,Texas,Female,2012,420
+1376,Virginia,Male,2012,724
+1377,Louisiana,Female,2012,139
+1378,Wyoming,Female,2012,14
+1379,Arkansas,Male,2012,415
+1380,Alaska,Male,2012,111
+1381,Arkansas,Female,2012,70
+1382,Alaska,Female,2012,18
+1383,Maine,Male,2012,114
+1384,Maine,Female,2012,15
+1385,New Hampshire,Female,2012,18
+1386,Montana,Female,2012,24
+1387,Montana,Male,2012,144
+1388,California,Female,2012,343
+1389,Nevada,Male,2012,285
+1390,Nebraska,Male,2012,158
+1391,Nebraska,Female,2012,10
+1392,Massachusetts,Female,2012,26
+1393,Massachusetts,Male,2012,201
+1394,Colorado,Female,2012,94
+1395,Vermont,Female,2012,0
+1396,Utah,Male,2012,282
+1397,New Hampshire,Male,2012,98
+1398,Utah,Female,2012,38
+1399,Wyoming,Male,2012,103
+1400,Connecticut,Female,2012,43
+1401,Connecticut,Male,2012,185
+1402,California,Male,2012,2619
+1403,Maryland,Male,2012,519
+1404,Maryland,Female,2012,52
+1405,Nevada,Female,2012,71
+1406,Vermont,Male,2012,54
+1407,Missouri,Male,2012,764
+1408,Colorado,Male,2012,573
+1409,New Jersey,Male,2012,402
+1410,Mississippi,Male,2012,434
+1411,Mississippi,Female,2012,99
+1412,New Jersey,Female,2012,39
+1413,Tennessee,Female,2012,154
+1414,Tennessee,Male,2012,842
+1415,South Dakota,Male,2012,73
+1416,South Dakota,Female,2012,11
+1417,Minnesota,Male,2012,337
+1418,Minnesota,Female,2012,41
+1419,West Virginia,Male,2012,219
+1420,Washington,Female,2012,95
+1421,Arizona,Male,2012,780
+1422,Arizona,Female,2012,154
+1423,Missouri,Female,2012,121
+1424,Delaware,Male,2012,80
+1425,Delaware,Female,2012,12
+1426,West Virginia,Female,2012,51
+1427,Washington,Male,2012,570
+1428,Ohio,Male,2013,1106
+1429,West Virginia,Female,2013,30
+1430,California,Male,2013,2583
+1431,Iowa,Female,2013,32
+1432,Iowa,Male,2013,219
+1433,Vermont,Male,2013,49
+1434,California,Female,2013,352
+1435,Vermont,Female,2013,15
+1436,Idaho,Female,2013,36
+1437,Mississippi,Female,2013,97
+1438,West Virginia,Male,2013,243
+1439,Massachusetts,Male,2013,182
+1440,Illinois,Female,2013,122
+1441,Illinois,Male,2013,984
+1442,Pennsylvania,Female,2013,198
+1443,Pennsylvania,Male,2013,1239
+1444,North Carolina,Male,2013,1033
+1445,North Carolina,Female,2013,187
+1446,Nebraska,Female,2013,18
+1447,Nebraska,Male,2013,150
+1448,Mississippi,Male,2013,426
+1449,Massachusetts,Female,2013,18
+1450,Montana,Male,2013,135
+1451,Idaho,Male,2013,191
+1452,Indiana,Male,2013,723
+1453,Indiana,Female,2013,121
+1454,Missouri,Female,2013,123
+1455,Missouri,Male,2013,753
+1456,Arkansas,Female,2013,75
+1457,Minnesota,Female,2013,52
+1458,Minnesota,Male,2013,372
+1459,Virginia,Male,2013,716
+1460,Virginia,Female,2013,140
+1461,Washington,Female,2013,90
+1462,North Dakota,Male,2013,81
+1463,Ohio,Female,2013,174
+1464,North Dakota,Female,2013,0
+1465,Michigan,Male,2013,1039
+1466,Michigan,Female,2013,146
+1467,Oklahoma,Female,2013,117
+1468,Washington,Male,2013,525
+1469,Arizona,Male,2013,782
+1470,Oregon,Female,2013,74
+1471,Oregon,Male,2013,383
+1472,Hawaii,Male,2013,29
+1473,Hawaii,Female,2013,0
+1474,Arizona,Female,2013,147
+1475,Montana,Female,2013,30
+1476,Oklahoma,Male,2013,514
+1477,Arkansas,Male,2013,425
+1478,Colorado,Female,2013,97
+1479,Delaware,Female,2013,16
+1480,Nevada,Female,2013,66
+1481,Nevada,Male,2013,325
+1482,Alabama,Female,2013,139
+1483,Connecticut,Female,2013,0
+1484,New York,Male,2013,773
+1485,New York,Female,2013,81
+1486,Connecticut,Male,2013,149
+1487,Alaska,Male,2013,119
+1488,Alaska,Female,2013,25
+1489,Texas,Male,2013,2314
+1490,Texas,Female,2013,445
+1491,New Mexico,Female,2013,51
+1492,Delaware,Male,2013,85
+1493,Florida,Male,2013,2012
+1494,Colorado,Male,2013,514
+1495,Florida,Female,2013,412
+1496,South Carolina,Male,2013,599
+1497,South Carolina,Female,2013,138
+1498,Alabama,Male,2013,716
+1499,Maine,Male,2013,133
+1500,Maine,Female,2013,21
+1501,New Hampshire,Female,2013,0
+1502,Kentucky,Female,2013,122
+1503,Kentucky,Male,2013,499
+1504,Tennessee,Female,2013,166
+1505,Tennessee,Male,2013,864
+1506,New Mexico,Male,2013,262
+1507,Rhode Island,Male,2013,45
+1508,New Hampshire,Male,2013,85
+1509,Utah,Male,2013,285
+1510,New Jersey,Male,2013,455
+1511,District of Columbia,Female,2013,0
+1512,District of Columbia,Male,2013,64
+1513,Rhode Island,Female,2013,10
+1514,Utah,Female,2013,49
+1515,Wisconsin,Female,2013,63
+1516,Wyoming,Male,2013,89
+1517,Wyoming,Female,2013,14
+1518,Georgia,Female,2013,211
+1519,South Dakota,Male,2013,70
+1520,Georgia,Male,2013,1038
+1521,New Jersey,Female,2013,45
+1522,Kansas,Female,2013,42
+1523,Kansas,Male,2013,286
+1524,Louisiana,Female,2013,123
+1525,South Dakota,Female,2013,0
+1526,Louisiana,Male,2013,761
+1527,Maryland,Male,2013,505
+1528,Maryland,Female,2013,62
+1529,Wisconsin,Male,2013,501
+1530,West Virginia,Female,2014,52
+1531,Tennessee,Female,2014,159
+1532,Tennessee,Male,2014,857
+1533,South Dakota,Female,2014,17
+1534,South Dakota,Male,2014,69
+1535,West Virginia,Male,2014,227
+1536,Delaware,Female,2014,0
+1537,South Carolina,Male,2014,623
+1538,Illinois,Female,2014,111
+1539,Washington,Female,2014,106
+1540,Washington,Male,2014,574
+1541,District of Columbia,Female,2014,11
+1542,District of Columbia,Male,2014,70
+1543,Arizona,Male,2014,762
+1544,Arizona,Female,2014,155
+1545,Delaware,Male,2014,95
+1546,South Carolina,Female,2014,140
+1547,Colorado,Female,2014,101
+1548,Virginia,Male,2014,739
+1549,Oklahoma,Male,2014,492
+1550,Wisconsin,Female,2014,63
+1551,Wisconsin,Male,2014,419
+1552,Pennsylvania,Male,2014,1215
+1553,Pennsylvania,Female,2014,167
+1554,Georgia,Male,2014,1148
+1555,Georgia,Female,2014,238
+1556,Colorado,Male,2014,552
+1557,Utah,Male,2014,275
+1558,Utah,Female,2014,48
+1559,Alaska,Male,2014,124
+1560,Vermont,Female,2014,0
+1561,Vermont,Male,2014,61
+1562,California,Male,2014,2525
+1563,California,Female,2014,337
+1564,Alaska,Female,2014,22
+1565,Rhode Island,Female,2014,0
+1566,Rhode Island,Male,2014,29
+1567,Idaho,Male,2014,172
+1568,Idaho,Female,2014,37
+1569,Connecticut,Male,2014,171
+1570,Connecticut,Female,2014,16
+1571,Arkansas,Female,2014,92
+1572,Arkansas,Male,2014,404
+1573,Oklahoma,Female,2014,121
+1574,Virginia,Female,2014,141
+1575,Florida,Male,2014,2036
+1576,Texas,Female,2014,491
+1577,Texas,Male,2014,2342
+1578,Oregon,Male,2014,404
+1579,Hawaii,Male,2014,36
+1580,Hawaii,Female,2014,0
+1581,Florida,Female,2014,358
+1582,Illinois,Male,2014,1059
+1583,Oregon,Female,2014,77
+1584,Alabama,Male,2014,674
+1585,Louisiana,Male,2014,729
+1586,Minnesota,Male,2014,329
+1587,Minnesota,Female,2014,48
+1588,Missouri,Female,2014,133
+1589,Indiana,Female,2014,99
+1590,Indiana,Male,2014,717
+1591,Maine,Female,2014,16
+1592,North Carolina,Male,2014,982
+1593,Missouri,Male,2014,802
+1594,New York,Female,2014,78
+1595,New York,Male,2014,784
+1596,New Hampshire,Female,2014,11
+1597,North Dakota,Male,2014,88
+1598,Kansas,Female,2014,44
+1599,Wyoming,Male,2014,74
+1600,Kansas,Male,2014,276
+1601,Maryland,Male,2014,462
+1602,Maryland,Female,2014,68
+1603,Nevada,Female,2014,70
+1604,Nevada,Male,2014,351
+1605,North Dakota,Female,2014,0
+1606,Louisiana,Female,2014,163
+1607,Iowa,Female,2014,33
+1608,New Jersey,Female,2014,47
+1609,Ohio,Female,2014,158
+1610,Iowa,Male,2014,203
+1611,Mississippi,Female,2014,79
+1612,North Carolina,Female,2014,214
+1613,New Mexico,Male,2014,280
+1614,Mississippi,Male,2014,463
+1615,New Mexico,Female,2014,46
+1616,Kentucky,Female,2014,114
+1617,Kentucky,Male,2014,517
+1618,Maine,Male,2014,113
+1619,New Jersey,Male,2014,416
+1620,Nebraska,Male,2014,165
+1621,Nebraska,Female,2014,14
+1622,Massachusetts,Female,2014,28
+1623,Massachusetts,Male,2014,196
+1624,Montana,Male,2014,145
+1625,Ohio,Male,2014,1040
+1626,Wyoming,Female,2014,17
+1627,Montana,Female,2014,22
+1628,Michigan,Female,2014,139
+1629,Michigan,Male,2014,951
+1630,Alabama,Female,2014,139
+1631,New Hampshire,Male,2014,108
+1632,Texas,Male,2015,2654
+1633,North Carolina,Female,2015,195
+1634,Nevada,Female,2015,91
+1635,Maryland,Female,2015,54
+1636,Maryland,Male,2015,642
+1637,Pennsylvania,Male,2015,1293
+1638,Pennsylvania,Female,2015,182
+1639,Texas,Female,2015,534
+1640,North Carolina,Male,2015,1079
+1641,Colorado,Male,2015,589
+1642,Colorado,Female,2015,100
+1643,Utah,Female,2015,49
+1644,Utah,Male,2015,312
+1645,Iowa,Male,2015,205
+1646,South Carolina,Male,2015,691
+1647,Nevada,Male,2015,345
+1648,Connecticut,Female,2015,22
+1649,Delaware,Female,2015,16
+1650,Georgia,Male,2015,1186
+1651,South Carolina,Female,2015,154
+1652,New Mexico,Female,2015,58
+1653,New Mexico,Male,2015,315
+1654,Kentucky,Female,2015,111
+1655,Kentucky,Male,2015,574
+1656,District of Columbia,Male,2015,109
+1657,District of Columbia,Female,2015,0
+1658,South Dakota,Female,2015,13
+1659,Florida,Female,2015,374
+1660,Florida,Male,2015,2175
+1661,South Dakota,Male,2015,81
+1662,New Jersey,Male,2015,430
+1663,New Jersey,Female,2015,35
+1664,Kansas,Male,2015,277
+1665,Kansas,Female,2015,49
+1666,New York,Female,2015,70
+1667,Louisiana,Female,2015,141
+1668,Georgia,Female,2015,251
+1669,Maine,Male,2015,123
+1670,Maine,Female,2015,19
+1671,Alabama,Male,2015,783
+1672,Alabama,Female,2015,172
+1673,New Hampshire,Female,2015,21
+1674,Connecticut,Male,2015,164
+1675,New Hampshire,Male,2015,98
+1676,Tennessee,Female,2015,181
+1677,New York,Male,2015,770
+1678,Rhode Island,Female,2015,0
+1679,Rhode Island,Male,2015,46
+1680,Delaware,Male,2015,94
+1681,Louisiana,Male,2015,811
+1682,Tennessee,Male,2015,886
+1683,Alaska,Female,2015,37
+1684,Iowa,Female,2015,40
+1685,Wyoming,Male,2015,96
+1686,Vermont,Male,2015,63
+1687,North Dakota,Female,2015,12
+1688,Oklahoma,Male,2015,586
+1689,Oklahoma,Female,2015,121
+1690,North Dakota,Male,2015,80
+1691,Minnesota,Female,2015,53
+1692,Minnesota,Male,2015,350
+1693,Ohio,Male,2015,1183
+1694,Ohio,Female,2015,200
+1695,California,Male,2015,2663
+1696,Vermont,Female,2015,0
+1697,Washington,Female,2015,131
+1698,Virginia,Female,2015,150
+1699,California,Female,2015,333
+1700,Alaska,Male,2015,138
+1701,Washington,Male,2015,576
+1702,Idaho,Male,2015,208
+1703,Montana,Male,2015,165
+1704,Montana,Female,2015,37
+1705,Michigan,Female,2015,139
+1706,Michigan,Male,2015,1015
+1707,Indiana,Male,2015,712
+1708,Virginia,Male,2015,787
+1709,Arizona,Male,2015,790
+1710,Idaho,Female,2015,38
+1711,Oregon,Female,2015,76
+1712,West Virginia,Male,2015,229
+1713,West Virginia,Female,2015,42
+1714,Hawaii,Female,2015,0
+1715,Hawaii,Male,2015,51
+1716,Nebraska,Male,2015,149
+1717,Nebraska,Female,2015,19
+1718,Massachusetts,Female,2015,22
+1719,Illinois,Male,2015,1094
+1720,Massachusetts,Male,2015,183
+1721,Wisconsin,Female,2015,70
+1722,Wisconsin,Male,2015,539
+1723,Illinois,Female,2015,116
+1724,Mississippi,Female,2015,101
+1725,Mississippi,Male,2015,488
+1726,Arkansas,Female,2015,100
+1727,Arkansas,Male,2015,419
+1728,Missouri,Male,2015,934
+1729,Missouri,Female,2015,156
+1730,Arizona,Female,2015,167
+1731,Wyoming,Female,2015,17
+1732,Oregon,Male,2015,399
+1733,Indiana,Female,2015,124
+1734,Missouri,Male,2016,955
+1735,Missouri,Female,2016,180
+1736,Utah,Male,2016,309
+1737,New Jersey,Female,2016,45
+1738,Washington,Male,2016,571
+1739,Mississippi,Female,2016,105
+1740,Mississippi,Male,2016,477
+1741,Minnesota,Male,2016,367
+1742,District of Columbia,Male,2016,97
+1743,District of Columbia,Female,2016,0
+1744,Minnesota,Female,2016,56
+1745,Washington,Female,2016,97
+1746,Kentucky,Female,2016,139
+1747,New Jersey,Male,2016,437
+1748,Wyoming,Male,2016,86
+1749,Arizona,Female,2016,185
+1750,Arizona,Male,2016,897
+1751,South Dakota,Female,2016,17
+1752,South Dakota,Male,2016,86
+1753,Kentucky,Male,2016,621
+1754,Louisiana,Female,2016,162
+1755,Michigan,Male,2016,1065
+1756,Delaware,Male,2016,98
+1757,Texas,Female,2016,571
+1758,Texas,Male,2016,2753
+1759,Wyoming,Female,2016,16
+1760,California,Female,2016,362
+1761,California,Male,2016,2757
+1762,Alaska,Male,2016,136
+1763,Alaska,Female,2016,35
+1764,Vermont,Female,2016,0
+1765,Massachusetts,Male,2016,217
+1766,Maryland,Female,2016,68
+1767,Maryland,Male,2016,622
+1768,Colorado,Male,2016,668
+1769,Colorado,Female,2016,126
+1770,Nebraska,Male,2016,146
+1771,Nebraska,Female,2016,18
+1772,Utah,Female,2016,54
+1773,Massachusetts,Female,2016,14
+1774,Louisiana,Male,2016,823
+1775,Nevada,Female,2016,80
+1776,Vermont,Male,2016,71
+1777,Delaware,Female,2016,14
+1778,New Hampshire,Male,2016,115
+1779,Arkansas,Female,2016,102
+1780,Arkansas,Male,2016,433
+1781,New Hampshire,Female,2016,16
+1782,Virginia,Male,2016,875
+1783,Virginia,Female,2016,163
+1784,Nevada,Male,2016,409
+1785,Tennessee,Female,2016,186
+1786,Michigan,Female,2016,162
+1787,Montana,Female,2016,31
+1788,Maine,Female,2016,11
+1789,Montana,Male,2016,160
+1790,Maine,Male,2016,111
+1791,Connecticut,Male,2016,155
+1792,Connecticut,Female,2016,15
+1793,Tennessee,Male,2016,959
+1794,South Carolina,Male,2016,736
+1795,West Virginia,Male,2016,268
+1796,Oklahoma,Male,2016,654
+1797,Oklahoma,Female,2016,114
+1798,Alabama,Male,2016,857
+1799,Pennsylvania,Female,2016,187
+1800,North Carolina,Female,2016,257
+1801,North Carolina,Male,2016,1130
+1802,Georgia,Male,2016,1317
+1803,Hawaii,Male,2016,51
+1804,Hawaii,Female,2016,13
+1805,Florida,Female,2016,457
+1806,Wisconsin,Male,2016,573
+1807,Rhode Island,Male,2016,42
+1808,New York,Male,2016,801
+1809,New York,Female,2016,87
+1810,Rhode Island,Female,2016,0
+1811,Idaho,Male,2016,197
+1812,Idaho,Female,2016,39
+1813,Indiana,Female,2016,146
+1814,Pennsylvania,Male,2016,1354
+1815,Indiana,Male,2016,840
+1816,West Virginia,Female,2016,53
+1817,North Dakota,Male,2016,76
+1818,South Carolina,Female,2016,151
+1819,Illinois,Male,2016,1340
+1820,Illinois,Female,2016,137
+1821,Oregon,Male,2016,426
+1822,Oregon,Female,2016,77
+1823,New Mexico,Female,2016,71
+1824,New Mexico,Male,2016,296
+1825,Wisconsin,Female,2016,83
+1826,Georgia,Female,2016,242
+1827,Iowa,Male,2016,259
+1828,Iowa,Female,2016,31
+1829,Florida,Male,2016,2236
+1830,Ohio,Male,2016,1292
+1831,Ohio,Female,2016,220
+1832,North Dakota,Female,2016,14
+1833,Alabama,Female,2016,180
+1834,Kansas,Female,2016,50
+1835,Kansas,Male,2016,332
+1836,Utah,Female,2017,68
+1837,South Carolina,Female,2017,150
+1838,Hawaii,Female,2017,0
+1839,Hawaii,Male,2017,31
+1840,Massachusetts,Female,2017,24
+1841,Utah,Male,2017,336
+1842,Alabama,Male,2017,937
+1843,North Carolina,Male,2017,1211
+1844,Nebraska,Female,2017,19
+1845,Georgia,Female,2017,265
+1846,Georgia,Male,2017,1340
+1847,Nevada,Male,2017,399
+1848,Nevada,Female,2017,96
+1849,Iowa,Female,2017,23
+1850,Texas,Female,2017,571
+1851,Texas,Male,2017,2913
+1852,Pennsylvania,Male,2017,1386
+1853,Pennsylvania,Female,2017,229
+1854,Maryland,Female,2017,63
+1855,Maryland,Male,2017,670
+1856,Colorado,Male,2017,655
+1857,Colorado,Female,2017,109
+1858,North Carolina,Female,2017,206
+1859,Nebraska,Male,2017,145
+1860,Alabama,Female,2017,185
+1861,California,Male,2017,2729
+1862,Vermont,Female,2017,13
+1863,Oregon,Male,2017,436
+1864,Missouri,Male,2017,1118
+1865,Missouri,Female,2017,184
+1866,Oklahoma,Male,2017,554
+1867,Oklahoma,Female,2017,131
+1868,Wyoming,Male,2017,100
+1869,Washington,Female,2017,116
+1870,Washington,Male,2017,703
+1871,Arizona,Male,2017,943
+1872,Wyoming,Female,2017,12
+1873,Arizona,Female,2017,181
+1874,Ohio,Male,2017,1355
+1875,Minnesota,Female,2017,47
+1876,Minnesota,Male,2017,410
+1877,Mississippi,Male,2017,531
+1878,West Virginia,Male,2017,283
+1879,West Virginia,Female,2017,62
+1880,Mississippi,Female,2017,95
+1881,Illinois,Female,2017,156
+1882,Ohio,Female,2017,214
+1883,California,Female,2017,376
+1884,Wisconsin,Male,2017,533
+1885,Virginia,Female,2017,171
+1886,Oregon,Female,2017,83
+1887,Massachusetts,Male,2017,234
+1888,Indiana,Male,2017,869
+1889,Indiana,Female,2017,142
+1890,Vermont,Male,2017,57
+1891,Alaska,Female,2017,29
+1892,Alaska,Male,2017,146
+1893,Wisconsin,Female,2017,78
+1894,Virginia,Male,2017,858
+1895,Montana,Male,2017,194
+1896,North Dakota,Female,2017,12
+1897,North Dakota,Male,2017,90
+1898,Arkansas,Male,2017,497
+1899,Arkansas,Female,2017,112
+1900,Michigan,Female,2017,138
+1901,Michigan,Male,2017,995
+1902,Idaho,Female,2017,37
+1903,Idaho,Male,2017,241
+1904,Montana,Female,2017,44
+1905,Connecticut,Female,2017,21
+1906,Illinois,Male,2017,1380
+1907,Rhode Island,Male,2017,42
+1908,Kentucky,Male,2017,608
+1909,South Dakota,Male,2017,89
+1910,Tennessee,Male,2017,1033
+1911,New Jersey,Male,2017,403
+1912,District of Columbia,Female,2017,0
+1913,District of Columbia,Male,2017,90
+1914,Connecticut,Male,2017,164
+1915,Florida,Male,2017,2283
+1916,Louisiana,Male,2017,842
+1917,Louisiana,Female,2017,158
+1918,South Dakota,Female,2017,0
+1919,Iowa,Male,2017,269
+1920,Florida,Female,2017,428
+1921,Kentucky,Female,2017,115
+1922,Kansas,Female,2017,70
+1923,Maine,Female,2017,23
+1924,South Carolina,Male,2017,741
+1925,Delaware,Female,2017,13
+1926,Delaware,Male,2017,95
+1927,New Jersey,Female,2017,68
+1928,Kansas,Male,2017,395
+1929,New Hampshire,Male,2017,125
+1930,New York,Female,2017,66
+1931,New Mexico,Male,2017,323
+1932,New York,Male,2017,691
+1933,Rhode Island,Female,2017,0
+1934,Tennessee,Female,2017,200
+1935,New Hampshire,Female,2017,19
+1936,Maine,Male,2017,143
+1937,New Mexico,Female,2017,54
+1938,Arkansas,Female,2018,93
+1939,Arkansas,Male,2018,468
+1940,Alaska,Male,2018,123
+1941,Montana,Female,2018,28
+1942,Alabama,Male,2018,889
+1943,Delaware,Female,2018,16
+1944,Massachusetts,Female,2018,22
+1945,Massachusetts,Male,2018,234
+1946,Delaware,Male,2018,91
+1947,Indiana,Female,2018,172
+1948,Rhode Island,Female,2018,0
+1949,Rhode Island,Male,2018,34
+1950,Vermont,Female,2018,13
+1951,Vermont,Male,2018,68
+1952,Florida,Male,2018,2455
+1953,Florida,Female,2018,429
+1954,South Dakota,Male,2018,100
+1955,South Dakota,Female,2018,14
+1956,North Dakota,Female,2018,14
+1957,North Dakota,Male,2018,75
+1958,Alaska,Female,2018,28
+1959,New Jersey,Female,2018,39
+1960,Connecticut,Female,2018,21
+1961,Michigan,Female,2018,189
+1962,Washington,Male,2018,669
+1963,West Virginia,Male,2018,276
+1964,West Virginia,Female,2018,63
+1965,District of Columbia,Female,2018,11
+1966,District of Columbia,Male,2018,114
+1967,Wisconsin,Male,2018,528
+1968,New Mexico,Male,2018,357
+1969,Washington,Female,2018,120
+1970,New Mexico,Female,2018,65
+1971,Mississippi,Male,2018,554
+1972,Mississippi,Female,2018,121
+1973,Ohio,Female,2018,226
+1974,Ohio,Male,2018,1314
+1975,South Carolina,Male,2018,750
+1976,Minnesota,Male,2018,398
+1977,South Carolina,Female,2018,141
+1978,Minnesota,Female,2018,29
+1979,New Jersey,Male,2018,379
+1980,Illinois,Female,2018,160
+1981,Wyoming,Male,2018,96
+1982,Michigan,Male,2018,1116
+1983,Idaho,Female,2018,51
+1984,Idaho,Male,2018,236
+1985,Virginia,Male,2018,864
+1986,Kentucky,Male,2018,641
+1987,Wisconsin,Female,2018,58
+1988,Oklahoma,Male,2018,556
+1989,Illinois,Male,2018,1216
+1990,Kentucky,Female,2018,116
+1991,Missouri,Female,2018,221
+1992,Oklahoma,Female,2018,109
+1993,Kansas,Female,2018,60
+1994,Kansas,Male,2018,364
+1995,Arizona,Male,2018,971
+1996,Arizona,Female,2018,151
+1997,Wyoming,Female,2018,27
+1998,Missouri,Male,2018,1082
+1999,Virginia,Female,2018,167
+2000,Montana,Male,2018,154
+2001,California,Male,2018,2607
+2002,New Hampshire,Male,2018,129
+2003,New Hampshire,Female,2018,21
+2004,Nebraska,Female,2018,21
+2005,Nebraska,Male,2018,161
+2006,North Carolina,Male,2018,1175
+2007,North Carolina,Female,2018,225
+2008,New York,Female,2018,89
+2009,Colorado,Female,2018,128
+2010,Colorado,Male,2018,739
+2011,California,Female,2018,359
+2012,Maryland,Female,2018,82
+2013,Tennessee,Female,2018,207
+2014,Tennessee,Male,2018,1014
+2015,New York,Male,2018,724
+2016,Pennsylvania,Female,2018,210
+2017,Pennsylvania,Male,2018,1428
+2018,Texas,Male,2018,2939
+2019,Texas,Female,2018,550
+2020,Iowa,Male,2018,252
+2021,Iowa,Female,2018,29
+2022,Georgia,Male,2018,1372
+2023,Nevada,Female,2018,99
+2024,Nevada,Male,2018,435
+2025,Maine,Male,2018,139
+2026,Maine,Female,2018,18
+2027,Georgia,Female,2018,287
+2028,Connecticut,Male,2018,163
+2029,Utah,Female,2018,54
+2030,Utah,Male,2018,325
+2031,Maryland,Male,2018,615
+2032,Alabama,Female,2018,175
+2033,Hawaii,Male,2018,43
+2034,Hawaii,Female,2018,10
+2035,Louisiana,Female,2018,150
+2036,Louisiana,Male,2018,838
+2037,Indiana,Male,2018,797
+2038,Oregon,Female,2018,79
+2039,Oregon,Male,2018,425
+2040,Ohio,Female,2019,214
+2041,Georgia,Male,2019,1412
+2042,Wisconsin,Male,2019,503
+2043,Delaware,Male,2019,79
+2044,Iowa,Female,2019,34
+2045,Washington,Male,2019,696
+2046,Washington,Female,2019,121
+2047,Iowa,Male,2019,256
+2048,Montana,Male,2019,163
+2049,Oregon,Female,2019,86
+2050,Texas,Female,2019,570
+2051,Idaho,Male,2019,208
+2052,Idaho,Female,2019,40
+2053,Texas,Male,2019,3067
+2054,Pennsylvania,Male,2019,1354
+2055,Illinois,Female,2019,159
+2056,New Mexico,Female,2019,71
+2057,Illinois,Male,2019,1209
+2058,Pennsylvania,Female,2019,180
+2059,Oregon,Male,2019,469
+2060,New Mexico,Male,2019,386
+2061,Alabama,Male,2019,889
+2062,Georgia,Female,2019,276
+2063,Wisconsin,Female,2019,87
+2064,District of Columbia,Female,2019,0
+2065,District of Columbia,Male,2019,131
+2066,California,Male,2019,2530
+2067,Massachusetts,Female,2019,29
+2068,South Carolina,Female,2019,156
+2069,Connecticut,Male,2019,171
+2070,Minnesota,Female,2019,55
+2071,Alaska,Female,2019,31
+2072,Alaska,Male,2019,145
+2073,South Carolina,Male,2019,853
+2074,Maine,Female,2019,16
+2075,Maine,Male,2019,144
+2076,Ohio,Male,2019,1357
+2077,Nevada,Male,2019,404
+2078,Mississippi,Female,2019,118
+2079,Mississippi,Male,2019,589
+2080,Wyoming,Male,2019,112
+2081,Wyoming,Female,2019,20
+2082,Massachusetts,Male,2019,213
+2083,Minnesota,Male,2019,400
+2084,Connecticut,Female,2019,15
+2085,Kansas,Male,2019,349
+2086,Delaware,Female,2019,12
+2087,California,Female,2019,345
+2088,Nevada,Female,2019,75
+2089,Kansas,Female,2019,50
+2090,Utah,Male,2019,334
+2091,New York,Male,2019,721
+2092,Kentucky,Male,2019,571
+2093,New Jersey,Male,2019,331
+2094,New Jersey,Female,2019,37
+2095,Michigan,Female,2019,160
+2096,Maryland,Female,2019,64
+2097,Maryland,Male,2019,676
+2098,North Carolina,Female,2019,200
+2099,Nebraska,Male,2019,179
+2100,Nebraska,Female,2019,23
+2101,South Dakota,Male,2019,103
+2102,Montana,Female,2019,40
+2103,Kentucky,Female,2019,107
+2104,North Carolina,Male,2019,1176
+2105,New Hampshire,Female,2019,22
+2106,New Hampshire,Male,2019,132
+2107,Arkansas,Female,2019,95
+2108,Arkansas,Male,2019,478
+2109,Louisiana,Male,2019,857
+2110,Louisiana,Female,2019,155
+2111,South Dakota,Female,2019,0
+2112,North Dakota,Male,2019,80
+2113,North Dakota,Female,2019,15
+2114,Indiana,Female,2019,125
+2115,Utah,Female,2019,55
+2116,Alabama,Female,2019,183
+2117,Indiana,Male,2019,830
+2118,Rhode Island,Female,2019,10
+2119,Vermont,Male,2019,59
+2120,Arizona,Female,2019,181
+2121,Arizona,Male,2019,943
+2122,West Virginia,Female,2019,56
+2123,West Virginia,Male,2019,238
+2124,New York,Female,2019,73
+2125,Rhode Island,Male,2019,38
+2126,Tennessee,Male,2019,1037
+2127,Tennessee,Female,2019,221
+2128,Florida,Male,2019,2409
+2129,Florida,Female,2019,443
+2130,Missouri,Female,2019,198
+2131,Hawaii,Male,2019,50
+2132,Hawaii,Female,2019,0
+2133,Colorado,Male,2019,695
+2134,Michigan,Male,2019,1055
+2135,Oklahoma,Female,2019,112
+2136,Oklahoma,Male,2019,627
+2137,Colorado,Female,2019,133
+2138,Vermont,Female,2019,0
+2139,Virginia,Male,2019,857
+2140,Virginia,Female,2019,163
+2141,Missouri,Male,2019,1049
+2142,Alabama,Male,2020,959
+2143,Wisconsin,Female,2020,87
+2144,Wisconsin,Male,2020,624
+2145,West Virginia,Female,2020,51
+2146,West Virginia,Male,2020,269
+2147,Alabama,Female,2020,177
+2148,Minnesota,Female,2020,55
+2149,Alaska,Male,2020,140
+2150,New Jersey,Male,2020,394
+2151,Kentucky,Male,2020,753
+2152,Kentucky,Female,2020,139
+2153,New Mexico,Female,2020,69
+2154,New Mexico,Male,2020,398
+2155,Kansas,Male,2020,423
+2156,Kansas,Female,2020,68
+2157,New York,Female,2020,87
+2158,New York,Male,2020,952
+2159,New Jersey,Female,2020,48
+2160,Iowa,Male,2020,308
+2161,North Carolina,Female,2020,256
+2162,North Carolina,Male,2020,1424
+2163,Indiana,Male,2020,975
+2164,Indiana,Female,2020,169
+2165,North Dakota,Female,2020,15
+2166,North Dakota,Male,2020,84
+2167,Illinois,Male,2020,1570
+2168,Illinois,Female,2020,170
+2169,Ohio,Female,2020,242
+2170,Iowa,Female,2020,44
+2171,Ohio,Male,2020,1512
+2172,Louisiana,Female,2020,166
+2173,New Hampshire,Male,2020,97
+2174,Mississippi,Female,2020,125
+2175,Mississippi,Male,2020,690
+2176,Michigan,Male,2020,1246
+2177,Michigan,Female,2020,204
+2178,Wyoming,Female,2020,21
+2179,Missouri,Female,2020,225
+2180,Missouri,Male,2020,1197
+2181,Montana,Female,2020,30
+2182,Montana,Male,2020,200
+2183,Louisiana,Male,2020,1013
+2184,Massachusetts,Male,2020,245
+2185,Nebraska,Female,2020,15
+2186,Nebraska,Male,2020,181
+2187,Maryland,Male,2020,706
+2188,Maryland,Female,2020,91
+2189,Nevada,Female,2020,73
+2190,Nevada,Male,2020,456
+2191,Maine,Male,2020,130
+2192,Maine,Female,2020,20
+2193,New Hampshire,Female,2020,27
+2194,Massachusetts,Female,2020,24
+2195,Alaska,Female,2020,30
+2196,Idaho,Male,2020,268
+2197,Oklahoma,Female,2020,129
+2198,Connecticut,Male,2020,190
+2199,Connecticut,Female,2020,24
+2200,Texas,Female,2020,648
+2201,Texas,Male,2020,3474
+2202,Colorado,Male,2020,781
+2203,Colorado,Female,2020,120
+2204,Utah,Female,2020,60
+2205,Utah,Male,2020,357
+2206,California,Male,2020,2963
+2207,Tennessee,Male,2020,1237
+2208,California,Female,2020,400
+2209,Vermont,Male,2020,68
+2210,Arkansas,Male,2020,561
+2211,Arkansas,Female,2020,109
+2212,Virginia,Female,2020,174
+2213,Virginia,Male,2020,995
+2214,Arizona,Male,2020,1047
+2215,Arizona,Female,2020,191
+2216,Washington,Female,2020,120
+2217,Washington,Male,2020,721
+2218,Vermont,Female,2020,0
+2219,Idaho,Female,2020,44
+2220,Tennessee,Female,2020,222
+2221,Delaware,Male,2020,119
+2222,Oklahoma,Male,2020,697
+2223,Hawaii,Male,2020,45
+2224,Hawaii,Female,2020,0
+2225,Minnesota,Male,2020,450
+2226,Oregon,Female,2020,82
+2227,Oregon,Male,2020,494
+2228,Pennsylvania,Female,2020,198
+2229,Pennsylvania,Male,2020,1539
+2230,Georgia,Male,2020,1590
+2231,Delaware,Female,2020,15
+2232,Georgia,Female,2020,285
+2233,Rhode Island,Male,2020,48
+2234,Florida,Male,2020,2521
+2235,Florida,Female,2020,475
+2236,South Carolina,Female,2020,155
+2237,South Carolina,Male,2020,971
+2238,District of Columbia,Male,2020,145
+2239,District of Columbia,Female,2020,22
+2240,South Dakota,Female,2020,15
+2241,South Dakota,Male,2020,103
+2242,Rhode Island,Female,2020,0
+2243,Wyoming,Male,2020,130
