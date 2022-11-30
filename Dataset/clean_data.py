@@ -13,7 +13,7 @@ Df = Df.rename(columns={'Yearly July 1st Estimates': 'Year'})
 Df = Df.sort_values(by='Year')
 Df = Df.reset_index(drop=True)
 
-Df.to_csv('Single-Race Population Estimates 2010-2019.csv')
+Df.to_csv('Single-Race Population Estimates 2010-2019.csv', index=False)
 
 ###  Multiple Cause of Death, 1999-2020 ###
 
@@ -32,4 +32,4 @@ for i in range(Df['Deaths'].size):
     if Df.at[i,'Deaths'] == 'Suppressed':
         Df.at[i,'Deaths'] = 0
 
-Df.to_csv('Multiple Cause of Death, 1999-2020.csv')
+Df.to_csv('Multiple Cause of Death, 1999-2020.csv', index=False)
