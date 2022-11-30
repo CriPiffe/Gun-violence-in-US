@@ -8,9 +8,9 @@ import numpy as np
 Df = pd.read_csv('https://raw.githubusercontent.com/CriPiffe/Gun-violence-in-US/main/Dataset/Single-Race%20Population%20Estimates%202010-2019.txt', sep="\t")
 
 #Delete useless columns and rename
-Df = Df[['State', 'Gender', 'Ethnicity', 'Race', 'Yearly July 1st Estimates', 'Population']]
+Df = Df[['State', 'Gender', 'Race', 'Yearly July 1st Estimates', 'Population']]
 Df = Df.rename(columns={'Yearly July 1st Estimates': 'Year'})
-Df= Df.sort_values(by='Year')
+Df = Df.sort_values(by='Year')
 Df = Df.reset_index(drop=True)
 
 Df.to_csv('Single-Race Population Estimates 2010-2019.csv')
